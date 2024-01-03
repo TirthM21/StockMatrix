@@ -1,27 +1,42 @@
-import React from "react";
+import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
+import { sendEmailLoginVerify } from "../../api/email";
 
-const MutualFundWidget = ({ name, oneYear, fiveYear, titleText, valText }) => {
-  return (
-    <>
-      <div className="flex justify-between items-center p-4 border">
-        <div>
-          <h2 className={`${titleText} font-bold`}>{name.substring(0, 20)}...</h2>
-        </div>
-        <div className="flex justify-evenly items-center w-[40%]">
-          {oneYear > 0 ? (
-            <p className={`${valText} me-2 text-green-500 font-semibold text-xs`}>{oneYear}%</p>
-          ) : (
-            <p className={`${valText} me-2 text-red-500 font-semibold text-xs`}>{oneYear}%</p>
-          )}
-          {fiveYear > 0 ? (
-            <p className={`${valText} me-2 text-green-500 font-semibold text-xs`}>{fiveYear}%</p>
-          ) : (
-            <p className={`${valText} me-2 text-red-500 font-semibold text-xs`}>{fiveYear}%</p>
-          )}
-        </div>
-      </div>
-    </>
-  );
+let initialState = {
+  isSuccess: false,
+  isLoading: false,
+  isError: false,
 };
 
-export default MutualFundWidget;
+export const sendEmailLoginThunk = createAsyncThunk(
+  "sendEmailLogin/verify",
+  async (id) => {
+    try {
+      let res = await sendEmailLoginVerify(id);
+      return res;
+    } catch (err) {
+      return err;
+    }
+  }
+);
+
+const sendLoginEmailSlice = createSlice({
+  name: "sendEmailLogin",
+  initialState,
+  reducers: {},
+  extraReducers: (build) => {
+    build
+      .addCase(sendEmailLoginThunk.pending, (state) => {
+        state.isLoading = true;
+      })
+      .addCase(sendEmailLoginThunk.fulfilled, (state) => {
+        state.isLoading = false;
+        state.isSuccess = true;
+      })
+      .addCase(sendEmailLoginThunk.rejected, (state) => {
+        state.isLoading = false;
+        state.isError = true;
+      });
+  },
+});
+
+export default sendLoginEmailSlice.reducer;
