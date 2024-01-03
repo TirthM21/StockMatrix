@@ -1,0 +1,777 @@
+[
+    {
+      "symbol": "0P0001FTM8",
+      "fund": "HSBC Fixed Term Series 139 Regular Growth",
+      "return_one_year": 3.9206499999999997,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000XW9A",
+      "fund": "HSBC Large Cap Equity Fund - Growth Direct",
+      "return_one_year": 26.520148,
+      "return_five_year": 11.81837
+    },
+    {
+      "symbol": "0P0001BA9S",
+      "fund": "HSBC Large Cap Equity Fund Dividend Reinvestment",
+      "return_one_year": 14.640329999999999,
+      "return_five_year": 7.01499
+    },
+    {
+      "symbol": "0P00005WNT",
+      "fund": "HSBC Large Cap Equity Fund Growth",
+      "return_one_year": 25.323352,
+      "return_five_year": 10.80834
+    },
+    {
+      "symbol": "0P0001BA9R",
+      "fund": "HSBC Large Cap Equity Fund Direct Dividend Reinvestment",
+      "return_one_year": 15.008830000000001,
+      "return_five_year": 7.52278
+    },
+    {
+      "symbol": "0P00005WNR",
+      "fund": "HSBC Large Cap Equity Fund Dividend Payout",
+      "return_one_year": 14.640329999999999,
+      "return_five_year": 7.01499
+    },
+    {
+      "symbol": "0P0000XW99",
+      "fund": "HSBC Large Cap Equity Fund Direct Dividend Payout",
+      "return_one_year": 15.008830000000001,
+      "return_five_year": 7.52278
+    },
+    {
+      "symbol": "0P0000SEL3",
+      "fund": "Canara HSBC Oriental Bank of Commerce Life - Unit Linked Equity Fund",
+      "return_one_year": 23.721609,
+      "return_five_year": 9.3849294
+    },
+    {
+      "symbol": "0P0001HHJP",
+      "fund": "HSBC Overnight Fund Regular Mon",
+      "return_one_year": 5.3446397,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001HHJE",
+      "fund": "HSBC Overnight Fund Direct Growth",
+      "return_one_year": 6.05165,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001HHJF",
+      "fund": "HSBC Overnight Fund Direct Week",
+      "return_one_year": 5.82422,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001HHJK",
+      "fund": "HSBC Overnight Fund Regular Growth",
+      "return_one_year": 5.91655,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001HHJH",
+      "fund": "HSBC Overnight Fund Direct Daily Dividend Reinvestment",
+      "return_one_year": 6.0954798,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001HHJN",
+      "fund": "HSBC Overnight Fund Regular Daily Dividend Reinvestment",
+      "return_one_year": 5.8758203,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001HHJI",
+      "fund": "HSBC Overnight Fund Direct Week",
+      "return_one_year": 5.82422,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001HHJM",
+      "fund": "HSBC Overnight Fund Regular Mon",
+      "return_one_year": 5.3446397,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001HHJL",
+      "fund": "HSBC Overnight Fund Regular Weekly Dividend Payout",
+      "return_one_year": 5.68874,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000SELB",
+      "fund": "Canara HSBC Oriental Bank of Commerce Life - Unit Linked Growth Plus Fund",
+      "return_one_year": 20.465510000000002,
+      "return_five_year": 8.304499999999999
+    },
+    {
+      "symbol": "0P0000SELC",
+      "fund": "Canara HSBC Oriental Bank of Commerce Life - Unit Linked Debt Plus Fund",
+      "return_one_year": 7.77109,
+      "return_five_year": 7.47587
+    },
+    {
+      "symbol": "0P0001H278",
+      "fund": "HSBC Large and Mid Cap Equity Fund Regular Dividend Reinvestment",
+      "return_one_year": 18.04984,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001H273",
+      "fund": "HSBC Large and Mid Cap Equity Fund Direct Growth",
+      "return_one_year": 31.08279,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001H276",
+      "fund": "HSBC Large and Mid Cap Equity Fund Regular Growth",
+      "return_one_year": 29.2979,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001H277",
+      "fund": "HSBC Large and Mid Cap Equity Fund Regular Dividend Payout",
+      "return_one_year": 18.04984,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001H275",
+      "fund": "HSBC Large and Mid Cap Equity Fund Direct Dividend Reinvestment",
+      "return_one_year": 20.34569,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001H274",
+      "fund": "HSBC Large and Mid Cap Equity Fund Direct Dividend Payout",
+      "return_one_year": 20.34569,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001EPA0",
+      "fund": "HSBC Equity Hybrid Fund Regular Dividend Reinvestment",
+      "return_one_year": -8.55079,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001EPA1",
+      "fund": "HSBC Equity Hybrid Fund Regular Growth",
+      "return_one_year": -0.41275,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001EP9Z",
+      "fund": "HSBC Equity Hybrid Fund Regular Dividend Payout",
+      "return_one_year": -8.55079,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001EP9W",
+      "fund": "HSBC Equity Hybrid Fund Direct Dividend Payout",
+      "return_one_year": -7.15374,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001EP9X",
+      "fund": "HSBC Equity Hybrid Fund Direct Dividend Reinvestment",
+      "return_one_year": -7.15374,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001EP9Y",
+      "fund": "HSBC Equity Hybrid Fund Direct Growth",
+      "return_one_year": 1.0798399,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000SEL4",
+      "fund": "Canara HSBC Oriental Bank of Commerce Life - Unit Linked Debt Fund",
+      "return_one_year": 8.5404396,
+      "return_five_year": 8.26605
+    },
+    {
+      "symbol": "0P0001BAA7",
+      "fund": "HSBC Multi Cap Equity Fund - Dividend",
+      "return_one_year": 15.02668,
+      "return_five_year": 7.66669
+    },
+    {
+      "symbol": "0P00005V18",
+      "fund": "HSBC Multi Cap Equity Fund - Growth",
+      "return_one_year": 26.06654,
+      "return_five_year": 9.86149
+    },
+    {
+      "symbol": "0P0001BAA6",
+      "fund": "HSBC Multi Cap Equity Fund Dividend Reinvestment Direct",
+      "return_one_year": 24.84847,
+      "return_five_year": 8.106711
+    },
+    {
+      "symbol": "0P00005V17",
+      "fund": "HSBC Multi Cap Equity Fund Dividend Payout",
+      "return_one_year": 15.02668,
+      "return_five_year": 7.66669
+    },
+    {
+      "symbol": "0P0000XW9L",
+      "fund": "HSBC Multi Cap Equity Fund Growth Direct",
+      "return_one_year": 27.353638000000004,
+      "return_five_year": 11.030199999999999
+    },
+    {
+      "symbol": "0P0000XW9K",
+      "fund": "HSBC Multi Cap Equity Fund Dividend Payout Direct",
+      "return_one_year": 24.84847,
+      "return_five_year": 8.106711
+    },
+    {
+      "symbol": "0P0000SEL7",
+      "fund": "Canara HSBC Oriental Bank of Commerce Life - Unit Linked Liquid Fund",
+      "return_one_year": 5.04909,
+      "return_five_year": 2.9209299
+    },
+    {
+      "symbol": "0P0001BAAG",
+      "fund": "HSBC Small Cap Equity Fund Dividend",
+      "return_one_year": -10.08295,
+      "return_five_year": 4.4064
+    },
+    {
+      "symbol": "0P0000XW9M",
+      "fund": "HSBC Small Cap Equity Fund Direct Dividend Payout",
+      "return_one_year": -15.59245,
+      "return_five_year": 4.318890000000001
+    },
+    {
+      "symbol": "0P0001BAAF",
+      "fund": "HSBC Small Cap Equity Fund Direct Dividend Reinvestment",
+      "return_one_year": -15.59245,
+      "return_five_year": 4.318890000000001
+    },
+    {
+      "symbol": "0P0000XW9N",
+      "fund": "HSBC Small Cap Equity Fund Direct Growth",
+      "return_one_year": -8.76019,
+      "return_five_year": 7.6312095
+    },
+    {
+      "symbol": "0P00005WOX",
+      "fund": "HSBC Small Cap Equity Fund Dividend Payout",
+      "return_one_year": -10.08295,
+      "return_five_year": 4.4064
+    },
+    {
+      "symbol": "0P00005WOY",
+      "fund": "HSBC Small Cap Equity Fund Growth",
+      "return_one_year": -10.0828506,
+      "return_five_year": 6.31389
+    },
+    {
+      "symbol": "0P0000XW9J",
+      "fund": "HSBC Short Duration fund Direct Growth",
+      "return_one_year": 3.00896,
+      "return_five_year": 4.0612403
+    },
+    {
+      "symbol": "0P00005WOV",
+      "fund": "HSBC Short Duration fund Growth",
+      "return_one_year": 2.46453,
+      "return_five_year": 3.1449900000000004
+    },
+    {
+      "symbol": "0P0000Y4IG",
+      "fund": "HSBC Short Duration fund Weekly Dividend Reinvestment Direct",
+      "return_one_year": 2.6289797999999998,
+      "return_five_year": 3.10798
+    },
+    {
+      "symbol": "0P00019CDJ",
+      "fund": "HSBC Short Duration fund Quarterly Dividend Payout",
+      "return_one_year": 0.7272300300000001,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P00009N0B",
+      "fund": "HSBC Short Duration fund Weekly Dividend Reinvestment",
+      "return_one_year": 2.2163,
+      "return_five_year": 2.36375
+    },
+    {
+      "symbol": "0P0000Y1DV",
+      "fund": "HSBC Short Duration fund Direct Dividend Payout",
+      "return_one_year": 1.35830995,
+      "return_five_year": 3.14273
+    },
+    {
+      "symbol": "0P00005WOW",
+      "fund": "HSBC Short Duration fund Dividend Payout",
+      "return_one_year": 0.9808999500000001,
+      "return_five_year": 2.0262599
+    },
+    {
+      "symbol": "0P0001BAA4",
+      "fund": "HSBC Short Duration fund Dividend Reinvestment",
+      "return_one_year": 0.9808999500000001,
+      "return_five_year": 2.0262599
+    },
+    {
+      "symbol": "0P0001BAA3",
+      "fund": "HSBC Short Duration fund Direct Dividend Reinvestment",
+      "return_one_year": 1.35830995,
+      "return_five_year": 3.14273
+    },
+    {
+      "symbol": "0P0000SEL5",
+      "fund": "Canara HSBC Oriental Bank of Commerce Life - Unit Linked Balanced Fund",
+      "return_one_year": 15.640299999999998,
+      "return_five_year": 7.7888
+    },
+    {
+      "symbol": "0P0000SEL8",
+      "fund": "Canara HSBC Oriental Bank of Commerce Life - Unit Linked Balanced II Fund",
+      "return_one_year": 15.88524,
+      "return_five_year": 7.898290500000001
+    },
+    {
+      "symbol": "0P00013DVU",
+      "fund": "HSBC Low Duration Fund Monthly Dividend Payout Direct",
+      "return_one_year": -0.22633000000000003,
+      "return_five_year": 0.30512
+    },
+    {
+      "symbol": "0P0000YBRX",
+      "fund": "HSBC Low Duration Fund Direct Growth",
+      "return_one_year": 4.0220097,
+      "return_five_year": 3.51733
+    },
+    {
+      "symbol": "0P00009JGN",
+      "fund": "HSBC Low Duration Fund Regular Daily Dividend Reinvestment",
+      "return_one_year": 1.10034,
+      "return_five_year": 1.47894
+    },
+    {
+      "symbol": "0P00009JGU",
+      "fund": "HSBC Low Duration Fund Monthly Dividend Payout",
+      "return_one_year": 1.94988,
+      "return_five_year": 1.53809
+    },
+    {
+      "symbol": "0P0001BAAL",
+      "fund": "HSBC Low Duration Fund Monthly Dividend Reinvestment Direct",
+      "return_one_year": -0.22633000000000003,
+      "return_five_year": 0.30512
+    },
+    {
+      "symbol": "0P0000XW9V",
+      "fund": "HSBC Low Duration Fund Direct Daily Dividend Reinvestment",
+      "return_one_year": 1.43961,
+      "return_five_year": 2.3452599000000003
+    },
+    {
+      "symbol": "0P00009JGL",
+      "fund": "HSBC Low Duration Fund Regular Growth",
+      "return_one_year": 2.8778901,
+      "return_five_year": 2.37648
+    },
+    {
+      "symbol": "0P00009JGJ",
+      "fund": "HSBC Low Duration Fund Regular Weekly Dividend Reinvestment",
+      "return_one_year": 1.0381499,
+      "return_five_year": 1.35666
+    },
+    {
+      "symbol": "0P00009JD6",
+      "fund": "HSBC Low Duration Fund Daily Dividend Reinvestment",
+      "return_one_year": 1.22734,
+      "return_five_year": 1.72561
+    },
+    {
+      "symbol": "0P00009JGV",
+      "fund": "HSBC Low Duration Fund Growth",
+      "return_one_year": 3.5787202,
+      "return_five_year": 2.76757
+    },
+    {
+      "symbol": "0P00009JGT",
+      "fund": "HSBC Low Duration Fund Weekly Dividend Reinvestment",
+      "return_one_year": 2.61762,
+      "return_five_year": 1.8865
+    },
+    {
+      "symbol": "0P0001BAAM",
+      "fund": "HSBC Low Duration Fund - Monthly Dividend",
+      "return_one_year": 1.94988,
+      "return_five_year": 1.53809
+    },
+    {
+      "symbol": "0P0000XW9W",
+      "fund": "HSBC Low Duration Fund Direct Weekly Dividend Reinvestment",
+      "return_one_year": 2.95134,
+      "return_five_year": 2.4992298
+    },
+    {
+      "symbol": "0P0001D4OD",
+      "fund": "Canara HSBC Oriental Bank of Co",
+      "return_one_year": 32.84682,
+      "return_five_year": 13.73517
+    },
+    {
+      "symbol": "0P000093B8",
+      "fund": "HSBC Tax Saver Equity Fund Growth",
+      "return_one_year": 22.618389,
+      "return_five_year": 9.99377
+    },
+    {
+      "symbol": "0P0000XW9T",
+      "fund": "HSBC Tax Saver Equity Fund Direct Dividend Payout",
+      "return_one_year": 14.207559999999999,
+      "return_five_year": 7.83258
+    },
+    {
+      "symbol": "0P0000935X",
+      "fund": "HSBC Tax Saver Equity Fund Dividend Payout",
+      "return_one_year": 12.20354,
+      "return_five_year": 6.54232
+    },
+    {
+      "symbol": "0P0000XW9U",
+      "fund": "HSBC Tax Saver Equity Fund Direct Growth",
+      "return_one_year": 24.097349,
+      "return_five_year": 11.27059
+    },
+    {
+      "symbol": "0P0000SEL2",
+      "fund": "Canara HSBC Oriental Bank of Commerce Life - Unit Linked Growth Fund",
+      "return_one_year": 19.70869,
+      "return_five_year": 7.871549999999999
+    },
+    {
+      "symbol": "0P0000SEL9",
+      "fund": "Canara HSBC Oriental Bank of Commerce Life - Unit Linked Growth II Fund",
+      "return_one_year": 20.405029,
+      "return_five_year": 8.347100000000001
+    },
+    {
+      "symbol": "0P00005WNF",
+      "fund": "HSBC Infrastructure Equity Fund Dividend Payout",
+      "return_one_year": 7.64497,
+      "return_five_year": 2.2234
+    },
+    {
+      "symbol": "0P0001BAA8",
+      "fund": "HSBC Infrastructure Equity Fund Dividend Reinvestment Direct",
+      "return_one_year": 8.88073,
+      "return_five_year": 3.2656699999999996
+    },
+    {
+      "symbol": "0P0000XW9Q",
+      "fund": "HSBC Infrastructure Equity Fund Dividend Payout Direct",
+      "return_one_year": 8.88073,
+      "return_five_year": 3.2656699999999996
+    },
+    {
+      "symbol": "0P0001BAA9",
+      "fund": "HSBC Infrastructure Equity Fund Dividend Reinvestment",
+      "return_one_year": 7.64497,
+      "return_five_year": 2.2234
+    },
+    {
+      "symbol": "0P0000XW9R",
+      "fund": "HSBC Infrastructure Equity Fund Growth Direct",
+      "return_one_year": 9.17197,
+      "return_five_year": 3.4352902
+    },
+    {
+      "symbol": "0P00005WND",
+      "fund": "HSBC Infrastructure Equity Fund Growth",
+      "return_one_year": 7.64504,
+      "return_five_year": 2.2232398
+    },
+    {
+      "symbol": "0P00005V1C",
+      "fund": "HSBC Regular Savings Fund Monthly Dividend Payout",
+      "return_one_year": 11.1783706,
+      "return_five_year": 5.3014103
+    },
+    {
+      "symbol": "0P0000XXT6",
+      "fund": "HSBC Regular Savings Fund Quarterly Dividend Payout Direct Plan",
+      "return_one_year": 6.9643,
+      "return_five_year": 4.61528
+    },
+    {
+      "symbol": "0P00005V1E",
+      "fund": "HSBC Regular Savings Fund Quarterly Dividend Payout",
+      "return_one_year": 5.9409298,
+      "return_five_year": 6.0063902
+    },
+    {
+      "symbol": "0P0000XW9P",
+      "fund": "HSBC Regular Savings Fund Direct Monthly Dividend Payout",
+      "return_one_year": 12.274930000000001,
+      "return_five_year": 7.20085
+    },
+    {
+      "symbol": "0P0001BAAI",
+      "fund": "HSBC Regular Savings Fund Monthly Dividend Reinvestment",
+      "return_one_year": 11.1783706,
+      "return_five_year": 5.3014103
+    },
+    {
+      "symbol": "0P0000XY0K",
+      "fund": "HSBC Regular Savings Fund Growth Direct Plan",
+      "return_one_year": 13.101389999999999,
+      "return_five_year": 8.596320500000001
+    },
+    {
+      "symbol": "0P0001BAAJ",
+      "fund": "HSBC Regular Savings Fund Quarterly Dividend Reinvestment",
+      "return_one_year": 5.9409298,
+      "return_five_year": 6.0063902
+    },
+    {
+      "symbol": "0P0001BAAK",
+      "fund": "HSBC Regular Savings Fund Quarterly Dividend Reinvestment Direct Plan",
+      "return_one_year": 6.9643,
+      "return_five_year": 4.61528
+    },
+    {
+      "symbol": "0P0001BAAH",
+      "fund": "HSBC Regular Savings Fund Direct Monthly Dividend Reinvestment",
+      "return_one_year": 12.274930000000001,
+      "return_five_year": 7.20085
+    },
+    {
+      "symbol": "0P0001314G",
+      "fund": "HSBC Managed Solutions India Moderate Growth",
+      "return_one_year": 18.329,
+      "return_five_year": 9.39684
+    },
+    {
+      "symbol": "0P0001314H",
+      "fund": "HSBC Managed Solutions India Moderate Regular Dividend Payout",
+      "return_one_year": 11.20194,
+      "return_five_year": 8.04607
+    },
+    {
+      "symbol": "0P0001314I",
+      "fund": "HSBC Managed Solutions India Moderate Growth Direct",
+      "return_one_year": 19.222139,
+      "return_five_year": 10.027
+    },
+    {
+      "symbol": "0P0001BAAE",
+      "fund": "HSBC Managed Solutions India Moderate Regular Dividend Reinvestment",
+      "return_one_year": 11.20194,
+      "return_five_year": 8.04607
+    },
+    {
+      "symbol": "0P00015JQP",
+      "fund": "HSBC Managed Solutions India Moderate Dividend Reinvestment Direct",
+      "return_one_year": 14.08895,
+      "return_five_year": 9.89438
+    },
+    {
+      "symbol": "0P0000VRE3",
+      "fund": "Canara HSBC Oriental Bank of Commerce Life - NAV Guarantee Fund Series",
+      "return_one_year": 1.10735,
+      "return_five_year": 6.429410000000001
+    },
+    {
+      "symbol": "0P0000CN6B",
+      "fund": "HSBC Flexi Debt Fund Monthly Dividend Payout",
+      "return_one_year": -0.16475,
+      "return_five_year": 3.94751
+    },
+    {
+      "symbol": "0P0000GBCD",
+      "fund": "HSBC Flexi Debt Fund Regular Plan Quarterly Dividend Payout",
+      "return_one_year": 0.45499,
+      "return_five_year": 4.72986
+    },
+    {
+      "symbol": "0P0001BA9V",
+      "fund": "HSBC Flexi Debt Fund Quarterly Dividend Reinvestment Direct",
+      "return_one_year": -5.07822,
+      "return_five_year": 0.69221
+    },
+    {
+      "symbol": "0P0001BA9Y",
+      "fund": "HSBC Flexi Debt Fund Quarterly Dividend Reinvestment",
+      "return_one_year": -0.69648,
+      "return_five_year": 4.69491
+    },
+    {
+      "symbol": "0P0000XY0O",
+      "fund": "HSBC Flexi Debt Fund Growth Direct Plan",
+      "return_one_year": 1.49706,
+      "return_five_year": 5.80373
+    },
+    {
+      "symbol": "0P0000XW9C",
+      "fund": "HSBC Flexi Debt Fund Quarterly Dividend Payout Direct",
+      "return_one_year": -5.07822,
+      "return_five_year": 0.69221
+    },
+    {
+      "symbol": "0P0001BAA0",
+      "fund": "HSBC Flexi Debt Fund Regular Plan Monthly Dividend Reinvestment",
+      "return_one_year": -1.4047399999999999,
+      "return_five_year": 4.3393698
+    },
+    {
+      "symbol": "0P0001BA9Z",
+      "fund": "HSBC Flexi Debt Fund Regular Plan Half Yearly Dividend Reinvestment",
+      "return_one_year": 0.44906,
+      "return_five_year": 4.72654
+    },
+    {
+      "symbol": "0P0000CN77",
+      "fund": "HSBC Flexi Debt Fund Fortnightly Dividend Reinvestment",
+      "return_one_year": 0.47378000000000003,
+      "return_five_year": 3.37806
+    },
+    {
+      "symbol": "0P0000JWVK",
+      "fund": "HSBC Flexi Debt Fund Regular Plan Half Yearly Dividend Payout",
+      "return_one_year": 0.44906,
+      "return_five_year": 4.72654
+    },
+    {
+      "symbol": "0P0000CN65",
+      "fund": "HSBC Flexi Debt Fund Regular Plan Growth",
+      "return_one_year": 0.45457,
+      "return_five_year": 4.73026
+    },
+    {
+      "symbol": "0P0000CN64",
+      "fund": "HSBC Flexi Debt Fund Growth",
+      "return_one_year": 0.69840997,
+      "return_five_year": 4.98811
+    },
+    {
+      "symbol": "0P0000JXFV",
+      "fund": "HSBC Flexi Debt Fund Quarterly Dividend Payout",
+      "return_one_year": -0.69648,
+      "return_five_year": 4.69491
+    },
+    {
+      "symbol": "0P0000JXFX",
+      "fund": "HSBC Flexi Debt Fund Half Yearly Dividend Payout",
+      "return_one_year": -5.79716,
+      "return_five_year": 2.1318
+    },
+    {
+      "symbol": "0P0000CN62",
+      "fund": "HSBC Flexi Debt Fund Regular Plan Monthly Dividend Payout",
+      "return_one_year": -1.4047399999999999,
+      "return_five_year": 4.3393698
+    },
+    {
+      "symbol": "0P0000XZS0",
+      "fund": "HSBC Flexi Debt Fund Monthly Dividend Payout Direct Plan",
+      "return_one_year": -0.57941,
+      "return_five_year": 3.8812800000000003
+    },
+    {
+      "symbol": "0P0001BA9W",
+      "fund": "HSBC Flexi Debt Fund Half Yearly Dividend Reinvestment",
+      "return_one_year": -5.79716,
+      "return_five_year": 2.1318
+    },
+    {
+      "symbol": "0P0001BAA1",
+      "fund": "HSBC Flexi Debt Fund Regular Plan Quarterly Dividend Reinvestment",
+      "return_one_year": 0.45499,
+      "return_five_year": 4.72986
+    },
+    {
+      "symbol": "0P0001BA9X",
+      "fund": "HSBC Flexi Debt Fund Monthly Dividend Reinvestment",
+      "return_one_year": -0.16475,
+      "return_five_year": 3.94751
+    },
+    {
+      "symbol": "0P0001314J",
+      "fund": "HSBC Managed Solutions India Conservative Regular Growth",
+      "return_one_year": 7.937369499999999,
+      "return_five_year": 5.73396
+    },
+    {
+      "symbol": "0P0001314L",
+      "fund": "HSBC Managed Solutions India Conservative Direct Growth",
+      "return_one_year": 8.7643296,
+      "return_five_year": 6.44045
+    },
+    {
+      "symbol": "0P0001314K",
+      "fund": "HSBC Managed Solutions India Conservative Dividend Payout",
+      "return_one_year": 0.19390001,
+      "return_five_year": 4.17138
+    },
+    {
+      "symbol": "0P0001BAAA",
+      "fund": "HSBC Managed Solutions India Conservative Dividend Reinvestment",
+      "return_one_year": 0.19390001,
+      "return_five_year": 4.17138
+    },
+    {
+      "symbol": "0P0001314E",
+      "fund": "HSBC Managed Solutions India Growth Direct Growth",
+      "return_one_year": 22.020781,
+      "return_five_year": 10.68636
+    },
+    {
+      "symbol": "0P0001314C",
+      "fund": "HSBC Managed Solutions India Growth Regular Growth",
+      "return_one_year": 21.345949,
+      "return_five_year": 10.26825
+    },
+    {
+      "symbol": "0P0001BAAC",
+      "fund": "HSBC Managed Solutions India Growth Dividend Reinvestment",
+      "return_one_year": 11.295941,
+      "return_five_year": 8.37804
+    },
+    {
+      "symbol": "0P0001314F",
+      "fund": "HSBC Managed Solutions India Growth Direct Plan Dividend Payout",
+      "return_one_year": 12.20109,
+      "return_five_year": 8.84456
+    },
+    {
+      "symbol": "0P0001314D",
+      "fund": "HSBC Managed Solutions India Growth Dividend Payout",
+      "return_one_year": 11.295941,
+      "return_five_year": 8.37804
+    },
+    {
+      "symbol": "0P0001BAAB",
+      "fund": "HSBC Managed Solutions India Growth Direct Plan Dividend Reinvestment",
+      "return_one_year": 12.20109,
+      "return_five_year": 8.84456
+    },
+    {
+      "symbol": "0P0001BAA2",
+      "fund": "HSBC Debt Fund Dividend Reinvestment",
+      "return_one_year": 3.5046800000000005,
+      "return_five_year": 3.6069299999999997
+    },
+    {
+      "symbol": "0P00005WOR",
+      "fund": "HSBC Debt Fund Dividend Payout",
+      "return_one_year": 3.5046800000000005,
+      "return_five_year": 3.6069299999999997
+    },
+    {
+      "symbol": "0P0000XW9I",
+      "fund": "HSBC Debt Fund Direct Growth",
+      "return_one_year": 8.26861,
+      "return_five_year": 7.0419595
+    }
+  ]
+  

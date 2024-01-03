@@ -1,0 +1,363 @@
+[
+    {
+      "symbol": "0P0000XVK1",
+      "fund": "SBI Magnum Global Fund Direct Dividend Payout",
+      "return_one_year": 27.89268,
+      "return_five_year": 13.6966
+    },
+    {
+      "symbol": "0P00005UR8",
+      "fund": "SBI Magnum Global Fund Regular Growth",
+      "return_one_year": 27.00327,
+      "return_five_year": 12.861410000000001
+    },
+    {
+      "symbol": "0P0001BB7Y",
+      "fund": "SBI Magnum Global Fund Regular Dividend Reinvestment",
+      "return_one_year": 27.00324,
+      "return_five_year": 12.8614
+    },
+    {
+      "symbol": "0P0001BB7X",
+      "fund": "SBI Magnum Global Fund Direct Dividend Reinvestment",
+      "return_one_year": 27.89268,
+      "return_five_year": 13.6966
+    },
+    {
+      "symbol": "0P0000XVK5",
+      "fund": "SBI Magnum Global Fund Direct Growth",
+      "return_one_year": 27.892699999999998,
+      "return_five_year": 13.69732
+    },
+    {
+      "symbol": "0P00005UR7",
+      "fund": "SBI Magnum Global Fund Regular Dividend Payout",
+      "return_one_year": 27.00324,
+      "return_five_year": 12.8614
+    },
+    {
+      "symbol": "0P0000NRF6",
+      "fund": "SBI Life - Index Fund",
+      "return_one_year": 23.54256,
+      "return_five_year": 11.899491
+    },
+    {
+      "symbol": "0P00005WEZ",
+      "fund": "SBI Bluechip Fund Regular Dividend Payout",
+      "return_one_year": 27.287018000000003,
+      "return_five_year": 12.3281695
+    },
+    {
+      "symbol": "0P0000XVJL",
+      "fund": "SBI Bluechip Fund Direct Dividend Payout",
+      "return_one_year": 28.19452,
+      "return_five_year": 13.188261
+    },
+    {
+      "symbol": "0P0001BB6V",
+      "fund": "SBI Bluechip Fund Direct Dividend Reinvestment",
+      "return_one_year": 28.19452,
+      "return_five_year": 13.188261
+    },
+    {
+      "symbol": "0P0000XVJQ",
+      "fund": "SBI Bluechip Fund Direct Growth",
+      "return_one_year": 28.19473,
+      "return_five_year": 13.19467
+    },
+    {
+      "symbol": "0P0001BB6W",
+      "fund": "SBI Bluechip Fund Regular Dividend Reinvestment",
+      "return_one_year": 27.287018000000003,
+      "return_five_year": 12.3281695
+    },
+    {
+      "symbol": "0P00005WFC",
+      "fund": "SBI Large - Midcap Fund Regular Dividend Payout",
+      "return_one_year": 30.34886,
+      "return_five_year": 14.94425
+    },
+    {
+      "symbol": "0P00005WFD",
+      "fund": "SBI Large - Midcap Fund Regular Growth",
+      "return_one_year": 30.34963,
+      "return_five_year": 14.94201
+    },
+    {
+      "symbol": "0P0001BB8N",
+      "fund": "SBI Large - Midcap Fund Direct Dividend Reinvestment",
+      "return_one_year": 31.424668,
+      "return_five_year": 15.797249999999998
+    },
+    {
+      "symbol": "0P0000XVL5",
+      "fund": "SBI Large - Midcap Fund Direct Growth",
+      "return_one_year": 31.422221999999998,
+      "return_five_year": 15.79515
+    },
+    {
+      "symbol": "0P0000XVL0",
+      "fund": "SBI Large - Midcap Fund Direct Dividend Payout",
+      "return_one_year": 31.424668,
+      "return_five_year": 15.797249999999998
+    },
+    {
+      "symbol": "0P0001BB8O",
+      "fund": "SBI Large - Midcap Fund Regular Dividend Reinvestment",
+      "return_one_year": 30.34886,
+      "return_five_year": 14.94425
+    },
+    {
+      "symbol": "0P0001BB9I",
+      "fund": "SBI Small Cap Fund Regular Plan Dividend Reinvestment",
+      "return_one_year": 28.322822,
+      "return_five_year": 17.84094
+    },
+    {
+      "symbol": "0P0001N0BH",
+      "fund": "SBI Fixed Maturity Plan (FMP) -",
+      "return_one_year": 7.74124,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000XVJF",
+      "fund": "SBI Gold Direct Plan Dividend Payout",
+      "return_one_year": 16.11679,
+      "return_five_year": 13.08666
+    },
+    {
+      "symbol": "0P0000V087",
+      "fund": "SBI Tax Advantage Fund Series II Growth",
+      "return_one_year": 33.586392,
+      "return_five_year": 25.357848
+    },
+    {
+      "symbol": "0P0000M5LY",
+      "fund": "SBI Banking and PSU Fund Regular Plan Monthly Dividend Payout",
+      "return_one_year": 6.46301,
+      "return_five_year": 6.0864902999999995
+    },
+    {
+      "symbol": "0P0001N9T6",
+      "fund": "SBI Fixed Maturity Plan (FMP) -",
+      "return_one_year": 8.40585,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001FKYK",
+      "fund": "SBI Debt Fund Series C - 41 (1178 Days) Direct Dividend Payout",
+      "return_one_year": 4.121989999999999,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001KUMS",
+      "fund": "SBI Floating Rate Debt Fund Dir",
+      "return_one_year": 6.81884,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001EP8A",
+      "fund": "SBI Dual Advantage Fund Series XXX Direct Dividend Payout",
+      "return_one_year": 8.265229999999999,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001FKYM",
+      "fund": "SBI Debt Fund Series C - 41 (1178 Days) Regular Dividend Payout",
+      "return_one_year": 3.8620997,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000XVL2",
+      "fund": "SBI Magnum Multi Cap Fund Direct Growth",
+      "return_one_year": 22.583851,
+      "return_five_year": 12.572610000000001
+    },
+    {
+      "symbol": "0P00005US7",
+      "fund": "SBI Magnum Multi Cap Fund Regular Dividend Payout",
+      "return_one_year": 21.5141,
+      "return_five_year": 11.5206204
+    },
+    {
+      "symbol": "0P0001BB8L",
+      "fund": "SBI Magnum Multi Cap Fund Direct Dividend Reinvestment",
+      "return_one_year": 22.58355,
+      "return_five_year": 12.57448
+    },
+    {
+      "symbol": "0P0000XVKX",
+      "fund": "SBI Magnum Multi Cap Fund Direct Dividend Payout",
+      "return_one_year": 22.58355,
+      "return_five_year": 12.57448
+    },
+    {
+      "symbol": "0P0001BB8M",
+      "fund": "SBI Magnum Multi Cap Fund Regular Dividend Reinvestment",
+      "return_one_year": 21.5141,
+      "return_five_year": 11.5206204
+    },
+    {
+      "symbol": "0P0000NRFG",
+      "fund": "SBI Life - Growth Fund",
+      "return_one_year": 18.33959,
+      "return_five_year": 10.9515496
+    },
+    {
+      "symbol": "0P0001BB7M",
+      "fund": "SBI Magnum Comma Fund Regular Dividend Reinvestment",
+      "return_one_year": 14.834219000000001,
+      "return_five_year": 12.88252
+    },
+    {
+      "symbol": "0P00005WF4",
+      "fund": "SBI Magnum Comma Fund Regular Growth",
+      "return_one_year": 14.830950000000001,
+      "return_five_year": 12.88198
+    },
+    {
+      "symbol": "0P00005WF2",
+      "fund": "SBI Magnum Comma Fund Regular Dividend Payout",
+      "return_one_year": 14.834219000000001,
+      "return_five_year": 12.88252
+    },
+    {
+      "symbol": "0P0000XVJP",
+      "fund": "SBI Magnum Comma Fund Direct Growth",
+      "return_one_year": 15.43629,
+      "return_five_year": 13.586500000000001
+    },
+    {
+      "symbol": "0P0001BB7L",
+      "fund": "SBI Magnum Comma Fund Direct Dividend Reinvestment",
+      "return_one_year": 15.43404,
+      "return_five_year": 13.585201
+    },
+    {
+      "symbol": "0P0000XVJS",
+      "fund": "SBI Magnum Comma Fund Direct Dividend Payout",
+      "return_one_year": 15.43404,
+      "return_five_year": 13.585201
+    },
+    {
+      "symbol": "0P0000XVJ9",
+      "fund": "SBI Arbitrage Opportunities Fund Direct Dividend Payout",
+      "return_one_year": 6.6206105,
+      "return_five_year": 5.1750798
+    },
+    {
+      "symbol": "0P0000XVJE",
+      "fund": "SBI Arbitrage Opportunities Fund Direct Growth",
+      "return_one_year": 6.621150000000001,
+      "return_five_year": 5.4365203
+    },
+    {
+      "symbol": "0P0001BB6R",
+      "fund": "SBI Arbitrage Opportunities Fund Direct Dividend Reinvestment",
+      "return_one_year": 6.6206105,
+      "return_five_year": 5.1750798
+    },
+    {
+      "symbol": "0P00008TGV",
+      "fund": "SBI Arbitrage Opportunities Fund Regular Dividend Payout",
+      "return_one_year": 6.1293997000000005,
+      "return_five_year": 4.69022
+    },
+    {
+      "symbol": "0P0001BB6S",
+      "fund": "SBI Arbitrage Opportunities Fund Regular Dividend Reinvestment",
+      "return_one_year": 6.1293997000000005,
+      "return_five_year": 4.69022
+    },
+    {
+      "symbol": "0P00008TOM",
+      "fund": "SBI Arbitrage Opportunities Fund Regular Growth",
+      "return_one_year": 6.128900000000001,
+      "return_five_year": 4.93218
+    },
+    {
+      "symbol": "0P0000NRFM",
+      "fund": "SBI Life - Top 300 Fund",
+      "return_one_year": 19.88765,
+      "return_five_year": 12.17072
+    },
+    {
+      "symbol": "0P0001BB86",
+      "fund": "SBI Magnum Ultra Short Duration Fund Regular Plan Weekly Dividend Reinvestment",
+      "return_one_year": 6.364540000000001,
+      "return_five_year": 5.0918497
+    },
+    {
+      "symbol": "0P0000XVKK",
+      "fund": "SBI Magnum Ultra Short Duration Fund Direct Plan Weekly Dividend Payout",
+      "return_one_year": 6.575889999999999,
+      "return_five_year": 5.25486
+    },
+    {
+      "symbol": "0P0001BB83",
+      "fund": "SBI Magnum Ultra Short Duration Fund Direct Plan Weekly Dividend Reinvestment",
+      "return_one_year": 6.575889999999999,
+      "return_five_year": 5.25486
+    },
+    {
+      "symbol": "0P0000XVKN",
+      "fund": "SBI Magnum Ultra Short Duration Fund Direct Plan Growth",
+      "return_one_year": 6.575259999999999,
+      "return_five_year": 6.07035
+    },
+    {
+      "symbol": "0P0000XVKG",
+      "fund": "SBI Magnum Ultra Short Duration Fund Direct Plan Daily Dividend Reinvestment",
+      "return_one_year": 6.575499999999999,
+      "return_five_year": 5.1331803
+    },
+    {
+      "symbol": "0P00005URP",
+      "fund": "SBI Magnum Ultra Short Duration Fund Regular Growth",
+      "return_one_year": 6.36303,
+      "return_five_year": 5.89088
+    },
+    {
+      "symbol": "0P00009JDK",
+      "fund": "SBI Magnum Ultra Short Duration Fund Regular Plan Daily Dividend Reinvestment",
+      "return_one_year": 6.386940000000001,
+      "return_five_year": 4.9818903
+    },
+    {
+      "symbol": "0P00005URQ",
+      "fund": "SBI Magnum Ultra Short Duration Fund Regular Plan Weekly Dividend Payout",
+      "return_one_year": 6.364540000000001,
+      "return_five_year": 5.0918497
+    },
+    {
+      "symbol": "0P0000NREE",
+      "fund": "SBI Life - Top 300 Pension Fund",
+      "return_one_year": 20.18186,
+      "return_five_year": 12.424240000000001
+    },
+    {
+      "symbol": "0P0000NREM",
+      "fund": "SBI Life - Equity Pension Fund",
+      "return_one_year": 22.605339,
+      "return_five_year": 11.4770606
+    },
+    {
+      "symbol": "0P0000NREL",
+      "fund": "SBI Life - Growth Pension Fund",
+      "return_one_year": 18.200979,
+      "return_five_year": 10.95936
+    },
+    {
+      "symbol": "0P00005URY",
+      "fund": "SBI Magnum Midcap Fund Regular Growth",
+      "return_one_year": 33.38961,
+      "return_five_year": 17.30519
+    },
+    {
+      "symbol": "0P0000XVKO",
+      "fund": "SBI Magnum Midcap Fund Direct Growth",
+      "return_one_year": 34.559889999999996,
+      "return_five_year": 18.362881
+    }
+  ]
+  

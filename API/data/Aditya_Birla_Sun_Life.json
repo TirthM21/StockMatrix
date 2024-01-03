@@ -1,0 +1,237 @@
+[
+    {
+      "symbol": "0P0000TFRQ",
+      "fund": "Aditya Birla Sun Life - Foresight 5P Fund - I",
+      "return_one_year": 4.22429,
+      "return_five_year": 3.6858299999999997
+    },
+    {
+      "symbol": "0P0000NNDJ",
+      "fund": "Aditya Birla Sun Life - Individual Maximiser Fund",
+      "return_one_year": 24.94049,
+      "return_five_year": 12.146949999999999
+    },
+    {
+      "symbol": "0P0001B9OC",
+      "fund": "Aditya Birla Sun Life Income Fund Dividend Reinvestment Direct Plan",
+      "return_one_year": 8.12846,
+      "return_five_year": 7.3272699999999995
+    },
+    {
+      "symbol": "0P00015F9K",
+      "fund": "Aditya Birla Sun Life Income Fund Dividend Payout Regular Plan",
+      "return_one_year": 7.6857,
+      "return_five_year": 6.73074
+    },
+    {
+      "symbol": "0P00015FQG",
+      "fund": "Aditya Birla Sun Life Income Fund Dividend Payout Direct Plan",
+      "return_one_year": 8.12846,
+      "return_five_year": 7.3272699999999995
+    },
+    {
+      "symbol": "0P0000XVX1",
+      "fund": "Aditya Birla Sun Life Income Fund Quarterly Dividend Payout Direct Plan",
+      "return_one_year": 8.40555,
+      "return_five_year": 7.16002
+    },
+    {
+      "symbol": "0P0000XVX0",
+      "fund": "Aditya Birla Sun Life Income Fund Growth Direct Plan",
+      "return_one_year": 8.50179,
+      "return_five_year": 8.24839
+    },
+    {
+      "symbol": "0P00005V5C",
+      "fund": "Aditya Birla Sun Life Income Fund Regular Plan Growth",
+      "return_one_year": 8.0574304,
+      "return_five_year": 7.65256
+    },
+    {
+      "symbol": "0P0000JXFJ",
+      "fund": "Aditya Birla Sun Life Income Fund Discipline Advantage Plan",
+      "return_one_year": 8.05519,
+      "return_five_year": 7.65217
+    },
+    {
+      "symbol": "0P0001B9OD",
+      "fund": "Aditya Birla Sun Life Income Fund Quarterly Dividend Reinvestment Direct Plan",
+      "return_one_year": 8.40555,
+      "return_five_year": 7.16002
+    },
+    {
+      "symbol": "0P00005V5D",
+      "fund": "Aditya Birla Sun Life Income Fund Regular Plan Quarterly Dividend Payout",
+      "return_one_year": 7.9646304,
+      "return_five_year": 6.711449999999999
+    },
+    {
+      "symbol": "0P0001B9OE",
+      "fund": "Aditya Birla Sun Life Income Fund Dividend Reinvestment Regular Plan",
+      "return_one_year": 7.6857,
+      "return_five_year": 6.73074
+    },
+    {
+      "symbol": "0P0001B9OF",
+      "fund": "Aditya Birla Sun Life Income Fund Regular Plan Quarterly Dividend Reinvestment",
+      "return_one_year": 7.9646304,
+      "return_five_year": 6.711449999999999
+    },
+    {
+      "symbol": "0P0000NNDV",
+      "fund": "Aditya Birla Sun Life - Group Fixed Interest Fund",
+      "return_one_year": 8.318069999999999,
+      "return_five_year": 7.576639999999999
+    },
+    {
+      "symbol": "0P0000XVWD",
+      "fund": "Aditya Birla Sun Life Equity Fund Growth Direct Plan",
+      "return_one_year": 24.52057,
+      "return_five_year": 12.096129999999999
+    },
+    {
+      "symbol": "0P0001B9NQ",
+      "fund": "Aditya Birla Sun Life Equity Fund Dividend Reinvestment Direct Plan",
+      "return_one_year": 24.098669,
+      "return_five_year": 9.922519000000001
+    },
+    {
+      "symbol": "0P0000XVWC",
+      "fund": "Aditya Birla Sun Life Equity Fund Dividend Payout Direct Plan",
+      "return_one_year": 24.098669,
+      "return_five_year": 9.922519000000001
+    },
+    {
+      "symbol": "0P0001B9NR",
+      "fund": "Aditya Birla Sun Life Equity Fund Dividend Reinvestment",
+      "return_one_year": 23.065531,
+      "return_five_year": 8.9549504
+    },
+    {
+      "symbol": "0P00005V62",
+      "fund": "Aditya Birla Sun Life Equity Fund Growth",
+      "return_one_year": 23.48519,
+      "return_five_year": 11.112210000000001
+    },
+    {
+      "symbol": "0P00005X31",
+      "fund": "Aditya Birla Sun Life Equity Fund Dividend Payout",
+      "return_one_year": 23.065531,
+      "return_five_year": 8.9549504
+    },
+    {
+      "symbol": "0P000150PP",
+      "fund": "Aditya Birla Sun Life Equity Savings Fund Regular Plan Growth",
+      "return_one_year": 12.82528,
+      "return_five_year": 6.80897
+    },
+    {
+      "symbol": "0P0001M4EY",
+      "fund": "Aditya Birla Sun Life Multi-Cap",
+      "return_one_year": 26.951000000000004,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001ITOT",
+      "fund": "Aditya Birla Sun Life Credit Risk Fund Segregated Portfolio 1 Regular Plan Dividend Payout",
+      "return_one_year": -59.01909,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001ITOX",
+      "fund": "Aditya Birla Sun Life Dynamic Bond Fund SegregatedPort1 Direct Plan Growth",
+      "return_one_year": -59.016729999999995,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000XVXW",
+      "fund": "Aditya Birla Sun Life Pure Value Fund Growth Direct Plan",
+      "return_one_year": 33.8277,
+      "return_five_year": 7.670250000000001
+    },
+    {
+      "symbol": "0P0001FVA8",
+      "fund": "Aditya Birla Sun Life Retirement Fund - The 50s Plan Direct Dividend Payout",
+      "return_one_year": 11.2710506,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000XV2H",
+      "fund": "Aditya Birla Sun Life Financial Planning FOF Prudent Plan Direct Plan Dividend Payout Option",
+      "return_one_year": 15.0043,
+      "return_five_year": 10.30731
+    },
+    {
+      "symbol": "0P0001EWON",
+      "fund": "Aditya Birla Sun Life Overnight Direct Growth",
+      "return_one_year": 6.04151,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000AEKC",
+      "fund": "Aditya Birla Sun Life Global Real Estate Fund Dividend Payout",
+      "return_one_year": 31.23799,
+      "return_five_year": 5.79263
+    },
+    {
+      "symbol": "0P0000ADWI",
+      "fund": "Aditya Birla Sun Life Pure Value Fund Growth",
+      "return_one_year": 32.63625,
+      "return_five_year": 6.57674
+    },
+    {
+      "symbol": "0P0000ADK5",
+      "fund": "Aditya Birla Sun Life Pure Value Fund Dividend Payout",
+      "return_one_year": 32.07837,
+      "return_five_year": 6.41969
+    },
+    {
+      "symbol": "0P0001B9NX",
+      "fund": "Aditya Birla Sun Life Financial Planning FOF Prudent Dividend Reinvestment",
+      "return_one_year": 14.40737,
+      "return_five_year": 9.661340000000001
+    },
+    {
+      "symbol": "0P0000XVW1",
+      "fund": "Aditya Birla Sun Life Commodities Equities Fund Global Agri Plan Growth Direct Plan",
+      "return_one_year": -8.40387,
+      "return_five_year": 7.428559999999999
+    },
+    {
+      "symbol": "0P0001FIIV",
+      "fund": "Aditya Birla Sun Life Bal Bhavishya Yojna Wealth Plan Direct Growth",
+      "return_one_year": 23.87352,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001B9OT",
+      "fund": "Aditya Birla Sun Life Medium Term Plan Quarterly Dividend Reinvestment Direct Plan",
+      "return_one_year": 25.17839,
+      "return_five_year": 8.0785
+    },
+    {
+      "symbol": "0P0001M4EZ",
+      "fund": "Aditya Birla Sun Life Multi-Cap",
+      "return_one_year": 26.951000000000004,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000NNDL",
+      "fund": "Aditya Birla Sun Life - Individual Multiplier Fund",
+      "return_one_year": 33.313647,
+      "return_five_year": 11.9663805
+    },
+    {
+      "symbol": "0P0000NNDR",
+      "fund": "Aditya Birla Sun Life - Individual Super 20 Fund",
+      "return_one_year": 23.431061,
+      "return_five_year": 12.90064
+    },
+    {
+      "symbol": "0P0001B9PP",
+      "fund": "Aditya Birla Sun Life Banking &amp; PSU Debt Fund Dividend Reinvestment Direct Plan",
+      "return_one_year": 6.64189,
+      "return_five_year": 6.4480804
+    }
+  ]
+  

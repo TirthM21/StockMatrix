@@ -1,0 +1,315 @@
+[
+    {
+      "symbol": "0P0000XX0C",
+      "fund": "HDFC Standard Life - Pension Super Plus Fund 2012",
+      "return_one_year": 14.20438,
+      "return_five_year": 7.80852
+    },
+    {
+      "symbol": "0P0000XW85",
+      "fund": "HDFC Long Term Advantage Fund - Direct Plan - Growth Option",
+      "return_one_year": 36.065960000000004,
+      "return_five_year": 18.781531
+    },
+    {
+      "symbol": "0P0001BA86",
+      "fund": "HDFC Long Term Advantage Fund - Direct Plan Dividend Reinvestment Option",
+      "return_one_year": 36.12434,
+      "return_five_year": 18.31436
+    },
+    {
+      "symbol": "0P00005V0J",
+      "fund": "HDFC Long Term Advantage Fund Dividend Payout",
+      "return_one_year": 35.56629,
+      "return_five_year": 17.61549
+    },
+    {
+      "symbol": "0P0000XW84",
+      "fund": "HDFC Long Term Advantage Fund - Direct Plan Dividend Payout Option",
+      "return_one_year": 36.12434,
+      "return_five_year": 18.31436
+    },
+    {
+      "symbol": "0P0001BA87",
+      "fund": "HDFC Long Term Advantage Fund Dividend Reinvestment",
+      "return_one_year": 35.56629,
+      "return_five_year": 17.61549
+    },
+    {
+      "symbol": "0P00005V0K",
+      "fund": "HDFC Long Term Advantage Fund Growth",
+      "return_one_year": 35.50505,
+      "return_five_year": 18.11385
+    },
+    {
+      "symbol": "0P00009J3B",
+      "fund": "HDFC Mid-Cap Opportunities Fund Dividend Payout",
+      "return_one_year": 30.12183,
+      "return_five_year": 12.74232
+    },
+    {
+      "symbol": "0P00009J3K",
+      "fund": "HDFC Mid-Cap Opportunities Fund Growth",
+      "return_one_year": 43.62708,
+      "return_five_year": 15.539390000000001
+    },
+    {
+      "symbol": "0P0001BA8J",
+      "fund": "HDFC Mid-Cap Opportunities Fund Dividend Reinvestment",
+      "return_one_year": 30.12183,
+      "return_five_year": 12.74232
+    },
+    {
+      "symbol": "0P0000XW8F",
+      "fund": "HDFC Mid-Cap Opportunities Fund - Direct Plan - Growth Option",
+      "return_one_year": 44.64257,
+      "return_five_year": 16.40682
+    },
+    {
+      "symbol": "0P0000XW8E",
+      "fund": "HDFC Mid-Cap Opportunities Fund - Direct Plan Dividend Payout Option",
+      "return_one_year": 34.6323,
+      "return_five_year": 14.30331
+    },
+    {
+      "symbol": "0P0001BA8I",
+      "fund": "HDFC Mid-Cap Opportunities Fund - Direct Plan Dividend Reinvestment Option",
+      "return_one_year": 34.6323,
+      "return_five_year": 14.30331
+    },
+    {
+      "symbol": "0P0001BA8N",
+      "fund": "HDFC Hybrid Debt Quarterly Dividend Reinvestment",
+      "return_one_year": 14.07946,
+      "return_five_year": 7.84338
+    },
+    {
+      "symbol": "0P0000XW8G",
+      "fund": "HDFC Hybrid Debt Direct Plan Growth Option",
+      "return_one_year": 14.72783,
+      "return_five_year": 9.54962
+    },
+    {
+      "symbol": "0P0000XW8J",
+      "fund": "HDFC Hybrid Debt Direct Plan Quarterly Dividend Payout Option",
+      "return_one_year": 14.645389999999999,
+      "return_five_year": 8.39307
+    },
+    {
+      "symbol": "0P0001BA8L",
+      "fund": "HDFC Hybrid Debt Direct Plan Quarterly Dividend Reinvestment Option",
+      "return_one_year": 14.645389999999999,
+      "return_five_year": 8.39307
+    },
+    {
+      "symbol": "0P0000XW8I",
+      "fund": "HDFC Hybrid Debt Direct Plan Monthly Dividend Payout Option",
+      "return_one_year": 14.72045,
+      "return_five_year": 8.44888
+    },
+    {
+      "symbol": "0P00005WMY",
+      "fund": "HDFC Hybrid Debt Growth",
+      "return_one_year": 14.17521,
+      "return_five_year": 9.0546
+    },
+    {
+      "symbol": "0P00005WMZ",
+      "fund": "HDFC Hybrid Debt Monthly Dividend Payout",
+      "return_one_year": 14.166680000000001,
+      "return_five_year": 7.9029
+    },
+    {
+      "symbol": "0P00005WN0",
+      "fund": "HDFC Hybrid Debt Quarterly Dividend Payout",
+      "return_one_year": 14.07946,
+      "return_five_year": 7.84338
+    },
+    {
+      "symbol": "0P0001BA8K",
+      "fund": "HDFC Hybrid Debt Direct Plan Monthly Dividend Reinvestment Option",
+      "return_one_year": 14.72045,
+      "return_five_year": 8.44888
+    },
+    {
+      "symbol": "0P0001BA8M",
+      "fund": "HDFC Hybrid Debt Monthly Dividend Reinvestment",
+      "return_one_year": 14.166680000000001,
+      "return_five_year": 7.9029
+    },
+    {
+      "symbol": "0P0000VSYU",
+      "fund": "HDFC Standard Life - Group Life Defensive Managed Fund",
+      "return_one_year": 11.488630599999999,
+      "return_five_year": 8.575330000000001
+    },
+    {
+      "symbol": "0P0000NNFC",
+      "fund": "HDFC Standard Life - Growth Fund Investment Pension II",
+      "return_one_year": 24.85985,
+      "return_five_year": 11.93695
+    },
+    {
+      "symbol": "0P0000VSYQ",
+      "fund": "HDFC Standard Life - Group Life Defensive Managed Fund II",
+      "return_one_year": 10.858811,
+      "return_five_year": 7.939649999999999
+    },
+    {
+      "symbol": "0P0001EI15",
+      "fund": "HDFC Balanced Adv Growth",
+      "return_one_year": 26.53377,
+      "return_five_year": 13.57642
+    },
+    {
+      "symbol": "0P0001ER43",
+      "fund": "HDFC FMP 1344D Oct 2018(1)-Regular Option-Quarterly Dividend Option",
+      "return_one_year": 4.6364103,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001D8TQ",
+      "fund": "HDFC FMP 1434D May 2018(1)-Regular Option-Quarterly Dividend Option",
+      "return_one_year": 3.86205,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001ER3W",
+      "fund": "HDFC FMP 1280D Oct 2018(1)-Regular Option-Growth Option",
+      "return_one_year": 4.0998403,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000POU0",
+      "fund": "HDFC Corporate Bond Growth",
+      "return_one_year": 7.64687,
+      "return_five_year": 7.52477
+    },
+    {
+      "symbol": "0P0000UDS0",
+      "fund": "HDFC Gold Fund Growth",
+      "return_one_year": 15.80529,
+      "return_five_year": 12.455010399999999
+    },
+    {
+      "symbol": "0P0001EW3R",
+      "fund": "HDFC FMP 1261D Oct 2018(1)-Direct Option-Dividend Option",
+      "return_one_year": -20.334591,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000SBP9",
+      "fund": "HDFC Standard Life - Growth Fund Investment Pension",
+      "return_one_year": 25.58488,
+      "return_five_year": 12.634711000000001
+    },
+    {
+      "symbol": "0P0000VSYP",
+      "fund": "HDFC Standard Life - Group Life Secure Managed Fund II",
+      "return_one_year": 8.03219,
+      "return_five_year": 7.04626
+    },
+    {
+      "symbol": "0P00005V05",
+      "fund": "HDFC Income Fund Quarterly Dividend Payout",
+      "return_one_year": 3.58729,
+      "return_five_year": 4.3143902
+    },
+    {
+      "symbol": "0P0001BA80",
+      "fund": "HDFC Income Fund Direct Plan Normal Dividend Reinvestment Option",
+      "return_one_year": 9.951830000000001,
+      "return_five_year": 6.90813
+    },
+    {
+      "symbol": "0P0001BA81",
+      "fund": "HDFC Income Fund - Direct Plan Quarterly Dividend Reinvestment Option",
+      "return_one_year": 5.6142803,
+      "return_five_year": 5.39021
+    },
+    {
+      "symbol": "0P0000XW7R",
+      "fund": "HDFC Income Fund - Direct Plan Quarterly Dividend Payout Option",
+      "return_one_year": 5.6142803,
+      "return_five_year": 5.39021
+    },
+    {
+      "symbol": "0P0001BA82",
+      "fund": "HDFC Income Fund Quarterly Dividend Reinvestment",
+      "return_one_year": 3.58729,
+      "return_five_year": 4.3143902
+    },
+    {
+      "symbol": "0P00015411",
+      "fund": "HDFC Income Fund Regular Plan Normal Dividend Payout Option",
+      "return_one_year": 8.297369999999999,
+      "return_five_year": 5.9471503000000006
+    },
+    {
+      "symbol": "0P00015410",
+      "fund": "HDFC Income Fund Direct Plan Normal Dividend Payout Option",
+      "return_one_year": 9.951830000000001,
+      "return_five_year": 6.90813
+    },
+    {
+      "symbol": "0P00005V04",
+      "fund": "HDFC Income Fund Growth",
+      "return_one_year": 7.92991,
+      "return_five_year": 5.8028496999999994
+    },
+    {
+      "symbol": "0P0001BA83",
+      "fund": "HDFC Income Fund Regular Plan Normal Dividend Reinvestment Option",
+      "return_one_year": 8.297369999999999,
+      "return_five_year": 5.9471503000000006
+    },
+    {
+      "symbol": "0P0000XW7S",
+      "fund": "HDFC Income Fund - Direct Plan - Growth Option",
+      "return_one_year": 9.606069,
+      "return_five_year": 6.77484
+    },
+    {
+      "symbol": "0P00016GRD",
+      "fund": "HDFC S Life-Diversified Equity Fund",
+      "return_one_year": 24.62076,
+      "return_five_year": 12.819539999999998
+    },
+    {
+      "symbol": "0P0000NNEY",
+      "fund": "HDFC Standard Life - Equity Managed Investment Life II",
+      "return_one_year": 22.460599000000002,
+      "return_five_year": 11.31429
+    },
+    {
+      "symbol": "0P0000NNEX",
+      "fund": "HDFC Standard Life - Equity Managed Investment Life",
+      "return_one_year": 23.1292,
+      "return_five_year": 11.9022
+    },
+    {
+      "symbol": "0P0000SBP2",
+      "fund": "HDFC Standard Life - Balanced Managed Investment Group",
+      "return_one_year": 15.1854,
+      "return_five_year": 9.870789
+    },
+    {
+      "symbol": "0P0000NNER",
+      "fund": "HDFC Standard Life - Balanced Managed Investment Life II",
+      "return_one_year": 14.5138,
+      "return_five_year": 9.04087
+    },
+    {
+      "symbol": "0P0000VSYT",
+      "fund": "HDFC Standard Life - Group Life Secure Managed Fund",
+      "return_one_year": 8.61866,
+      "return_five_year": 7.56715
+    },
+    {
+      "symbol": "0P0000NNES",
+      "fund": "HDFC Standard Life - Balanced Managed Investment Life",
+      "return_one_year": 15.231499000000001,
+      "return_five_year": 9.5107004
+    }
+  ]
+  

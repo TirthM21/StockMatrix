@@ -1,0 +1,507 @@
+[
+    {
+      "symbol": "0P00005WIX",
+      "fund": "Templeton India Equity Income Fund Growth",
+      "return_one_year": 18.034439,
+      "return_five_year": 13.95727
+    },
+    {
+      "symbol": "0P0000XVQS",
+      "fund": "Templeton India Equity Income Fund - Direct - Growth",
+      "return_one_year": 18.976271,
+      "return_five_year": 14.85975
+    },
+    {
+      "symbol": "0P0000XVQR",
+      "fund": "Templeton India Equity Income Fund Direct Dividend Payout",
+      "return_one_year": 9.173770000000001,
+      "return_five_year": 12.67097
+    },
+    {
+      "symbol": "0P0001BBF2",
+      "fund": "Templeton India Equity Income Fund Dividend Reinvestment",
+      "return_one_year": 8.225109999999999,
+      "return_five_year": 11.76369
+    },
+    {
+      "symbol": "0P00005WIW",
+      "fund": "Templeton India Equity Income Fund Dividend Payout",
+      "return_one_year": 8.225109999999999,
+      "return_five_year": 11.76369
+    },
+    {
+      "symbol": "0P0001BBF1",
+      "fund": "Templeton India Equity Income Fund Direct Dividend Reinvestment",
+      "return_one_year": 9.173770000000001,
+      "return_five_year": 12.67097
+    },
+    {
+      "symbol": "0P0001BBGS",
+      "fund": "UTI Equity Fund Regular Plan Dividend Reinvestment",
+      "return_one_year": 18.38729,
+      "return_five_year": 11.8640296
+    },
+    {
+      "symbol": "0P0000XVSO",
+      "fund": "UTI Equity Fund - Growth Option - Direct",
+      "return_one_year": 19.436197999999997,
+      "return_five_year": 12.86908
+    },
+    {
+      "symbol": "0P0001BBGR",
+      "fund": "UTI Equity Fund Direct Income Reinvestment",
+      "return_one_year": 19.34207,
+      "return_five_year": 12.65035
+    },
+    {
+      "symbol": "0P00005UYJ",
+      "fund": "UTI Equity Fund Regular Plan Growth",
+      "return_one_year": 18.48982,
+      "return_five_year": 12.0918
+    },
+    {
+      "symbol": "0P00005UYI",
+      "fund": "UTI Equity Fund Regular Plan Dividend Payout",
+      "return_one_year": 18.38729,
+      "return_five_year": 11.8640296
+    },
+    {
+      "symbol": "0P0000XVST",
+      "fund": "UTI Equity Fund Direct Income Payout",
+      "return_one_year": 19.34207,
+      "return_five_year": 12.65035
+    },
+    {
+      "symbol": "0P0000NPK3",
+      "fund": "Reliance Life Equity Fund 3",
+      "return_one_year": 22.600439,
+      "return_five_year": 10.6369495
+    },
+    {
+      "symbol": "0P0001BA07",
+      "fund": "DSP Equity Opportunities Fund Dividend Reinvestment",
+      "return_one_year": 25.63706,
+      "return_five_year": 11.53421
+    },
+    {
+      "symbol": "0P0000XW2G",
+      "fund": "DSP Equity Opportunities Fund - Direct Plan - Growth",
+      "return_one_year": 27.51987,
+      "return_five_year": 13.587060000000001
+    },
+    {
+      "symbol": "0P0000XW2F",
+      "fund": "DSP Equity Opportunities Fund Direct Plan Dividend Payout",
+      "return_one_year": 26.811808,
+      "return_five_year": 13.20737
+    },
+    {
+      "symbol": "0P0001BA06",
+      "fund": "DSP Equity Opportunities Fund Direct Plan Dividend Reinvestment",
+      "return_one_year": 26.811808,
+      "return_five_year": 13.20737
+    },
+    {
+      "symbol": "0P00005V9W",
+      "fund": "DSP Equity Opportunities Fund Growth",
+      "return_one_year": 26.318740000000002,
+      "return_five_year": 12.503450999999998
+    },
+    {
+      "symbol": "0P00005V9X",
+      "fund": "DSP Equity Opportunities Fund Dividend Payout",
+      "return_one_year": 25.63706,
+      "return_five_year": 11.53421
+    },
+    {
+      "symbol": "0P00005V03",
+      "fund": "UTI Master Equity Unit Scheme Dividend Payout",
+      "return_one_year": 22.40183,
+      "return_five_year": 10.24394
+    },
+    {
+      "symbol": "0P0001BEQ0",
+      "fund": "UTI Master Equity Unit Scheme Dividend Reinvestment",
+      "return_one_year": 22.40183,
+      "return_five_year": 10.24394
+    },
+    {
+      "symbol": "0P0001IQ8P",
+      "fund": "Tata Focused Equity Fund Regular Dividend Sweep",
+      "return_one_year": 23.913981,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001IQ8N",
+      "fund": "Tata Focused Equity Fund Regular Dividend Payout",
+      "return_one_year": 23.913981,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001IQ8J",
+      "fund": "Tata Focused Equity Fund Direct Dividend Payout",
+      "return_one_year": 26.050649999999997,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001IQ8K",
+      "fund": "Tata Focused Equity Fund Direct Dividend Reinvestment",
+      "return_one_year": 26.050649999999997,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001IQ8I",
+      "fund": "Tata Focused Equity Fund Direct Growth",
+      "return_one_year": 26.050649999999997,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001IQ8O",
+      "fund": "Tata Focused Equity Fund Regular Dividend Reinvestment",
+      "return_one_year": 23.913981,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001IQ8M",
+      "fund": "Tata Focused Equity Fund Regular Growth",
+      "return_one_year": 23.913981,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001IQ8L",
+      "fund": "Tata Focused Equity Fund Direct Dividend Sweep",
+      "return_one_year": 26.050649999999997,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000XVWD",
+      "fund": "Aditya Birla Sun Life Equity Fund Growth Direct Plan",
+      "return_one_year": 24.52057,
+      "return_five_year": 12.096129999999999
+    },
+    {
+      "symbol": "0P0001B9NQ",
+      "fund": "Aditya Birla Sun Life Equity Fund Dividend Reinvestment Direct Plan",
+      "return_one_year": 24.098669,
+      "return_five_year": 9.922519000000001
+    },
+    {
+      "symbol": "0P0000XVWC",
+      "fund": "Aditya Birla Sun Life Equity Fund Dividend Payout Direct Plan",
+      "return_one_year": 24.098669,
+      "return_five_year": 9.922519000000001
+    },
+    {
+      "symbol": "0P0001B9NR",
+      "fund": "Aditya Birla Sun Life Equity Fund Dividend Reinvestment",
+      "return_one_year": 23.065531,
+      "return_five_year": 8.9549504
+    },
+    {
+      "symbol": "0P00005V62",
+      "fund": "Aditya Birla Sun Life Equity Fund Growth",
+      "return_one_year": 23.48519,
+      "return_five_year": 11.112210000000001
+    },
+    {
+      "symbol": "0P00005X31",
+      "fund": "Aditya Birla Sun Life Equity Fund Dividend Payout",
+      "return_one_year": 23.065531,
+      "return_five_year": 8.9549504
+    },
+    {
+      "symbol": "0P0000XW1M",
+      "fund": "DSP Equity Fund - Direct Plan - Growth",
+      "return_one_year": 30.41434,
+      "return_five_year": 14.46538
+    },
+    {
+      "symbol": "0P0000XW1L",
+      "fund": "DSP Equity Fund Direct Plan Dividend Payout",
+      "return_one_year": 29.488438,
+      "return_five_year": 13.453529999999999
+    },
+    {
+      "symbol": "0P0001B9Z7",
+      "fund": "DSP Equity Fund Dividend Reinvestment",
+      "return_one_year": 28.11403,
+      "return_five_year": 12.33675
+    },
+    {
+      "symbol": "0P0001B9Z6",
+      "fund": "DSP Equity Fund Direct Plan Dividend Reinvestment",
+      "return_one_year": 29.488438,
+      "return_five_year": 13.453529999999999
+    },
+    {
+      "symbol": "0P00009J3N",
+      "fund": "DSP Equity Fund Growth",
+      "return_one_year": 29.01228,
+      "return_five_year": 13.33905
+    },
+    {
+      "symbol": "0P00005V93",
+      "fund": "DSP Equity Fund Dividend Payout",
+      "return_one_year": 28.11403,
+      "return_five_year": 12.33675
+    },
+    {
+      "symbol": "0P0000NNG5",
+      "fund": "IDBI Federal Life - Equity Growth Fund",
+      "return_one_year": 22.576071,
+      "return_five_year": 10.24896
+    },
+    {
+      "symbol": "0P0001BAY6",
+      "fund": "Mahindra Dhan Sanchay Equity Savings Yojana Regular Plan Dividend Reinvestment",
+      "return_one_year": 10.828009,
+      "return_five_year": 8.48111
+    },
+    {
+      "symbol": "0P0001BL91",
+      "fund": "BNP Paribas Focused 25 Equity Direct Dividend Payout",
+      "return_one_year": 23.727,
+      "return_five_year": 11.7175
+    },
+    {
+      "symbol": "0P000150PP",
+      "fund": "Aditya Birla Sun Life Equity Savings Fund Regular Plan Growth",
+      "return_one_year": 12.82528,
+      "return_five_year": 6.80897
+    },
+    {
+      "symbol": "0P0001BAUQ",
+      "fund": "L&amp;T Equity Savings Monthly Dividend Reinvestment",
+      "return_one_year": 12.4350004,
+      "return_five_year": 7.320200000000001
+    },
+    {
+      "symbol": "0P0001I6E4",
+      "fund": "Sundaram Equity Fund Direct Dividend Reinvestment",
+      "return_one_year": 38.377430000000004,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P00014KAV",
+      "fund": "IIFL Focused Equity Fund Direct Dividend Payout",
+      "return_one_year": 32.304668,
+      "return_five_year": 18.888920000000002
+    },
+    {
+      "symbol": "0P0001F4G7",
+      "fund": "Indiabulls Equity Hybrid Fund Direct Growth",
+      "return_one_year": 19.91257,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001KWOE",
+      "fund": "Quant ESG Equity Fund Direct Re",
+      "return_one_year": 28.325212,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001F59Q",
+      "fund": "Mirae Asset Equity Savings Fund Direct Dividend Payout",
+      "return_one_year": 14.03051,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001BACK",
+      "fund": "ICICI Prudential Equity Savings Fund Half Yearly Dividend Reinvestment",
+      "return_one_year": 5.1023897,
+      "return_five_year": 6.7866705
+    },
+    {
+      "symbol": "0P0000SBJ8",
+      "fund": "L&amp;T Hybrid Equity Fund Dividend Payout",
+      "return_one_year": 21.28558,
+      "return_five_year": 8.390590000000001
+    },
+    {
+      "symbol": "0P0000XVAU",
+      "fund": "Essel Large Cap Equity Fund Normal Direct Plan Dividend Payout Option",
+      "return_one_year": -0.54145004,
+      "return_five_year": 8.746371
+    },
+    {
+      "symbol": "0P0001BAYJ",
+      "fund": "Mirae Asset Hybrid Equity Fund -Direct Plan-Dividend Reinvestment",
+      "return_one_year": 20.43392,
+      "return_five_year": 12.619
+    },
+    {
+      "symbol": "0P0001HZ1C",
+      "fund": "Baroda Equity Savings Fund Regular Dividend Payout",
+      "return_one_year": 12.61379,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000XUZU",
+      "fund": "IDBI Equity Savings Direct Monthly Dividend Payout",
+      "return_one_year": 11.32883,
+      "return_five_year": 7.5963199999999995
+    },
+    {
+      "symbol": "0P0001FAJJ",
+      "fund": "Shriram Long Term Equity Fund Regular Dividend Payout",
+      "return_one_year": 20.133630999999998,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P00011W4H",
+      "fund": "Invesco India Feeder - Invesco Pan European Equity Fund Regular Growth",
+      "return_one_year": 32.52504,
+      "return_five_year": 5.9594497
+    },
+    {
+      "symbol": "0P00012IEI",
+      "fund": "BOI AXA Equity Debt Rebalancer Direct Growth",
+      "return_one_year": 17.32823,
+      "return_five_year": 6.3291200000000005
+    },
+    {
+      "symbol": "0P0001BCQQ",
+      "fund": "Axis Dynamic Equity Fund Regular Dividend Reinvestment",
+      "return_one_year": 14.64292,
+      "return_five_year": 8.92553
+    },
+    {
+      "symbol": "0P0001J415",
+      "fund": "Axis ESG Equity Fund Direct Pyt",
+      "return_one_year": 22.149299,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P00016H70",
+      "fund": "Mirae Asset Hybrid Equity Fund -Direct Plan-Growth",
+      "return_one_year": 21.22155,
+      "return_five_year": 13.380749999999999
+    },
+    {
+      "symbol": "0P00005WK8",
+      "fund": "UTI Hybrid Equity Fund Regular Plan Growth",
+      "return_one_year": 22.520149,
+      "return_five_year": 10.674869
+    },
+    {
+      "symbol": "0P00005WK7",
+      "fund": "UTI Hybrid Equity Fund Regular Plan Dividend Payout",
+      "return_one_year": 22.3694,
+      "return_five_year": 9.91166
+    },
+    {
+      "symbol": "0P0001BBFQ",
+      "fund": "UTI Hybrid Equity Fund Regular Plan Dividend Reinvestment",
+      "return_one_year": 22.3694,
+      "return_five_year": 9.91166
+    },
+    {
+      "symbol": "0P0000XVSB",
+      "fund": "UTI Hybrid Equity Fund-Growth - Direct",
+      "return_one_year": 23.291819999999998,
+      "return_five_year": 11.42271
+    },
+    {
+      "symbol": "0P0001BBFP",
+      "fund": "UTI Hybrid Equity Fund-Direct Income Reinvestment",
+      "return_one_year": 23.161249,
+      "return_five_year": 10.695490000000001
+    },
+    {
+      "symbol": "0P0000XVSA",
+      "fund": "UTI Hybrid Equity Fund-Direct Income Payout",
+      "return_one_year": 23.161249,
+      "return_five_year": 10.695490000000001
+    },
+    {
+      "symbol": "0P0000NQJX",
+      "fund": "Tata AIA Life - Super Select Equity Fund",
+      "return_one_year": 25.566329999999997,
+      "return_five_year": 12.28623
+    },
+    {
+      "symbol": "0P0000XW5B",
+      "fund": "Franklin India Focused Equity Fund - Direct - Growth",
+      "return_one_year": 28.573900000000002,
+      "return_five_year": 15.37675
+    },
+    {
+      "symbol": "0P0001BA4S",
+      "fund": "Franklin India Focused Equity Fund Dividend Reinvestment",
+      "return_one_year": 16.339791,
+      "return_five_year": 11.91225
+    },
+    {
+      "symbol": "0P00009JAS",
+      "fund": "Franklin India Focused Equity Fund Dividend Payout",
+      "return_one_year": 16.339791,
+      "return_five_year": 11.91225
+    },
+    {
+      "symbol": "0P00009JCI",
+      "fund": "Franklin India Focused Equity Fund - Growth",
+      "return_one_year": 27.515159999999998,
+      "return_five_year": 14.37138
+    },
+    {
+      "symbol": "0P0001BA4R",
+      "fund": "Franklin India Focused Equity Fund Direct Dividend Reinvestment",
+      "return_one_year": 18.73568,
+      "return_five_year": 13.239429999999999
+    },
+    {
+      "symbol": "0P0000XW5A",
+      "fund": "Franklin India Focused Equity Fund Direct Dividend Payout",
+      "return_one_year": 18.73568,
+      "return_five_year": 13.239429999999999
+    },
+    {
+      "symbol": "0P0000XW9A",
+      "fund": "HSBC Large Cap Equity Fund - Growth Direct",
+      "return_one_year": 26.520148,
+      "return_five_year": 11.81837
+    },
+    {
+      "symbol": "0P0001BA9S",
+      "fund": "HSBC Large Cap Equity Fund Dividend Reinvestment",
+      "return_one_year": 14.640329999999999,
+      "return_five_year": 7.01499
+    },
+    {
+      "symbol": "0P00005WNT",
+      "fund": "HSBC Large Cap Equity Fund Growth",
+      "return_one_year": 25.323352,
+      "return_five_year": 10.80834
+    },
+    {
+      "symbol": "0P0001BA9R",
+      "fund": "HSBC Large Cap Equity Fund Direct Dividend Reinvestment",
+      "return_one_year": 15.008830000000001,
+      "return_five_year": 7.52278
+    },
+    {
+      "symbol": "0P00005WNR",
+      "fund": "HSBC Large Cap Equity Fund Dividend Payout",
+      "return_one_year": 14.640329999999999,
+      "return_five_year": 7.01499
+    },
+    {
+      "symbol": "0P0000XW99",
+      "fund": "HSBC Large Cap Equity Fund Direct Dividend Payout",
+      "return_one_year": 15.008830000000001,
+      "return_five_year": 7.52278
+    },
+    {
+      "symbol": "0P00005VAD",
+      "fund": "DSP Top 100 Equity Fund Dividend Payout",
+      "return_one_year": 25.28143,
+      "return_five_year": 8.33451
+    },
+    {
+      "symbol": "0P0001BA0Q",
+      "fund": "DSP Top 100 Equity Fund Dividend Reinvestment",
+      "return_one_year": 25.28143,
+      "return_five_year": 8.33451
+    }
+  ]
+  

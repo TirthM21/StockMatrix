@@ -1,0 +1,375 @@
+[
+    {
+      "symbol": "0P00008TT2",
+      "fund": "IDFC Large Cap Fund Growth",
+      "return_one_year": 24.392019,
+      "return_five_year": 10.72872
+    },
+    {
+      "symbol": "0P0001BAKL",
+      "fund": "IDFC Large Cap Fund Direct Plan Dividend Reinvestment",
+      "return_one_year": 25.690849999999998,
+      "return_five_year": 11.1552894
+    },
+    {
+      "symbol": "0P0001BAKK",
+      "fund": "IDFC Large Cap Fund Dividend Reinvestment",
+      "return_one_year": 24.169269,
+      "return_five_year": 9.9556305
+    },
+    {
+      "symbol": "0P00008THT",
+      "fund": "IDFC Large Cap Fund Dividend Payout",
+      "return_one_year": 24.169269,
+      "return_five_year": 9.9556305
+    },
+    {
+      "symbol": "0P0000XV0H",
+      "fund": "IDFC Large Cap Fund Direct Plan Growth",
+      "return_one_year": 25.951220000000003,
+      "return_five_year": 11.96362
+    },
+    {
+      "symbol": "0P0000XWC9",
+      "fund": "IDFC Large Cap Fund Direct Plan Dividend Payout",
+      "return_one_year": 25.690849999999998,
+      "return_five_year": 11.1552894
+    },
+    {
+      "symbol": "0P0001BAKA",
+      "fund": "IDFC Dynamic Bond Fund Direct Plan Half Yearly Dividend Reinvestment",
+      "return_one_year": 5.83751,
+      "return_five_year": 6.2443
+    },
+    {
+      "symbol": "0P0001J6FU",
+      "fund": "IDFC Emerging Businesses Fund D",
+      "return_one_year": 30.09814,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001LVSI",
+      "fund": "IDFC Gilt 2027 Index Fund Regul",
+      "return_one_year": 8.293629399999999,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000Y7XW",
+      "fund": "IDFC Banking - PSU Debt Fund Direct Dividend Payout",
+      "return_one_year": 6.90589,
+      "return_five_year": 5.8207303
+    },
+    {
+      "symbol": "0P00019R19",
+      "fund": "IDFC Credit Risk Fund Regular Periodic Dividend Payout",
+      "return_one_year": 6.43865,
+      "return_five_year": 4.4573
+    },
+    {
+      "symbol": "0P0000NOLZ",
+      "fund": "IDFC Nifty Fund Growth",
+      "return_one_year": 23.09947,
+      "return_five_year": 12.573690000000001
+    },
+    {
+      "symbol": "0P0000N0BA",
+      "fund": "IDFC Regular Savings Fund Regular Plan Growth",
+      "return_one_year": 8.78556,
+      "return_five_year": 5.93508
+    },
+    {
+      "symbol": "0P0000XV0T",
+      "fund": "IDFC Regular Savings Fund Direct Plan Dividend Payout",
+      "return_one_year": 6.731520000000001,
+      "return_five_year": 5.54627
+    },
+    {
+      "symbol": "0P0000Y7XU",
+      "fund": "IDFC Banking - PSU Debt Fund Regular Dividend Payout",
+      "return_one_year": 6.586930000000001,
+      "return_five_year": 5.7174000000000005
+    },
+    {
+      "symbol": "0P0001DJQU",
+      "fund": "IDFC Fixed Term Plan Series 152 Half Yearly Dividend",
+      "return_one_year": 4.17184,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000V77R",
+      "fund": "IDFC Cash Fund Regular Plan Monthly Dividend Payout",
+      "return_one_year": 2.2156100000000003,
+      "return_five_year": 3.44884
+    },
+    {
+      "symbol": "0P0001I2MF",
+      "fund": "IDFC Cash Fund Unclaimed Dividend Less than Three Years",
+      "return_one_year": 6.43152,
+      "return_five_year": 5.19979
+    },
+    {
+      "symbol": "0P0001BAJK",
+      "fund": "IDFC Cash Fund Direct Plan Periodic Dividend Reinvestment",
+      "return_one_year": 6.425409999999999,
+      "return_five_year": -2.72098
+    },
+    {
+      "symbol": "0P0001I2MI",
+      "fund": "IDFC Cash Fund Unclaimed Redemption More than Three Years",
+      "return_one_year": 0.0,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001BAJM",
+      "fund": "IDFC Cash Fund Regular Plan Monthly Dividend Reinvestment",
+      "return_one_year": 2.2156100000000003,
+      "return_five_year": 3.44884
+    },
+    {
+      "symbol": "0P0000NONL",
+      "fund": "IDFC Cash Fund - Regular Plan - Growth",
+      "return_one_year": 6.297,
+      "return_five_year": 5.1224697
+    },
+    {
+      "symbol": "0P0000XY0V",
+      "fund": "IDFC Cash Fund Direct Plan Monthly Dividend Payout",
+      "return_one_year": 2.2621801,
+      "return_five_year": 3.5008
+    },
+    {
+      "symbol": "0P0001BAJJ",
+      "fund": "IDFC Cash Fund Direct Plan Monthly Dividend Reinvestment",
+      "return_one_year": 2.2621801,
+      "return_five_year": 3.5008
+    },
+    {
+      "symbol": "0P0000XV09",
+      "fund": "IDFC Cash Fund - Direct Plan - Growth",
+      "return_one_year": 6.4264104,
+      "return_five_year": 5.19829
+    },
+    {
+      "symbol": "0P0000YWKN",
+      "fund": "IDFC Cash Fund Direct Plan Periodic Dividend Payout",
+      "return_one_year": 6.425409999999999,
+      "return_five_year": -2.72098
+    },
+    {
+      "symbol": "0P0001BAJN",
+      "fund": "IDFC Cash Fund Regular Plan Periodic Dividend Reinvestment",
+      "return_one_year": 6.2973799999999995,
+      "return_five_year": 1.40982
+    },
+    {
+      "symbol": "0P0001I2MH",
+      "fund": "IDFC Cash Fund Unclaimed Redemption Less than Three Years",
+      "return_one_year": 6.43152,
+      "return_five_year": 5.19979
+    },
+    {
+      "symbol": "0P0001BAJO",
+      "fund": "IDFC Cash Fund Regular Plan Weekly Dividend Reinvestment",
+      "return_one_year": 3.2574199999999998,
+      "return_five_year": 3.59938
+    },
+    {
+      "symbol": "0P00005VEU",
+      "fund": "IDFC Cash Fund Regular Plan Daily Dividend Payout",
+      "return_one_year": 5.61625,
+      "return_five_year": 4.3746599999999995
+    },
+    {
+      "symbol": "0P0000XV0C",
+      "fund": "IDFC Cash Fund Direct Plan Weekly Dividend Reinvestment",
+      "return_one_year": 3.32632,
+      "return_five_year": 3.6523600000000003
+    },
+    {
+      "symbol": "0P0001BAJL",
+      "fund": "IDFC Cash Fund Regular Plan Daily Dividend Reinvestment",
+      "return_one_year": 5.61625,
+      "return_five_year": 4.3746599999999995
+    },
+    {
+      "symbol": "0P0001I2MG",
+      "fund": "IDFC Cash Fund Unclaimed Dividend More than Three Years",
+      "return_one_year": 0.0,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000V77U",
+      "fund": "IDFC Cash Fund Regular Plan Periodic Dividend Payout",
+      "return_one_year": 6.2973799999999995,
+      "return_five_year": 1.40982
+    },
+    {
+      "symbol": "0P0000INYN",
+      "fund": "IDFC Cash Fund Regular Plan Weekly Dividend Payout",
+      "return_one_year": 3.2574199999999998,
+      "return_five_year": 3.59938
+    },
+    {
+      "symbol": "0P0000XV0A",
+      "fund": "IDFC Cash Fund Direct Plan Daily Dividend Reinvestment",
+      "return_one_year": 5.7285200000000005,
+      "return_five_year": 4.43996
+    },
+    {
+      "symbol": "0P0000XV17",
+      "fund": "IDFC Multi Cap Fund-Direct Plan-Dividend Payout",
+      "return_one_year": 24.21435,
+      "return_five_year": 7.91366
+    },
+    {
+      "symbol": "0P0001BAM0",
+      "fund": "IDFC Multi Cap Fund-Direct Plan-Dividend Reinvestment",
+      "return_one_year": 24.21435,
+      "return_five_year": 7.91366
+    },
+    {
+      "symbol": "0P00005WFN",
+      "fund": "IDFC Multi Cap Fund Growth",
+      "return_one_year": 23.633409999999998,
+      "return_five_year": 8.94162
+    },
+    {
+      "symbol": "0P0001BALZ",
+      "fund": "IDFC Multi Cap Fund Dividend Reinvestment",
+      "return_one_year": 23.32918,
+      "return_five_year": 7.1641594
+    },
+    {
+      "symbol": "0P0000XV16",
+      "fund": "IDFC Multi Cap Fund-Direct Plan-Growth",
+      "return_one_year": 24.530701,
+      "return_five_year": 9.70806
+    },
+    {
+      "symbol": "0P00005WFK",
+      "fund": "IDFC Multi Cap Fund Dividend Payout",
+      "return_one_year": 23.32918,
+      "return_five_year": 7.1641594
+    },
+    {
+      "symbol": "0P000093BO",
+      "fund": "IDFC Arbitrage Fund Regular Plan Dividend Payout",
+      "return_one_year": 1.9048199,
+      "return_five_year": 3.6270196999999995
+    },
+    {
+      "symbol": "0P00015M8L",
+      "fund": "IDFC Arbitrage Fund-Regular Plan- Annual Dividend Payout",
+      "return_one_year": 0.4248,
+      "return_five_year": 2.63399
+    },
+    {
+      "symbol": "0P0000XXYE",
+      "fund": "IDFC Arbitrage Fund - Direct Plan - Growth",
+      "return_one_year": 6.41694,
+      "return_five_year": 5.58361
+    },
+    {
+      "symbol": "0P0001BAJ2",
+      "fund": "IDFC Arbitrage Fund Regular Plan Dividend Reinvestment",
+      "return_one_year": 1.9048199,
+      "return_five_year": 3.6270196999999995
+    },
+    {
+      "symbol": "0P000093FW",
+      "fund": "IDFC Arbitrage Fund - Regular Plan - Growth",
+      "return_one_year": 5.69091,
+      "return_five_year": 4.8428103
+    },
+    {
+      "symbol": "0P0001BAJ1",
+      "fund": "IDFC Arbitrage Fund-Regular Plan- Annual Dividend Reinvestment",
+      "return_one_year": 0.4248,
+      "return_five_year": 2.63399
+    },
+    {
+      "symbol": "0P00015BZ3",
+      "fund": "IDFC Arbitrage Fund-Direct Plan- Annual Dividend Payout",
+      "return_one_year": 1.1155699,
+      "return_five_year": 3.3576
+    },
+    {
+      "symbol": "0P0001BAIV",
+      "fund": "IDFC Arbitrage Fund-Direct Plan- Annual Dividend Reinvestment",
+      "return_one_year": 1.1155699,
+      "return_five_year": 3.3576
+    },
+    {
+      "symbol": "0P0000XY13",
+      "fund": "IDFC Arbitrage Fund Direct Plan Dividend Payout",
+      "return_one_year": 2.60595,
+      "return_five_year": 4.3357
+    },
+    {
+      "symbol": "0P0001BAIW",
+      "fund": "IDFC Arbitrage Fund Direct Plan Dividend Reinvestment",
+      "return_one_year": 2.60595,
+      "return_five_year": 4.3357
+    },
+    {
+      "symbol": "0P0000XV0B",
+      "fund": "IDFC Core Equity Fund Direct Plan Dividend Payout",
+      "return_one_year": 31.866650000000003,
+      "return_five_year": 12.630820000000002
+    },
+    {
+      "symbol": "0P00005WFH",
+      "fund": "IDFC Core Equity Fund - Growth",
+      "return_one_year": 30.605909999999998,
+      "return_five_year": 11.72153
+    },
+    {
+      "symbol": "0P0000XV0E",
+      "fund": "IDFC Core Equity Fund Direct Plan Growth",
+      "return_one_year": 32.161837999999996,
+      "return_five_year": 13.07712
+    },
+    {
+      "symbol": "0P0001BAJQ",
+      "fund": "IDFC Core Equity Fund Direct Plan Dividend Reinvestment",
+      "return_one_year": 31.866650000000003,
+      "return_five_year": 12.630820000000002
+    },
+    {
+      "symbol": "0P00005WFG",
+      "fund": "IDFC Core Equity Fund - Dividend Payout",
+      "return_one_year": 30.32743,
+      "return_five_year": 10.927129500000001
+    },
+    {
+      "symbol": "0P0001BAJP",
+      "fund": "IDFC Core Equity Fund - Dividend Reinvestment",
+      "return_one_year": 30.32743,
+      "return_five_year": 10.927129500000001
+    },
+    {
+      "symbol": "0P0000XV0O",
+      "fund": "IDFC Focused Equity Fund - Direct Plan - Dividend Payout",
+      "return_one_year": 27.166188000000002,
+      "return_five_year": 9.01305
+    },
+    {
+      "symbol": "0P0001BAKM",
+      "fund": "IDFC Focused Equity Fund - Regular Plan - Dividend Reinvestment",
+      "return_one_year": 25.56712,
+      "return_five_year": 7.265230000000001
+    },
+    {
+      "symbol": "0P0000XV0P",
+      "fund": "IDFC Focused Equity Fund - Direct Plan - Growth",
+      "return_one_year": 27.452520000000003,
+      "return_five_year": 9.12934
+    },
+    {
+      "symbol": "0P00005WFJ",
+      "fund": "IDFC Focused Equity Fund - Regular Plan - Dividend Payout",
+      "return_one_year": 25.56712,
+      "return_five_year": 7.265230000000001
+    }
+  ]
+  

@@ -1,0 +1,243 @@
+[
+    {
+      "#": 1,
+      "ticker Number": 500820,
+      "Syl": "ASIANPAINT",
+      "Companies": "Asian Paints",
+      "Sector": "Paints",
+      "Unnamed: 5": "21 December 2015[4]"
+    },
+    {
+      "#": 2,
+      "ticker Number": 532215,
+      "Syl": "AXISBANK",
+      "Companies": "Axis Bank",
+      "Sector": "Banking - Private",
+      "Unnamed: 5": null
+    },
+    {
+      "#": 3,
+      "ticker Number": 532977,
+      "Syl": "BAJAJ-AUTO",
+      "Companies": "Bajaj Auto",
+      "Sector": "Automobile",
+      "Unnamed: 5": null
+    },
+    {
+      "#": 4,
+      "ticker Number": 500034,
+      "Syl": "BAJFINANCE",
+      "Companies": "Bajaj Finance",
+      "Sector": "Finance (NBFC)",
+      "Unnamed: 5": "24 December 2018[5]"
+    },
+    {
+      "#": 5,
+      "ticker Number": 532978,
+      "Syl": "BAJAJFINSV",
+      "Companies": "Bajaj Finserv",
+      "Sector": "Finance (Investment)",
+      "Unnamed: 5": null
+    },
+    {
+      "#": 6,
+      "ticker Number": 532454,
+      "Syl": "BHARTIARTL",
+      "Companies": "Bharti Airtel",
+      "Sector": "Telecommunications",
+      "Unnamed: 5": null
+    },
+    {
+      "#": 7,
+      "ticker Number": 500124,
+      "Syl": "DRREDDY",
+      "Companies": "Dr Reddy's Lratories",
+      "Sector": "Pharmaceuticals",
+      "Unnamed: 5": null
+    },
+    {
+      "#": 8,
+      "ticker Number": 532281,
+      "Syl": "HCLTECH",
+      "Companies": "HCL Technologies",
+      "Sector": "IT Services & Consulting",
+      "Unnamed: 5": null
+    },
+    {
+      "#": 9,
+      "ticker Number": 500010,
+      "Syl": "HDFC",
+      "Companies": "HDFC",
+      "Sector": "Finance (Housing)",
+      "Unnamed: 5": null
+    },
+    {
+      "#": 10,
+      "ticker Number": 500180,
+      "Syl": "HDFCBANK",
+      "Companies": "HDFC Bank",
+      "Sector": "Banking - Private",
+      "Unnamed: 5": null
+    },
+    {
+      "#": 11,
+      "ticker Number": 500696,
+      "Syl": "HINDUNILVR",
+      "Companies": "Hindustan Unilever Limited",
+      "Sector": "FMCG",
+      "Unnamed: 5": null
+    },
+    {
+      "#": 12,
+      "ticker Number": 532174,
+      "Syl": "ICICIBANK",
+      "Companies": "ICICI Bank",
+      "Sector": "Banking - Private",
+      "Unnamed: 5": null
+    },
+    {
+      "#": 13,
+      "ticker Number": 532187,
+      "Syl": "INDUSINDBK",
+      "Companies": "IndusInd Bank",
+      "Sector": "Banking - Private",
+      "Unnamed: 5": "18 December 2017[6]"
+    },
+    {
+      "#": 14,
+      "ticker Number": 500209,
+      "Syl": "INFY",
+      "Companies": "Infosys",
+      "Sector": "IT Services & Consulting",
+      "Unnamed: 5": null
+    },
+    {
+      "#": 15,
+      "ticker Number": 500875,
+      "Syl": "ITC",
+      "Companies": "ITC Limited",
+      "Sector": "Cigarettes & FMCG",
+      "Unnamed: 5": null
+    },
+    {
+      "#": 16,
+      "ticker Number": 500247,
+      "Syl": "KOTAKBANK",
+      "Companies": "Kotak Mahindra Bank",
+      "Sector": "Banking - Private",
+      "Unnamed: 5": "19 June 2017[7]"
+    },
+    {
+      "#": 17,
+      "ticker Number": 500510,
+      "Syl": "LT",
+      "Companies": "Larsen & Toubro",
+      "Sector": "Engineering & Construction",
+      "Unnamed: 5": null
+    },
+    {
+      "#": 18,
+      "ticker Number": 500520,
+      "Syl": "M&M",
+      "Companies": "Mahindra & Mahindra",
+      "Sector": "Automobile",
+      "Unnamed: 5": null
+    },
+    {
+      "#": 19,
+      "ticker Number": 532500,
+      "Syl": "MARUTI",
+      "Companies": "Maruti Suzuki",
+      "Sector": "Automobile",
+      "Unnamed: 5": null
+    },
+    {
+      "#": 20,
+      "ticker Number": 500790,
+      "Syl": "NESTLEIND",
+      "Companies": "Nestl\u00e9 India",
+      "Sector": "FMCG",
+      "Unnamed: 5": "23 Dec 2019[8]"
+    },
+    {
+      "#": 21,
+      "ticker Number": 532555,
+      "Syl": "NTPC",
+      "Companies": "NTPC",
+      "Sector": "Power generation/Distribution",
+      "Unnamed: 5": null
+    },
+    {
+      "#": 22,
+      "ticker Number": 500312,
+      "Syl": "ONGC",
+      "Companies": "Oil and Natural Gas Corporation",
+      "Sector": "Oil exploration and Production",
+      "Unnamed: 5": null
+    },
+    {
+      "#": 23,
+      "ticker Number": 532898,
+      "Syl": "POWERGRID",
+      "Companies": "Power Grid Corporation of India",
+      "Sector": "Power generation/Distribution",
+      "Unnamed: 5": "20 June 2016[9]"
+    },
+    {
+      "#": 24,
+      "ticker Number": 500325,
+      "Syl": "RELIANCE",
+      "Companies": "Reliance Industries Limited",
+      "Sector": "Conglomerate",
+      "Unnamed: 5": null
+    },
+    {
+      "#": 25,
+      "ticker Number": 500112,
+      "Syl": "SBIN",
+      "Companies": "State Bank of India",
+      "Sector": "Banking - Public",
+      "Unnamed: 5": null
+    },
+    {
+      "#": 26,
+      "ticker Number": 524715,
+      "Syl": "SUNPHARMA",
+      "Companies": "Sun Pharma",
+      "Sector": "Pharmaceuticals",
+      "Unnamed: 5": "8 August 2011[10]"
+    },
+    {
+      "#": 27,
+      "ticker Number": 532540,
+      "Syl": "TCS",
+      "Companies": "Tata Consultancy Services",
+      "Sector": "IT Services & Consulting",
+      "Unnamed: 5": null
+    },
+    {
+      "#": 28,
+      "ticker Number": 532755,
+      "Syl": "TECHM",
+      "Companies": "Tech Mahindra",
+      "Sector": "IT Services & Consulting",
+      "Unnamed: 5": null
+    },
+    {
+      "#": 29,
+      "ticker Number": 500114,
+      "Syl": "TITAN",
+      "Companies": "Titan Company",
+      "Sector": "Diamond & Jewellery",
+      "Unnamed: 5": "23 Dec 2019[8]"
+    },
+    {
+      "#": 30,
+      "ticker Number": 532538,
+      "Syl": "ULTRACEMCO",
+      "Companies": "UltraTech Cement",
+      "Sector": "Cement",
+      "Unnamed: 5": "23 Dec 2019[8]"
+    }
+  ]
+  

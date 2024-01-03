@@ -1,0 +1,195 @@
+[
+    {
+      "symbol": "0P0001BBGS",
+      "fund": "UTI Equity Fund Regular Plan Dividend Reinvestment",
+      "return_one_year": 18.38729,
+      "return_five_year": 11.8640296
+    },
+    {
+      "symbol": "0P0000XVSO",
+      "fund": "UTI Equity Fund - Growth Option - Direct",
+      "return_one_year": 19.436197999999997,
+      "return_five_year": 12.86908
+    },
+    {
+      "symbol": "0P0001BBGR",
+      "fund": "UTI Equity Fund Direct Income Reinvestment",
+      "return_one_year": 19.34207,
+      "return_five_year": 12.65035
+    },
+    {
+      "symbol": "0P00005UYJ",
+      "fund": "UTI Equity Fund Regular Plan Growth",
+      "return_one_year": 18.48982,
+      "return_five_year": 12.0918
+    },
+    {
+      "symbol": "0P00005UYI",
+      "fund": "UTI Equity Fund Regular Plan Dividend Payout",
+      "return_one_year": 18.38729,
+      "return_five_year": 11.8640296
+    },
+    {
+      "symbol": "0P0000XVST",
+      "fund": "UTI Equity Fund Direct Income Payout",
+      "return_one_year": 19.34207,
+      "return_five_year": 12.65035
+    },
+    {
+      "symbol": "0P0001BBHP",
+      "fund": "UTI Infrastructure Fund-Direct Income Reinvestment",
+      "return_one_year": 36.0257,
+      "return_five_year": 12.53775
+    },
+    {
+      "symbol": "0P0000XVT2",
+      "fund": "UTI Infrastructure Fund-Growth Option- Direct",
+      "return_one_year": 36.025742,
+      "return_five_year": 12.5376
+    },
+    {
+      "symbol": "0P00005UZV",
+      "fund": "UTI Infrastructure Fund Regular Plan Dividend Payout",
+      "return_one_year": 35.550169999999994,
+      "return_five_year": 12.12916
+    },
+    {
+      "symbol": "0P0000XVSW",
+      "fund": "UTI Infrastructure Fund-Direct Income Payout",
+      "return_one_year": 36.0257,
+      "return_five_year": 12.53775
+    },
+    {
+      "symbol": "0P0001BBHQ",
+      "fund": "UTI Infrastructure Fund Regular Plan Dividend Reinvestment",
+      "return_one_year": 35.550169999999994,
+      "return_five_year": 12.12916
+    },
+    {
+      "symbol": "0P00005UZX",
+      "fund": "UTI Infrastructure Fund Regular Plan Growth",
+      "return_one_year": 35.55021,
+      "return_five_year": 12.1290706
+    },
+    {
+      "symbol": "0P00005V03",
+      "fund": "UTI Master Equity Unit Scheme Dividend Payout",
+      "return_one_year": 22.40183,
+      "return_five_year": 10.24394
+    },
+    {
+      "symbol": "0P0001BEQ0",
+      "fund": "UTI Master Equity Unit Scheme Dividend Reinvestment",
+      "return_one_year": 22.40183,
+      "return_five_year": 10.24394
+    },
+    {
+      "symbol": "0P00019SSU",
+      "fund": "UTI Dual Advantage Fixed Term Fund Series IV-IV (1997 Days) - Direct Plan - Dividend Option",
+      "return_one_year": 11.5329,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001EBWP",
+      "fund": "UTI Corporate Bond Fund Direct Flexi Dividend Reinvestment",
+      "return_one_year": 7.04095,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001BBGQ",
+      "fund": "UTI Dynamic Bond Fund Regular Plan Half Yearly Dividend Reinvestment Option",
+      "return_one_year": 6.20976,
+      "return_five_year": 5.737
+    },
+    {
+      "symbol": "0P0001H07J",
+      "fund": "UTI Fixed Term Income Fund Series XXXI-VIII 1153 Days Direct Maturity Dividend Payout",
+      "return_one_year": 4.0652398,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001FIFS",
+      "fund": "UTI Fixed Term Income Fund Series XXXI-III 1174 Days Direct Annual Dividend",
+      "return_one_year": 3.8414200000000003,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001HB15",
+      "fund": "UTI-Fixed Term Income Fund - Series XXXI - XIII (1127 days) Regular Maturity Dividend Payout",
+      "return_one_year": 5.2978702,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000CNVD",
+      "fund": "UTI Fixed Income Interval Fund Half Yearly II Regular Dividend Payout",
+      "return_one_year": 2.6222,
+      "return_five_year": 3.7081799999999996
+    },
+    {
+      "symbol": "0P0001EBWV",
+      "fund": "UTI Corporate Bond Fund Regular Quarterly Dividend Reinvestment",
+      "return_one_year": 6.69986,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001LMOB",
+      "fund": "UTI Nifty200 Momentum 30 Index ",
+      "return_one_year": 30.701178000000002,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P00011WHN",
+      "fund": "UTI Banking - PSU Debt Fund Direct Quarterly Dividend Payout",
+      "return_one_year": 8.22402,
+      "return_five_year": 5.72719
+    },
+    {
+      "symbol": "0P0001BBHI",
+      "fund": "UTI Credit Risk Fund Regular Plan Dividend Reinvestment",
+      "return_one_year": 6.8781300000000005,
+      "return_five_year": -1.6726299999999998
+    },
+    {
+      "symbol": "0P0001HPM0",
+      "fund": "UTI Fixed Term Income Fund Series XXXII-I 1126 Days Regular Annual Dividend Payout",
+      "return_one_year": 5.08087,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000CNR9",
+      "fund": "UTI Fixed Income Interval Fund Monthly Plan I - Regular Dividend Payout",
+      "return_one_year": 2.33757,
+      "return_five_year": 3.4850100000000004
+    },
+    {
+      "symbol": "0P0001H235",
+      "fund": "UTI-Fixed Term Income Fund Series XXXI - IX 1168 Days Direct Growth",
+      "return_one_year": 6.1786,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001HG6G",
+      "fund": "UTI Fixed Term Income Fund - Series XXXI-XIV 1111 Days Direct Quarterly Dividend Payout",
+      "return_one_year": 5.581639699999999,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000IUES",
+      "fund": "UTI Fixed Income Interval Fund Series 2 Qtly Interval Plan IV Growth",
+      "return_one_year": 2.8290800000000003,
+      "return_five_year": 4.9721
+    },
+    {
+      "symbol": "0P000151C3",
+      "fund": "UTI Credit Risk Fund Regular Plan Monthly Dividend Payout Option",
+      "return_one_year": 6.87788,
+      "return_five_year": -1.85757
+    },
+    {
+      "symbol": "0P0001ESEW",
+      "fund": "UTI Floater Dir Ann DR",
+      "return_one_year": 6.8132600000000005,
+      "return_five_year": 0.0
+    }
+  ]
+  

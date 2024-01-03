@@ -1,0 +1,579 @@
+[
+    {
+      "symbol": "0P0001BB2V",
+      "fund": "Nippon India Floating Rate Fund Direct Plan Monthly Dividend Reinvestment Plan",
+      "return_one_year": 7.03444,
+      "return_five_year": 6.58119
+    },
+    {
+      "symbol": "0P0001BB2Z",
+      "fund": "Nippon India Floating Rate Fund Monthly Dividend Reinvestment",
+      "return_one_year": 0.8185100000000001,
+      "return_five_year": 5.029300200000001
+    },
+    {
+      "symbol": "0P0001BB2U",
+      "fund": "Nippon India Floating Rate Fund Direct Plan Dividend Reinvestment",
+      "return_one_year": 6.9918700000000005,
+      "return_five_year": 7.54427
+    },
+    {
+      "symbol": "0P0000XVDH",
+      "fund": "Nippon India Floating Rate Fund Direct Plan Growth Plan",
+      "return_one_year": 7.0759505,
+      "return_five_year": 7.52313
+    },
+    {
+      "symbol": "0P00005UOR",
+      "fund": "Nippon India Floating Rate Fund Monthly Dividend Payout",
+      "return_one_year": 0.8185100000000001,
+      "return_five_year": 5.029300200000001
+    },
+    {
+      "symbol": "0P0000XVDM",
+      "fund": "Nippon India Floating Rate Fund Direct Plan Daily Dividend Reinvestment Plan",
+      "return_one_year": 6.96417,
+      "return_five_year": 6.51012
+    },
+    {
+      "symbol": "0P0001CMV6",
+      "fund": "Nippon India Floating Rate Fund Quarterly Dividend Reinvestment",
+      "return_one_year": 2.02532,
+      "return_five_year": 4.8835702
+    },
+    {
+      "symbol": "0P00005UOT",
+      "fund": "Nippon India Floating Rate Fund Growth",
+      "return_one_year": 6.726509999999999,
+      "return_five_year": 7.1219705
+    },
+    {
+      "symbol": "0P0001BB30",
+      "fund": "Nippon India Floating Rate Fund Weekly Dividend Reinvestment",
+      "return_one_year": 6.726739599999999,
+      "return_five_year": 6.25844
+    },
+    {
+      "symbol": "0P0000ZN0V",
+      "fund": "Nippon India Floating Rate Fund Direct Plan Dividend Payout",
+      "return_one_year": 6.9918700000000005,
+      "return_five_year": 7.54427
+    },
+    {
+      "symbol": "0P0001BB2X",
+      "fund": "Nippon India Floating Rate Fund Direct Plan Weekly Dividend Reinvestment Plan",
+      "return_one_year": 7.0764,
+      "return_five_year": 6.60449
+    },
+    {
+      "symbol": "0P0000XXYI",
+      "fund": "Nippon India Floating Rate Fund Direct Plan Quarterly Dividend Payout Plan",
+      "return_one_year": 4.4113003,
+      "return_five_year": 5.60496
+    },
+    {
+      "symbol": "0P00005UOU",
+      "fund": "Nippon India Floating Rate Fund Weekly Dividend Payout",
+      "return_one_year": 6.726739599999999,
+      "return_five_year": 6.25844
+    },
+    {
+      "symbol": "0P00005UOS",
+      "fund": "Nippon India Floating Rate Fund Daily Dividend Reinvestment",
+      "return_one_year": 6.617520000000001,
+      "return_five_year": 6.1649
+    },
+    {
+      "symbol": "0P0001BB2W",
+      "fund": "Nippon India Floating Rate Fund Direct Plan Quarterly Dividend Reinvestment Plan",
+      "return_one_year": 4.4113003,
+      "return_five_year": 5.60496
+    },
+    {
+      "symbol": "0P0000XXYD",
+      "fund": "Nippon India Floating Rate Fund Direct Plan Monthly Dividend Payout Plan",
+      "return_one_year": 7.03444,
+      "return_five_year": 6.58119
+    },
+    {
+      "symbol": "0P0001BB2Y",
+      "fund": "Nippon India Floating Rate Fund Dividend Reinvestment",
+      "return_one_year": 10.769269600000001,
+      "return_five_year": 8.62751
+    },
+    {
+      "symbol": "0P0000ZN4C",
+      "fund": "Nippon India Floating Rate Fund Dividend Payout",
+      "return_one_year": 10.769269600000001,
+      "return_five_year": 8.62751
+    },
+    {
+      "symbol": "0P0000V8K2",
+      "fund": "Nippon India Floating Rate Fund Quarterly Dividend Payout",
+      "return_one_year": 2.02532,
+      "return_five_year": 4.8835702
+    },
+    {
+      "symbol": "0P0000XX0N",
+      "fund": "Nippon India Floating Rate Fund Direct Plan Weekly Dividend Payout Plan",
+      "return_one_year": 7.0764,
+      "return_five_year": 6.60449
+    },
+    {
+      "symbol": "0P0001ENI9",
+      "fund": "Nippon India Fixed Horizon Fund XXXIX Series 8 Direct Dividend",
+      "return_one_year": 4.2892598,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001DJC4",
+      "fund": "Nippon India Nivesh Lakshya Fund - Direct Plan - Dividend Reinvestment",
+      "return_one_year": 14.204119,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001DDMY",
+      "fund": "Nippon India Fixed Horizon Fund XXXVII Series 9 Regular Dividend",
+      "return_one_year": 17.01425,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000XVDS",
+      "fund": "Nippon India Gold Savings Fund - Direct Plan - Growth",
+      "return_one_year": 15.736839999999999,
+      "return_five_year": 12.70828
+    },
+    {
+      "symbol": "0P0001GZ0E",
+      "fund": "Nippon India Fixed Horizon Fund - XXXX - Series 19 Direct Dividend Payout",
+      "return_one_year": 13.85004,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001BB3N",
+      "fund": "Nippon India Index Fund Sensex Plan Annual Dividend Reinvestment",
+      "return_one_year": 23.48041,
+      "return_five_year": 12.128899
+    },
+    {
+      "symbol": "0P0000PWF3",
+      "fund": "Nippon India Index Fund - Sensex Plan - Growth",
+      "return_one_year": 23.478189,
+      "return_five_year": 12.61969
+    },
+    {
+      "symbol": "0P0000XVE9",
+      "fund": "Nippon India Index Fund Nifty Plan Direct Plan Quarterly Dividend Payout Plan",
+      "return_one_year": 23.532310000000003,
+      "return_five_year": 12.18123
+    },
+    {
+      "symbol": "0P0000XVDL",
+      "fund": "Nippon India Gold Savings Fund Direct Plan Dividend Payout Option",
+      "return_one_year": 15.736839999999999,
+      "return_five_year": 12.70828
+    },
+    {
+      "symbol": "0P0000PTGR",
+      "fund": "Nippon India Small Cap Fund - Growth",
+      "return_one_year": 41.612097999999996,
+      "return_five_year": 19.82765
+    },
+    {
+      "symbol": "0P0000TFYR",
+      "fund": "Nippon India Gold Savings Fund - Growth",
+      "return_one_year": 15.474260000000001,
+      "return_five_year": 12.350800000000001
+    },
+    {
+      "symbol": "0P0001FBAO",
+      "fund": "Nippon India Fixed Horizon Fund XXXX Series 6 Direct Dividend Payout",
+      "return_one_year": 4.1318104,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001HUO6",
+      "fund": "Nippon India Fixed Horizon Fund XLI Series 12 Direct Dividend Payout",
+      "return_one_year": 6.13217,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001BB5K",
+      "fund": "Nippon India Short Term Fund Direct Plan Quarterly Dividend Reinvestment Option",
+      "return_one_year": 4.9169797,
+      "return_five_year": 5.76273
+    },
+    {
+      "symbol": "0P000124JF",
+      "fund": "Nippon India Short Term Fund Direct Plan Dividend Payout Option",
+      "return_one_year": 11.38486,
+      "return_five_year": 9.1434896
+    },
+    {
+      "symbol": "0P0001BB5J",
+      "fund": "Nippon India Short Term Fund Direct Plan Monthly Dividend Reinvestment Option",
+      "return_one_year": 1.43633,
+      "return_five_year": 5.4230798
+    },
+    {
+      "symbol": "0P0000XVFX",
+      "fund": "Nippon India Short Term Fund Direct Plan Monthly Dividend Payout Option",
+      "return_one_year": 1.43633,
+      "return_five_year": 5.4230798
+    },
+    {
+      "symbol": "0P00005UQL",
+      "fund": "Nippon India Short Term Fund Quarterly Dividend Payout Option",
+      "return_one_year": 4.2767501999999995,
+      "return_five_year": 5.0869197
+    },
+    {
+      "symbol": "0P0000XX0U",
+      "fund": "Nippon India Short Term Fund Direct Plan Quarterly Dividend Payout Option",
+      "return_one_year": 4.9169797,
+      "return_five_year": 5.76273
+    },
+    {
+      "symbol": "0P00005UQJ",
+      "fund": "Nippon India Short Term Fund - Growth",
+      "return_one_year": 6.817239999999999,
+      "return_five_year": 6.788679999999999
+    },
+    {
+      "symbol": "0P00005UQI",
+      "fund": "Nippon India Short Term Fund Monthly Dividend Payout Option",
+      "return_one_year": 1.54643,
+      "return_five_year": 4.8583
+    },
+    {
+      "symbol": "0P0001BB5N",
+      "fund": "Nippon India Short Term Fund Quarterly Dividend Reinvestment",
+      "return_one_year": 4.2767501999999995,
+      "return_five_year": 5.0869197
+    },
+    {
+      "symbol": "0P0000XVFU",
+      "fund": "Nippon India Short Term Fund - Direct Plan - Growth Plan",
+      "return_one_year": 7.659249999999999,
+      "return_five_year": 7.623530000000001
+    },
+    {
+      "symbol": "0P00011MOU",
+      "fund": "Nippon India Short Term Fund Dividend Payout Option",
+      "return_one_year": 10.1625,
+      "return_five_year": 8.148800000000001
+    },
+    {
+      "symbol": "0P0001BB5M",
+      "fund": "Nippon India Short Term Fund Monthly Dividend Reinvestment Option",
+      "return_one_year": 1.54643,
+      "return_five_year": 4.8583
+    },
+    {
+      "symbol": "0P0001BB5L",
+      "fund": "Nippon India Short Term Fund Dividend Reinvestment Option",
+      "return_one_year": 10.1625,
+      "return_five_year": 8.148800000000001
+    },
+    {
+      "symbol": "0P0001BB5I",
+      "fund": "Nippon India Short Term Fund Direct Plan Dividend Reinvestment Option",
+      "return_one_year": 11.38486,
+      "return_five_year": 9.1434896
+    },
+    {
+      "symbol": "0P00005WDH",
+      "fund": "Nippon India Banking Fund - Bonus",
+      "return_one_year": 38.35403,
+      "return_five_year": 10.17361
+    },
+    {
+      "symbol": "0P00005WDJ",
+      "fund": "Nippon India Banking Fund - Growth",
+      "return_one_year": 38.35403,
+      "return_five_year": 10.17361
+    },
+    {
+      "symbol": "0P0001BB28",
+      "fund": "Nippon India Banking Fund Dividend Reinvestment",
+      "return_one_year": 26.975080000000002,
+      "return_five_year": 7.860429600000001
+    },
+    {
+      "symbol": "0P0000XVDA",
+      "fund": "Nippon India Banking Fund - Direct Plan - Growth",
+      "return_one_year": 39.539823,
+      "return_five_year": 10.99106
+    },
+    {
+      "symbol": "0P0001BB27",
+      "fund": "Nippon India Banking Fund Direct Plan Dividend Reinvestment Option",
+      "return_one_year": 31.210139999999996,
+      "return_five_year": 9.288490600000001
+    },
+    {
+      "symbol": "0P00005WDI",
+      "fund": "Nippon India Banking Fund Dividend Payout",
+      "return_one_year": 26.975080000000002,
+      "return_five_year": 7.860429600000001
+    },
+    {
+      "symbol": "0P0000XVD3",
+      "fund": "Nippon India Banking Fund Direct Plan Dividend Payout Option",
+      "return_one_year": 31.210139999999996,
+      "return_five_year": 9.288490600000001
+    },
+    {
+      "symbol": "0P0000XVD8",
+      "fund": "Nippon India Banking Fund - Direct Plan - Bonus",
+      "return_one_year": 39.539823,
+      "return_five_year": 10.99106
+    },
+    {
+      "symbol": "0P0000CO6Y",
+      "fund": "Nippon India Interval Fund-Quarterly Interval Fund-Series-III- Institutional Growth",
+      "return_one_year": 0.0,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000Y9MS",
+      "fund": "Nippon India Interval Fund-Quarterly Interval Fund-Series-III- Direct Plan - Growth",
+      "return_one_year": 6.837509999999999,
+      "return_five_year": 5.1475800000000005
+    },
+    {
+      "symbol": "0P0001BEMF",
+      "fund": "Nippon India Interval Fund-Quarterly Interval Fund-Series-III- Direct Plan - Dividend Reinvestment",
+      "return_one_year": 6.838900000000001,
+      "return_five_year": 4.2901102
+    },
+    {
+      "symbol": "0P0000Y87O",
+      "fund": "Nippon India Interval Fund-Quarterly Interval Fund-Series-III- Direct Plan - Dividend Payout",
+      "return_one_year": 6.838900000000001,
+      "return_five_year": 4.2901102
+    },
+    {
+      "symbol": "0P0001BEMG",
+      "fund": "Nippon India Interval Fund-Quarterly Interval Fund-Series-III- Dividend Reinvestment",
+      "return_one_year": 6.712020000000001,
+      "return_five_year": 4.07454
+    },
+    {
+      "symbol": "0P0000CO74",
+      "fund": "Nippon India Interval Fund-Quarterly Interval Fund-Series-III- Institutional Dividend Payout",
+      "return_one_year": 6.72474,
+      "return_five_year": 4.1676898
+    },
+    {
+      "symbol": "0P0001BEMH",
+      "fund": "Nippon India Interval Fund-Quarterly Interval Fund-Series-III- Institutional Dividend Reinvestment",
+      "return_one_year": 6.72474,
+      "return_five_year": 4.1676898
+    },
+    {
+      "symbol": "0P0000CO6X",
+      "fund": "Nippon India Interval Fund-Quarterly Interval Fund-Series-III- Growth",
+      "return_one_year": 6.71594,
+      "return_five_year": 4.9661398000000005
+    },
+    {
+      "symbol": "0P0000CO4O",
+      "fund": "Nippon India Interval Fund-Quarterly Interval Fund-Series-III- Dividend Payout",
+      "return_one_year": 6.712020000000001,
+      "return_five_year": 4.07454
+    },
+    {
+      "symbol": "0P0001BB5H",
+      "fund": "Nippon India Value Fund Dividend Reinvestment",
+      "return_one_year": 27.19919,
+      "return_five_year": 13.024920000000002
+    },
+    {
+      "symbol": "0P0001BB5G",
+      "fund": "Nippon India Value Fund Direct Plan Dividend Reinvestment Plan",
+      "return_one_year": 28.43745,
+      "return_five_year": 13.945350000000001
+    },
+    {
+      "symbol": "0P0000S4C4",
+      "fund": "Nippon India Value Fund Dividend Payout",
+      "return_one_year": 27.19919,
+      "return_five_year": 13.024920000000002
+    },
+    {
+      "symbol": "0P0000XVFT",
+      "fund": "Nippon India Value Fund - Direct Plan - Growth Option",
+      "return_one_year": 28.75572,
+      "return_five_year": 14.336758999999999
+    },
+    {
+      "symbol": "0P0000XVFP",
+      "fund": "Nippon India Value Fund Direct Plan Dividend Payout Plan",
+      "return_one_year": 28.43745,
+      "return_five_year": 13.945350000000001
+    },
+    {
+      "symbol": "0P0001BB4N",
+      "fund": "Nippon India Hybrid Bond Fund Monthly Dividend Reinvestment",
+      "return_one_year": 10.6365606,
+      "return_five_year": 2.6973901000000002
+    },
+    {
+      "symbol": "0P0000XVF4",
+      "fund": "Nippon India Hybrid Bond Fund Direct Plan Growth Plan",
+      "return_one_year": 11.653189,
+      "return_five_year": 4.26413
+    },
+    {
+      "symbol": "0P00005UQ5",
+      "fund": "Nippon India Hybrid Bond Fund Growth",
+      "return_one_year": 10.75374,
+      "return_five_year": 3.50064
+    },
+    {
+      "symbol": "0P0000XVF8",
+      "fund": "Nippon India Hybrid Bond Fund Direct Plan Monthly Dividend Payout Plan",
+      "return_one_year": 11.51729,
+      "return_five_year": 3.4371899999999997
+    },
+    {
+      "symbol": "0P00005UQ7",
+      "fund": "Nippon India Hybrid Bond Fund Monthly Dividend Payout",
+      "return_one_year": 10.6365606,
+      "return_five_year": 2.6973901000000002
+    },
+    {
+      "symbol": "0P0001BB4L",
+      "fund": "Nippon India Hybrid Bond Fund Direct Plan Monthly Dividend Reinvestment Plan",
+      "return_one_year": 11.51729,
+      "return_five_year": 3.4371899999999997
+    },
+    {
+      "symbol": "0P0001BB4O",
+      "fund": "Nippon India Hybrid Bond Fund Quarterly Dividend Reinvestment",
+      "return_one_year": 2.8884301,
+      "return_five_year": 1.2447899
+    },
+    {
+      "symbol": "0P0000XVF6",
+      "fund": "Nippon India Hybrid Bond Fund Direct Plan Quarterly Dividend Payout Plan",
+      "return_one_year": 6.49653,
+      "return_five_year": 2.4966098
+    },
+    {
+      "symbol": "0P00005UQ6",
+      "fund": "Nippon India Hybrid Bond Fund Quarterly Dividend Payout",
+      "return_one_year": 2.8884301,
+      "return_five_year": 1.2447899
+    },
+    {
+      "symbol": "0P0001BB4M",
+      "fund": "Nippon India Hybrid Bond Fund Direct Plan Quarterly Dividend Reinvestment Plan",
+      "return_one_year": 6.49653,
+      "return_five_year": 2.4966098
+    },
+    {
+      "symbol": "0P0000CO79",
+      "fund": "Nippon India Interval Fund-Quarterly Interval Fund-Series-I- Growth",
+      "return_one_year": 5.92837,
+      "return_five_year": 4.73624
+    },
+    {
+      "symbol": "0P0000ZP4D",
+      "fund": "Nippon India Interval Fund-Quarterly Interval Fund-Series-I- Direct Plan - Growth",
+      "return_one_year": 6.41969,
+      "return_five_year": 4.98803
+    },
+    {
+      "symbol": "0P0001BEMC",
+      "fund": "Nippon India Interval Fund-Quarterly Interval Fund-Series-I- Institutional Dividend Reinvestment",
+      "return_one_year": 6.0170103,
+      "return_five_year": 4.0293798
+    },
+    {
+      "symbol": "0P0001BEMB",
+      "fund": "Nippon India Interval Fund-Quarterly Interval Fund-Series-I- Dividend Reinvestment",
+      "return_one_year": 5.92903,
+      "return_five_year": 4.0458099999999995
+    },
+    {
+      "symbol": "0P0000CO70",
+      "fund": "Nippon India Interval Fund-Quarterly Interval Fund-Series-I- Institutional Dividend Payout",
+      "return_one_year": 6.0170103,
+      "return_five_year": 4.0293798
+    },
+    {
+      "symbol": "0P0000CO55",
+      "fund": "Nippon India Interval Fund-Quarterly Interval Fund-Series-I- Dividend Payout",
+      "return_one_year": 5.92903,
+      "return_five_year": 4.0458099999999995
+    },
+    {
+      "symbol": "0P0000XVF1",
+      "fund": "Nippon India Consumption Fund - Direct Plan - Growth Plan",
+      "return_one_year": 32.74272,
+      "return_five_year": 18.200341
+    },
+    {
+      "symbol": "0P00005UQ3",
+      "fund": "Nippon India Consumption Fund Dividend Payout",
+      "return_one_year": 30.4221,
+      "return_five_year": 16.460459999999998
+    },
+    {
+      "symbol": "0P00005UQ4",
+      "fund": "Nippon India Consumption Fund - Growth",
+      "return_one_year": 31.23338,
+      "return_five_year": 17.08314
+    },
+    {
+      "symbol": "0P0000XVEZ",
+      "fund": "Nippon India Consumption Fund - Direct Plan - Bonus Plan",
+      "return_one_year": 32.74272,
+      "return_five_year": 18.200341
+    },
+    {
+      "symbol": "0P0000XVEY",
+      "fund": "Nippon India Consumption Fund Direct Plan Dividend Payout Option",
+      "return_one_year": 32.315670000000004,
+      "return_five_year": 17.738778999999997
+    },
+    {
+      "symbol": "0P0001BB49",
+      "fund": "Nippon India Consumption Fund Direct Plan Dividend Reinvestment Option",
+      "return_one_year": 32.315670000000004,
+      "return_five_year": 17.738778999999997
+    },
+    {
+      "symbol": "0P0001BB4A",
+      "fund": "Nippon India Consumption Fund Dividend Reinvestment",
+      "return_one_year": 30.4221,
+      "return_five_year": 16.460459999999998
+    },
+    {
+      "symbol": "0P00005UQ2",
+      "fund": "Nippon India Consumption Fund - Bonus",
+      "return_one_year": 31.23338,
+      "return_five_year": 17.08314
+    },
+    {
+      "symbol": "0P0001BB48",
+      "fund": "Nippon India Money Market Fund Quarterly Dividend Reinvestment Plan",
+      "return_one_year": 1.47025,
+      "return_five_year": 3.65596
+    },
+    {
+      "symbol": "0P0000Z9UY",
+      "fund": "Nippon India Money Market Fund Quarterly Dividend Payout Plan",
+      "return_one_year": 1.47025,
+      "return_five_year": 3.65596
+    },
+    {
+      "symbol": "0P0000Z5BN",
+      "fund": "Nippon India Money Market Fund Direct Plan Quarterly Dividend Payout Option",
+      "return_one_year": 1.4955601,
+      "return_five_year": 3.7255499999999997
+    }
+  ]
+  

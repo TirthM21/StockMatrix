@@ -1,0 +1,507 @@
+[
+    {
+      "symbol": "0P0000NNG5",
+      "fund": "IDBI Federal Life - Equity Growth Fund",
+      "return_one_year": 22.576071,
+      "return_five_year": 10.24896
+    },
+    {
+      "symbol": "0P0001BAI5",
+      "fund": "IDBI Nifty Index Fund Direct Dividend Reinvestment",
+      "return_one_year": 23.33377,
+      "return_five_year": 12.547059999999998
+    },
+    {
+      "symbol": "0P0000PUU8",
+      "fund": "IDBI Ultra Short Term Growth",
+      "return_one_year": 6.219460000000001,
+      "return_five_year": 5.51805
+    },
+    {
+      "symbol": "0P0000PUU9",
+      "fund": "IDBI Ultra Short Term Daily Dividend Reinvestment",
+      "return_one_year": 6.19446,
+      "return_five_year": 4.7436
+    },
+    {
+      "symbol": "0P0001E1W2",
+      "fund": "IDBI Long Term Value Fund Direct Growth",
+      "return_one_year": 24.303620000000002,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000PUUB",
+      "fund": "IDBI Ultra Short Term Monthly Dividend Payout",
+      "return_one_year": 5.7076402,
+      "return_five_year": 4.88716
+    },
+    {
+      "symbol": "0P0000XUZP",
+      "fund": "IDBI Liquid Fund Direct Daily Dividend Reinvestment",
+      "return_one_year": 6.327240000000001,
+      "return_five_year": 4.58504
+    },
+    {
+      "symbol": "0P0000PUUA",
+      "fund": "IDBI Ultra Short Term Weekly Dividend Payout",
+      "return_one_year": 6.0674,
+      "return_five_year": 4.82726
+    },
+    {
+      "symbol": "0P0000XV00",
+      "fund": "IDBI Nifty Junior Index Fund Direct Growth",
+      "return_one_year": 21.392259,
+      "return_five_year": 8.96931
+    },
+    {
+      "symbol": "0P0000V77Q",
+      "fund": "IDBI Liquid Weekly Dividend Payout",
+      "return_one_year": 6.339700500000001,
+      "return_five_year": 4.6068903
+    },
+    {
+      "symbol": "0P0000O3JC",
+      "fund": "IDBI Nifty Index Growth",
+      "return_one_year": 22.620301,
+      "return_five_year": 11.702580999999999
+    },
+    {
+      "symbol": "0P0000XUZU",
+      "fund": "IDBI Equity Savings Direct Monthly Dividend Payout",
+      "return_one_year": 11.32883,
+      "return_five_year": 7.5963199999999995
+    },
+    {
+      "symbol": "0P0000NNG3",
+      "fund": "IDBI Federal Life - Bond Fund",
+      "return_one_year": 7.77532,
+      "return_five_year": 6.50279
+    },
+    {
+      "symbol": "0P0000S4AQ",
+      "fund": "IDBI Federal Life - Pure Fund",
+      "return_one_year": 20.586741,
+      "return_five_year": 10.4413204
+    },
+    {
+      "symbol": "0P0000NNFN",
+      "fund": "IDBI Federal Life - Aggressive Asset Allocator Fund",
+      "return_one_year": 20.45607,
+      "return_five_year": 10.95819
+    },
+    {
+      "symbol": "0P0000NNFS",
+      "fund": "IDBI Federal Life - Cautious Asset Allocator Fund",
+      "return_one_year": 8.83142,
+      "return_five_year": 7.2177299999999995
+    },
+    {
+      "symbol": "0P0000NNGF",
+      "fund": "IDBI Federal Life - Moderate Asset Allocator Fund",
+      "return_one_year": 13.678899999999999,
+      "return_five_year": 8.3822206
+    },
+    {
+      "symbol": "0P0000S4AM",
+      "fund": "IDBI Federal Life - Monthly Guaranteed Interest Fund",
+      "return_one_year": 4.6577703,
+      "return_five_year": 4.202319999999999
+    },
+    {
+      "symbol": "0P0000NNG6",
+      "fund": "IDBI Federal Life - Equity Growth Fund - Pension Plan",
+      "return_one_year": 23.006889,
+      "return_five_year": 10.04501
+    },
+    {
+      "symbol": "0P0000NNGD",
+      "fund": "IDBI Federal Life - Nifty Index Fund",
+      "return_one_year": 23.74707,
+      "return_five_year": 11.91844
+    },
+    {
+      "symbol": "0P0000NNG8",
+      "fund": "IDBI Federal Life - Income Fund - Pension Plan",
+      "return_one_year": 5.8905,
+      "return_five_year": 5.8308102
+    },
+    {
+      "symbol": "0P0001F9YA",
+      "fund": "IDBI Dividend Yield Regular Dividend Reinvestment",
+      "return_one_year": 24.899060000000002,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001BAIC",
+      "fund": "IDBI Short Term Bond Fund Direct Weekly Dividend Reinvestment",
+      "return_one_year": 7.27699,
+      "return_five_year": 6.56138
+    },
+    {
+      "symbol": "0P0001BVDR",
+      "fund": "IDBI Focused 30 Equity Fund Direct Dividend Payout",
+      "return_one_year": 22.90345,
+      "return_five_year": 11.41164
+    },
+    {
+      "symbol": "0P0000XUZJ",
+      "fund": "IDBI Gilt Fund Direct Annual Dividend Payout",
+      "return_one_year": 3.05618,
+      "return_five_year": 5.6068603
+    },
+    {
+      "symbol": "0P0001E1W1",
+      "fund": "IDBI Long Term Value Fund Dividend Sweep",
+      "return_one_year": 23.25581,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001BAI8",
+      "fund": "IDBI Nifty Junior Index Dividend Reinvestment",
+      "return_one_year": 20.69064,
+      "return_five_year": 8.281259
+    },
+    {
+      "symbol": "0P0000V77P",
+      "fund": "IDBI Liquid Monthly Dividend Payout",
+      "return_one_year": 6.339250000000001,
+      "return_five_year": 4.646989700000001
+    },
+    {
+      "symbol": "0P0001BBKK",
+      "fund": "IDBI Small Cap Fund Direct Dividend Sweep",
+      "return_one_year": 30.80986,
+      "return_five_year": 15.424031
+    },
+    {
+      "symbol": "0P0000XSUC",
+      "fund": "IDBI Gilt Fund Growth",
+      "return_one_year": 2.26838,
+      "return_five_year": 4.6579500000000005
+    },
+    {
+      "symbol": "0P0000XV05",
+      "fund": "IDBI Ultra Short Term Fund Direct Weekly Dividend Payout",
+      "return_one_year": 6.30444,
+      "return_five_year": 5.2386597
+    },
+    {
+      "symbol": "0P0001BVDS",
+      "fund": "IDBI Focused 30 Equity Fund Direct Dividend Reinvestment",
+      "return_one_year": 22.90345,
+      "return_five_year": 11.41164
+    },
+    {
+      "symbol": "0P0000XUZO",
+      "fund": "IDBI India Top 100 Equity Fund Direct Growth",
+      "return_one_year": 25.827640000000002,
+      "return_five_year": 13.98403
+    },
+    {
+      "symbol": "0P0000TFY2",
+      "fund": "IDBI Equity Savings Monthly Dividend Payout",
+      "return_one_year": 10.2548905,
+      "return_five_year": 6.368849999999999
+    },
+    {
+      "symbol": "0P0001BBKI",
+      "fund": "IDBI Small Cap Fund Regular Dividend Reinvestment",
+      "return_one_year": 29.47903,
+      "return_five_year": 14.010200000000001
+    },
+    {
+      "symbol": "0P0000XUZX",
+      "fund": "IDBI Nifty Junior Index Fund Direct Dividend Payout",
+      "return_one_year": 21.392259,
+      "return_five_year": 8.96931
+    },
+    {
+      "symbol": "0P0001BBKI",
+      "fund": "IDBI Small Cap Fund Regular Dividend Reinvestment",
+      "return_one_year": 29.47903,
+      "return_five_year": 14.010200000000001
+    },
+    {
+      "symbol": "0P0000XUZH",
+      "fund": "IDBI Dynamic Bond Fund Direct Annual Dividend Payout",
+      "return_one_year": 2.6733799,
+      "return_five_year": 6.0170103
+    },
+    {
+      "symbol": "0P00012NRI",
+      "fund": "IDBI Diversified Equity Fund Regular Dividend Payout",
+      "return_one_year": 24.259059999999998,
+      "return_five_year": 10.8302005
+    },
+    {
+      "symbol": "0P0001BAHQ",
+      "fund": "IDBI Gilt Fund Direct Annual Dividend Reinvestment",
+      "return_one_year": 3.05618,
+      "return_five_year": 5.6068603
+    },
+    {
+      "symbol": "0P00012H0Y",
+      "fund": "IDBI Credit Risk Fund Direct Quarterly Dividend Payout",
+      "return_one_year": 7.81679,
+      "return_five_year": 3.70362
+    },
+    {
+      "symbol": "0P0001BAHV",
+      "fund": "IDBI Liquid Fund Direct Monthly Dividend Reinvestment",
+      "return_one_year": 6.382120400000001,
+      "return_five_year": 4.7009602
+    },
+    {
+      "symbol": "0P0001E1W3",
+      "fund": "IDBI Long Term Value Fund Direct Dividend Payout",
+      "return_one_year": 24.303620000000002,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001BVDS",
+      "fund": "IDBI Focused 30 Equity Fund Direct Dividend Reinvestment",
+      "return_one_year": 22.90345,
+      "return_five_year": 11.41164
+    },
+    {
+      "symbol": "0P0001BAIC",
+      "fund": "IDBI Short Term Bond Fund Direct Weekly Dividend Reinvestment",
+      "return_one_year": 7.27699,
+      "return_five_year": 6.56138
+    },
+    {
+      "symbol": "0P0001BBKK",
+      "fund": "IDBI Small Cap Fund Direct Dividend Sweep",
+      "return_one_year": 30.80986,
+      "return_five_year": 15.424031
+    },
+    {
+      "symbol": "0P0001BVDR",
+      "fund": "IDBI Focused 30 Equity Fund Direct Dividend Payout",
+      "return_one_year": 22.90345,
+      "return_five_year": 11.41164
+    },
+    {
+      "symbol": "0P0000XUZM",
+      "fund": "IDBI Gold Fund Direct Growth",
+      "return_one_year": 18.425699,
+      "return_five_year": 12.72192
+    },
+    {
+      "symbol": "0P0000XUZJ",
+      "fund": "IDBI Gilt Fund Direct Annual Dividend Payout",
+      "return_one_year": 3.05618,
+      "return_five_year": 5.6068603
+    },
+    {
+      "symbol": "0P0000V77P",
+      "fund": "IDBI Liquid Monthly Dividend Payout",
+      "return_one_year": 6.339250000000001,
+      "return_five_year": 4.646989700000001
+    },
+    {
+      "symbol": "0P0000XSUC",
+      "fund": "IDBI Gilt Fund Growth",
+      "return_one_year": 2.26838,
+      "return_five_year": 4.6579500000000005
+    },
+    {
+      "symbol": "0P0001F9YA",
+      "fund": "IDBI Dividend Yield Regular Dividend Reinvestment",
+      "return_one_year": 24.899060000000002,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001DCT2",
+      "fund": "IDBI Banking Financial Services Fund Direct Growth",
+      "return_one_year": 33.192569999999996,
+      "return_five_year": 9.47278
+    },
+    {
+      "symbol": "0P00012H0X",
+      "fund": "IDBI Credit Risk Fund Direct Growth",
+      "return_one_year": 7.8158595,
+      "return_five_year": 3.9518497999999997
+    },
+    {
+      "symbol": "0P0000ZKL1",
+      "fund": "IDBI Equity Advantage Fund Regular Dividend Payout",
+      "return_one_year": 27.044659999999997,
+      "return_five_year": 8.75163
+    },
+    {
+      "symbol": "0P00012H0W",
+      "fund": "IDBI Credit Risk Fund Direct Dividend Payout",
+      "return_one_year": 7.81592,
+      "return_five_year": 3.9516299999999998
+    },
+    {
+      "symbol": "0P00015AGT",
+      "fund": "IDBI Ultra Short Term Direct Bonus",
+      "return_one_year": 4.16383,
+      "return_five_year": 6.71141
+    },
+    {
+      "symbol": "0P0000TFY1",
+      "fund": "IDBI Equity Savings Growth",
+      "return_one_year": 10.254539999999999,
+      "return_five_year": 6.46672
+    },
+    {
+      "symbol": "0P00015AGU",
+      "fund": "IDBI Ultra Short Term Regular Bonus",
+      "return_one_year": 6.2196698,
+      "return_five_year": 5.51813
+    },
+    {
+      "symbol": "0P0000XUZG",
+      "fund": "IDBI Dynamic Bond Fund Direct Growth",
+      "return_one_year": 2.67381,
+      "return_five_year": 6.01372
+    },
+    {
+      "symbol": "0P0000XUZZ",
+      "fund": "IDBI Short Term Bond Fund Direct Growth",
+      "return_one_year": 7.40839,
+      "return_five_year": 7.0383000000000004
+    },
+    {
+      "symbol": "0P0000XUZN",
+      "fund": "IDBI India Top 100 Equity Fund Direct Dividend Payout",
+      "return_one_year": 25.82867,
+      "return_five_year": 13.634110999999999
+    },
+    {
+      "symbol": "0P0000XUZY",
+      "fund": "IDBI Nifty Index Fund Direct Growth",
+      "return_one_year": 23.33374,
+      "return_five_year": 12.553690000000001
+    },
+    {
+      "symbol": "0P0000XUZV",
+      "fund": "IDBI Nifty Index Fund Direct Dividend Payout",
+      "return_one_year": 23.33377,
+      "return_five_year": 12.547059999999998
+    },
+    {
+      "symbol": "0P0001BAHT",
+      "fund": "IDBI India Top 100 Equity Fund Direct Dividend Reinvestment",
+      "return_one_year": 25.82867,
+      "return_five_year": 13.634110999999999
+    },
+    {
+      "symbol": "0P0000PUUH",
+      "fund": "IDBI Nifty Junior Index Dividend Payout",
+      "return_one_year": 20.69064,
+      "return_five_year": 8.281259
+    },
+    {
+      "symbol": "0P0000XV02",
+      "fund": "IDBI Short Term Bond Fund Monthly Direct Dividend Payout",
+      "return_one_year": 6.936100000000001,
+      "return_five_year": 6.49232
+    },
+    {
+      "symbol": "0P0000P1MZ",
+      "fund": "IDBI Liquid Daily Dividend Reinvestment",
+      "return_one_year": 6.28755,
+      "return_five_year": 4.535150000000001
+    },
+    {
+      "symbol": "0P0000XUZL",
+      "fund": "IDBI Gilt Fund Direct Quarterly Dividend Payout",
+      "return_one_year": 3.05709,
+      "return_five_year": 5.34688
+    },
+    {
+      "symbol": "0P0001F9Y6",
+      "fund": "IDBI Dividend Yield Fund Direct Growth",
+      "return_one_year": 26.207340000000002,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001AKT1",
+      "fund": "IDBI Small Cap Fund Direct Dividend Payout",
+      "return_one_year": 30.80986,
+      "return_five_year": 15.424031
+    },
+    {
+      "symbol": "0P0001BVDP",
+      "fund": "IDBI Focused 30 Equity Fund Dividend Reinvestment",
+      "return_one_year": 21.74567,
+      "return_five_year": 10.102129999999999
+    },
+    {
+      "symbol": "0P0000XUZT",
+      "fund": "IDBI Equity Savings Growth Option Direct",
+      "return_one_year": 11.32896,
+      "return_five_year": 7.70304
+    },
+    {
+      "symbol": "0P0001BAHL",
+      "fund": "IDBI Dynamic Bond Fund Direct Quarterly Dividend Reinvestment",
+      "return_one_year": 2.8249599,
+      "return_five_year": -2.55552
+    },
+    {
+      "symbol": "0P0000XSUE",
+      "fund": "IDBI Gilt Fund Quarterly Dividend Payout",
+      "return_one_year": 2.26863,
+      "return_five_year": 4.50703
+    },
+    {
+      "symbol": "0P00012NRK",
+      "fund": "IDBI Diversified Equity Fund Direct Dividend Payout",
+      "return_one_year": 25.91171,
+      "return_five_year": 12.47609
+    },
+    {
+      "symbol": "0P0001BAHR",
+      "fund": "IDBI Gilt Fund Direct Quarterly Dividend Reinvestment",
+      "return_one_year": 3.05709,
+      "return_five_year": 5.34688
+    },
+    {
+      "symbol": "0P00019JU2",
+      "fund": "IDBI Midcap Fund Direct Dividend Payout",
+      "return_one_year": 28.43537,
+      "return_five_year": 10.83109
+    },
+    {
+      "symbol": "0P0001BAII",
+      "fund": "IDBI Ultra Short Term Fund Direct Weekly Dividend Reinvestment",
+      "return_one_year": 6.30444,
+      "return_five_year": 5.2386597
+    },
+    {
+      "symbol": "0P000192L0",
+      "fund": "IDBI Hybrid Equity Fund Direct Growth",
+      "return_one_year": 18.73752,
+      "return_five_year": 7.780130000000001
+    },
+    {
+      "symbol": "0P0001BAHG",
+      "fund": "IDBI Credit Risk Fund Regular Quarterly Dividend Reinvestment",
+      "return_one_year": 7.0322700000000005,
+      "return_five_year": 2.9913700000000003
+    },
+    {
+      "symbol": "0P0001FKZD",
+      "fund": "IDBI Healthcare Fund Regular Dividend sweep",
+      "return_one_year": 9.547740000000001,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001BAI0",
+      "fund": "IDBI Midcap Fund Regular Dividend Reinvestment",
+      "return_one_year": 27.292899999999996,
+      "return_five_year": 9.64535
+    },
+    {
+      "symbol": "0P0001AKSZ",
+      "fund": "IDBI Small Cap Fund Regular Dividend Payout",
+      "return_one_year": 29.47903,
+      "return_five_year": 14.010200000000001
+    }
+  ]
+  

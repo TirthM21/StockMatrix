@@ -1,0 +1,237 @@
+[
+    {
+      "Company Name": "Adani Enterprises",
+      "Symbol": "ADANIENT",
+      "Sector[18]": "Diversified"
+    },
+    {
+      "Company Name": "Adani Ports & SEZ",
+      "Symbol": "ADANIPORTS",
+      "Sector[18]": "Infrastructure"
+    },
+    {
+      "Company Name": "Apollo Hospitals",
+      "Symbol": "APOLLOHOSP",
+      "Sector[18]": "Healthcare"
+    },
+    {
+      "Company Name": "Asian Paints",
+      "Symbol": "ASIANPAINT",
+      "Sector[18]": "Consumer Durables"
+    },
+    {
+      "Company Name": "Axis Bank",
+      "Symbol": "AXISBANK",
+      "Sector[18]": "Banking"
+    },
+    {
+      "Company Name": "Bajaj Auto",
+      "Symbol": "BAJAJ-AUTO",
+      "Sector[18]": "Automobile"
+    },
+    {
+      "Company Name": "Bajaj Finance",
+      "Symbol": "BAJFINANCE",
+      "Sector[18]": "Financial Services"
+    },
+    {
+      "Company Name": "Bajaj Finserv",
+      "Symbol": "BAJAJFINSV",
+      "Sector[18]": "Financial Services"
+    },
+    {
+      "Company Name": "Bharat Petroleum",
+      "Symbol": "BPCL",
+      "Sector[18]": "Energy - Oil & Gas"
+    },
+    {
+      "Company Name": "Bharti Airtel",
+      "Symbol": "BHARTIARTL",
+      "Sector[18]": "Telecommunication"
+    },
+    {
+      "Company Name": "Britannia Industries",
+      "Symbol": "BRITANNIA",
+      "Sector[18]": "Consumer Goods"
+    },
+    {
+      "Company Name": "Cipla",
+      "Symbol": "CIPLA",
+      "Sector[18]": "Pharmaceuticals"
+    },
+    {
+      "Company Name": "Coal India",
+      "Symbol": "COALINDIA",
+      "Sector[18]": "Energy - Coal"
+    },
+    {
+      "Company Name": "Divi's Laboratories",
+      "Symbol": "DIVISLAB",
+      "Sector[18]": "Pharmaceuticals"
+    },
+    {
+      "Company Name": "Dr. Reddy's Laboratories",
+      "Symbol": "DRREDDY",
+      "Sector[18]": "Pharmaceuticals"
+    },
+    {
+      "Company Name": "Eicher Motors",
+      "Symbol": "EICHERMOT",
+      "Sector[18]": "Automobile"
+    },
+    {
+      "Company Name": "Grasim Industries",
+      "Symbol": "GRASIM",
+      "Sector[18]": "Materials"
+    },
+    {
+      "Company Name": "HCLTech",
+      "Symbol": "HCLTECH",
+      "Sector[18]": "Information Technology"
+    },
+    {
+      "Company Name": "HDFC Bank",
+      "Symbol": "HDFCBANK",
+      "Sector[18]": "Banking"
+    },
+    {
+      "Company Name": "HDFC Life",
+      "Symbol": "HDFCLIFE",
+      "Sector[18]": "Financial Services"
+    },
+    {
+      "Company Name": "Hero MotoCorp",
+      "Symbol": "HEROMOTOCO",
+      "Sector[18]": "Automobile"
+    },
+    {
+      "Company Name": "Hindalco Industries",
+      "Symbol": "HINDALCO",
+      "Sector[18]": "Metals"
+    },
+    {
+      "Company Name": "Hindustan Unilever",
+      "Symbol": "HINDUNILVR",
+      "Sector[18]": "Consumer Goods"
+    },
+    {
+      "Company Name": "ICICI Bank",
+      "Symbol": "ICICIBANK",
+      "Sector[18]": "Banking"
+    },
+    {
+      "Company Name": "IndusInd Bank",
+      "Symbol": "INDUSINDBK",
+      "Sector[18]": "Banking"
+    },
+    {
+      "Company Name": "Infosys",
+      "Symbol": "INFY",
+      "Sector[18]": "Information Technology"
+    },
+    { "Company Name": "ITC", "Symbol": "ITC", "Sector[18]": "Consumer Goods" },
+    { "Company Name": "JSW Steel", "Symbol": "JSWSTEEL", "Sector[18]": "Metals" },
+    {
+      "Company Name": "Kotak Mahindra Bank",
+      "Symbol": "KOTAKBANK",
+      "Sector[18]": "Banking"
+    },
+    {
+      "Company Name": "Larsen & Toubro",
+      "Symbol": "LT",
+      "Sector[18]": "Construction"
+    },
+    {
+      "Company Name": "LTIMindtree",
+      "Symbol": "LTIM",
+      "Sector[18]": "Information Technology"
+    },
+    {
+      "Company Name": "Mahindra & Mahindra",
+      "Symbol": "SCRIP-100520",
+      "Sector[18]": "Automobile"
+    },
+    {
+      "Company Name": "Maruti Suzuki",
+      "Symbol": "MARUTI",
+      "Sector[18]": "Automobile"
+    },
+    {
+      "Company Name": "Nestl\u00e9 India",
+      "Symbol": "NESTLEIND",
+      "Sector[18]": "Consumer Goods"
+    },
+    { "Company Name": "NTPC", "Symbol": "NTPC", "Sector[18]": "Energy - Power" },
+    {
+      "Company Name": "Oil and Natural Gas Corporation",
+      "Symbol": "ONGC",
+      "Sector[18]": "Energy - Oil & Gas"
+    },
+    {
+      "Company Name": "Power Grid",
+      "Symbol": "POWERGRID",
+      "Sector[18]": "Energy - Power"
+    },
+    {
+      "Company Name": "Reliance Industries",
+      "Symbol": "RELIANCE",
+      "Sector[18]": "Diversified"
+    },
+    {
+      "Company Name": "SBI Life Insurance Company",
+      "Symbol": "SBILIFE",
+      "Sector[18]": "Financial Services"
+    },
+    {
+      "Company Name": "State Bank of India",
+      "Symbol": "SBIN",
+      "Sector[18]": "Banking"
+    },
+    {
+      "Company Name": "Sun Pharma",
+      "Symbol": "SUNPHARMA",
+      "Sector[18]": "Pharmaceuticals"
+    },
+    {
+      "Company Name": "Tata Motors",
+      "Symbol": "TATAMOTORS",
+      "Sector[18]": "Automobile"
+    },
+    {
+      "Company Name": "Tata Steel",
+      "Symbol": "TATASTEEL",
+      "Sector[18]": "Metals"
+    },
+    {
+      "Company Name": "Tata Consultancy Services",
+      "Symbol": "TCS",
+      "Sector[18]": "Information Technology"
+    },
+    {
+      "Company Name": "Tata Consumer Products",
+      "Symbol": "TATACONSUM",
+      "Sector[18]": "Consumer Goods"
+    },
+    {
+      "Company Name": "Tech Mahindra",
+      "Symbol": "TECHM",
+      "Sector[18]": "Information Technology"
+    },
+    {
+      "Company Name": "Titan Company",
+      "Symbol": "TITAN",
+      "Sector[18]": "Consumer Durables"
+    },
+    {
+      "Company Name": "UltraTech Cement",
+      "Symbol": "ULTRACEMCO",
+      "Sector[18]": "Materials"
+    },
+    { "Company Name": "UPL", "Symbol": "UPL", "Sector[18]": "Chemicals" },
+    {
+      "Company Name": "Wipro",
+      "Symbol": "WIPRO",
+      "Sector[18]": "Information Technology"
+    }
+  ]
+  

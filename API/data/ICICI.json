@@ -1,0 +1,345 @@
+[
+    {
+      "symbol": "0P0000XUYI",
+      "fund": "ICICI Prudential Regular Savings Fund Direct Plan Growth",
+      "return_one_year": 11.48843,
+      "return_five_year": 9.431000000000001
+    },
+    {
+      "symbol": "0P0001BAEV",
+      "fund": "ICICI Prudential Regular Savings Fund Half Yearly Dividend Reinvestment",
+      "return_one_year": 10.54176,
+      "return_five_year": 7.670110500000001
+    },
+    {
+      "symbol": "0P00005UMZ",
+      "fund": "ICICI Prudential Regular Savings Fund Monthly Dividend Payout",
+      "return_one_year": 7.9601500000000005,
+      "return_five_year": 7.0637099999999995
+    },
+    {
+      "symbol": "0P0000XUYH",
+      "fund": "ICICI Prudential Regular Savings Fund Direct Plan Half Yearly Dividend Payout",
+      "return_one_year": 11.3422096,
+      "return_five_year": 8.222470399999999
+    },
+    {
+      "symbol": "0P0000XUYJ",
+      "fund": "ICICI Prudential Regular Savings Fund Direct Plan Quarterly Dividend Payout",
+      "return_one_year": 11.3842696,
+      "return_five_year": 8.2060605
+    },
+    {
+      "symbol": "0P0001BAEW",
+      "fund": "ICICI Prudential Regular Savings Fund Monthly Dividend Reinvestment",
+      "return_one_year": 7.9601500000000005,
+      "return_five_year": 7.0637099999999995
+    },
+    {
+      "symbol": "0P0000XUYK",
+      "fund": "ICICI Prudential Regular Savings Fund Direct Plan Monthly Dividend Payout",
+      "return_one_year": 8.36105,
+      "return_five_year": 7.78775
+    },
+    {
+      "symbol": "0P0000P3MA",
+      "fund": "ICICI Prudential Regular Savings Fund Half Yearly Dividend Payout",
+      "return_one_year": 10.54176,
+      "return_five_year": 7.670110500000001
+    },
+    {
+      "symbol": "0P00005UMY",
+      "fund": "ICICI Prudential Regular Savings Fund Growth",
+      "return_one_year": 10.650419999999999,
+      "return_five_year": 8.615490000000001
+    },
+    {
+      "symbol": "0P0001BAEX",
+      "fund": "ICICI Prudential Regular Savings Fund Quarterly Dividend Reinvestment",
+      "return_one_year": 10.572429999999999,
+      "return_five_year": 7.5074404
+    },
+    {
+      "symbol": "0P0001BAEU",
+      "fund": "ICICI Prudential Regular Savings Fund Direct Plan Quarterly Dividend Reinvestment",
+      "return_one_year": 11.3842696,
+      "return_five_year": 8.2060605
+    },
+    {
+      "symbol": "0P0001BAES",
+      "fund": "ICICI Prudential Regular Savings Fund Direct Plan Half Yearly Dividend Reinvestment",
+      "return_one_year": 11.3422096,
+      "return_five_year": 8.222470399999999
+    },
+    {
+      "symbol": "0P0001BAET",
+      "fund": "ICICI Prudential Regular Savings Fund Direct Plan Monthly Dividend Reinvestment",
+      "return_one_year": 8.36105,
+      "return_five_year": 7.78775
+    },
+    {
+      "symbol": "0P0000P3M9",
+      "fund": "ICICI Prudential Regular Savings Fund Quarterly Dividend Payout",
+      "return_one_year": 10.572429999999999,
+      "return_five_year": 7.5074404
+    },
+    {
+      "symbol": "0P0000NQW6",
+      "fund": "ICICI Prudential Life - Dynamic P/E Fund",
+      "return_one_year": 19.9555,
+      "return_five_year": 7.53273
+    },
+    {
+      "symbol": "0P00005UO8",
+      "fund": "ICICI Prudential Exports and Services Fund Growth",
+      "return_one_year": 21.26729,
+      "return_five_year": 12.19989
+    },
+    {
+      "symbol": "0P0000XUZ0",
+      "fund": "ICICI Prudential Exports and Services Fund Direct Plan Dividend Payout",
+      "return_one_year": 21.608879,
+      "return_five_year": 12.517539999999999
+    },
+    {
+      "symbol": "0P0001BACO",
+      "fund": "ICICI Prudential Exports and Services Fund Dividend Reinvestment",
+      "return_one_year": 20.281309,
+      "return_five_year": 11.350159
+    },
+    {
+      "symbol": "0P0000XUZ1",
+      "fund": "ICICI Prudential Exports and Services Fund Direct Plan Growth",
+      "return_one_year": 21.961741,
+      "return_five_year": 12.90247
+    },
+    {
+      "symbol": "0P00005UO7",
+      "fund": "ICICI Prudential Exports and Services Fund Dividend Payout",
+      "return_one_year": 20.281309,
+      "return_five_year": 11.350159
+    },
+    {
+      "symbol": "0P0001BACN",
+      "fund": "ICICI Prudential Exports and Services Fund Direct Plan Dividend Reinvestment",
+      "return_one_year": 21.608879,
+      "return_five_year": 12.517539999999999
+    },
+    {
+      "symbol": "0P0001NB9N",
+      "fund": "ICICI Prudential PSU Bond Plus ",
+      "return_one_year": 8.146749999999999,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P000148GS",
+      "fund": "ICICI Prudential Constant Maturity Gilt Dividend Payout",
+      "return_one_year": -0.07812,
+      "return_five_year": 5.4970004
+    },
+    {
+      "symbol": "0P0001FUC6",
+      "fund": "ICICI Prudential Fixed Maturity Plan Series 85 1156 Days Plan F Regular Quarterly Dividend Payout",
+      "return_one_year": 3.9398897,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001H0BT",
+      "fund": "ICICI PrudentiaL Fixed Maturity PLan Series 85 1156 Days Plan G Regular Half Yearly Dividen Payout",
+      "return_one_year": 4.15106,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001IYM7",
+      "fund": "ICICI Prudential Fixed Maturity",
+      "return_one_year": 5.4948602,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001BAFO",
+      "fund": "ICICI Prudential Ultra Short Term Fund Half Yearly Dividend Reinvestment",
+      "return_one_year": 3.77956,
+      "return_five_year": 4.955439999999999
+    },
+    {
+      "symbol": "0P0001HO3L",
+      "fund": "ICICI Prudential MNC Fund Direct Growth",
+      "return_one_year": 23.10734,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001JDFX",
+      "fund": "ICICI Prudential Fixed Maturity",
+      "return_one_year": 5.1920198,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000KPO3",
+      "fund": "ICICI Prudential Corporate Bond Fund Fortnightly Dividend Payout",
+      "return_one_year": 3.50301,
+      "return_five_year": 5.69481
+    },
+    {
+      "symbol": "0P000148GW",
+      "fund": "ICICI Prudential Constant Maturity Gilt Direct Growth",
+      "return_one_year": 10.99443,
+      "return_five_year": 8.915749
+    },
+    {
+      "symbol": "0P0001H3JJ",
+      "fund": "ICICI Prudential Fixed Maturity Plan Series 85 1127 Days Plan Q Regular Half yearly Dividend Payout",
+      "return_one_year": 3.9480800000000005,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001NB9P",
+      "fund": "ICICI Prudential PSU Bond Plus ",
+      "return_one_year": 0.0,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001BACK",
+      "fund": "ICICI Prudential Equity Savings Fund Half Yearly Dividend Reinvestment",
+      "return_one_year": 5.1023897,
+      "return_five_year": 6.7866705
+    },
+    {
+      "symbol": "0P0000KPO6",
+      "fund": "ICICI Prudential Corporate Bond Fund Weekly Dividend Payout",
+      "return_one_year": 3.50954,
+      "return_five_year": 5.72782
+    },
+    {
+      "symbol": "0P0000RT82",
+      "fund": "ICICI Prudential Credit Risk Fund Quarterly Dividend Payout",
+      "return_one_year": 7.27176,
+      "return_five_year": 6.65003
+    },
+    {
+      "symbol": "0P0001F2JE",
+      "fund": "ICICI Prudential Overnight Fund Regular Growth",
+      "return_one_year": 5.93079,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000TFY0",
+      "fund": "ICICI Prudential Ultra Short Term Fund Half Yearly Dividend Payout",
+      "return_one_year": 3.77956,
+      "return_five_year": 4.955439999999999
+    },
+    {
+      "symbol": "0P00005UOI",
+      "fund": "ICICI Prudential Thematic Advantage Fund(FOF) Growth",
+      "return_one_year": 24.724409,
+      "return_five_year": 15.544730000000001
+    },
+    {
+      "symbol": "0P0001BAAV",
+      "fund": "ICICI Prudential Thematic Advantage Fund(FOF) Dividend Reinvestment",
+      "return_one_year": 14.195070000000001,
+      "return_five_year": 13.332981
+    },
+    {
+      "symbol": "0P00005UOH",
+      "fund": "ICICI Prudential Thematic Advantage Fund(FOF) Dividend Payout",
+      "return_one_year": 14.195070000000001,
+      "return_five_year": 13.332981
+    },
+    {
+      "symbol": "0P0000YK1E",
+      "fund": "ICICI Prudential Thematic Advantage Fund(FOF) Direct Plan Growth",
+      "return_one_year": 26.373397999999998,
+      "return_five_year": 16.310471
+    },
+    {
+      "symbol": "0P0000NQWF",
+      "fund": "ICICI Prudential Life - Group Balanced Fund",
+      "return_one_year": 9.84406,
+      "return_five_year": 7.39514
+    },
+    {
+      "symbol": "0P0001BACV",
+      "fund": "ICICI Prudential Savings Fund Fortnightly Dividend Reinvestment",
+      "return_one_year": 6.23267,
+      "return_five_year": 5.58134
+    },
+    {
+      "symbol": "0P0000Z4HZ",
+      "fund": "ICICI Prudential Savings Fund Direct Plan Quarterly Dividend Payout",
+      "return_one_year": 7.3442300000000005,
+      "return_five_year": 5.9408303
+    },
+    {
+      "symbol": "0P0000ZKI8",
+      "fund": "ICICI Prudential Savings Fund Direct Plan Dividend Payout Others",
+      "return_one_year": 7.40272,
+      "return_five_year": 6.6470199999999995
+    },
+    {
+      "symbol": "0P0000IX9X",
+      "fund": "ICICI Prudential Savings Fund Daily Dividend Reinvestment",
+      "return_one_year": 7.034120000000001,
+      "return_five_year": 5.4408204
+    },
+    {
+      "symbol": "0P0001BACS",
+      "fund": "ICICI Prudential Savings Fund Direct Plan Quarterly Dividend Reinvestment",
+      "return_one_year": 7.3442300000000005,
+      "return_five_year": 5.9408303
+    },
+    {
+      "symbol": "0P0000Z33P",
+      "fund": "ICICI Prudential Savings Fund Direct Plan Fortnightly Dividend Payout",
+      "return_one_year": 6.32596,
+      "return_five_year": 5.68215
+    },
+    {
+      "symbol": "0P0000Z51M",
+      "fund": "ICICI Prudential Savings Fund Quarterly Dividend Payout",
+      "return_one_year": 7.233439999999999,
+      "return_five_year": 5.8361
+    },
+    {
+      "symbol": "0P0001BAD0",
+      "fund": "ICICI Prudential Savings Fund Weekly Dividend Reinvestment",
+      "return_one_year": 7.05717,
+      "return_five_year": 5.8067497
+    },
+    {
+      "symbol": "0P0000XWAO",
+      "fund": "ICICI Prudential Savings Fund Direct Plan Growth",
+      "return_one_year": 7.40268,
+      "return_five_year": 6.82833
+    },
+    {
+      "symbol": "0P00011MOQ",
+      "fund": "ICICI Prudential Savings Fund Dividend Payout Others",
+      "return_one_year": 7.29037,
+      "return_five_year": 6.53015
+    },
+    {
+      "symbol": "0P0001BACX",
+      "fund": "ICICI Prudential Savings Fund Quarterly Dividend Reinvestment",
+      "return_one_year": 7.233439999999999,
+      "return_five_year": 5.8361
+    },
+    {
+      "symbol": "0P0000IX8W",
+      "fund": "ICICI Prudential Savings Fund Weekly Dividend Payout",
+      "return_one_year": 7.05717,
+      "return_five_year": 5.8067497
+    },
+    {
+      "symbol": "0P0001BACU",
+      "fund": "ICICI Prudential Savings Fund Dividend Reinvestment Others",
+      "return_one_year": 7.29037,
+      "return_five_year": 6.53015
+    },
+    {
+      "symbol": "0P00005X06",
+      "fund": "ICICI Prudential Savings Fund Growth",
+      "return_one_year": 7.290299999999999,
+      "return_five_year": 6.7066796
+    }
+  ]
+  

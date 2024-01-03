@@ -1,0 +1,444 @@
+[
+    { "0": "Name", "1": "Ticker", "2": "External Link to Stock Exchange" },
+    {
+      "0": "Axis Gold ETF",
+      "1": "AXISGOLD",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=AXISGOLD"
+    },
+    {
+      "0": "Axis Nifty ETF",
+      "1": "AXISNIFTY",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=AXISNIFTY"
+    },
+    {
+      "0": "Bharat 22 ETF",
+      "1": "ICICIB22",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=ICICIB22"
+    },
+    {
+      "0": "BHARAT Bond ETF-April 2023-Gth",
+      "1": "EBBETF0423",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=EBBETF0423"
+    },
+    {
+      "0": "BHARAT Bond ETF-April 2025-Gth",
+      "1": "EBBETF0425",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=EBBETF0425"
+    },
+    {
+      "0": "BHARAT Bond ETF-April 2030-Gth",
+      "1": "EBBETF0430",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=EBBETF0430"
+    },
+    {
+      "0": "BHARAT Bond ETF-April 2031-Gth",
+      "1": "EBBETF0431",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=EBBETF0431"
+    },
+    {
+      "0": "BSL Bkg ETF",
+      "1": "ABSLBANETF",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=ABSLBANETF"
+    },
+    {
+      "0": "BSL Gold ETF",
+      "1": "BSLGOLDETF",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=BSLGOLDETF"
+    },
+    {
+      "0": "BSL Nifty ETF",
+      "1": "BSLNIFTY",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=BSLNIFTY"
+    },
+    {
+      "0": "BSL Nifty Next 50 ETF",
+      "1": "ABSLNN50ET",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=ABSLNN50ET"
+    },
+    {
+      "0": "CPSE ETF",
+      "1": "CPSEETF",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=CPSEETF"
+    },
+    {
+      "0": "DSP Liquid ETF",
+      "1": "LIQUIDETF",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=LIQUIDETF"
+    },
+    {
+      "0": "Edelweiss ETF-Nifty 100 Qua 30",
+      "1": "EQ30",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=EQ30"
+    },
+    {
+      "0": "Edelweiss ETF-Nifty 50",
+      "1": "NIFTYEES",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=NIFTYEES"
+    },
+    {
+      "0": "Edelweiss ETF-Nifty Bank",
+      "1": "EBANK",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=EBANK"
+    },
+    {
+      "0": "HDFC Gold Exchange Traded Fund",
+      "1": "HDFCMFGETF",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=HDFCMFGETF"
+    },
+    {
+      "0": "HDFC Nifty 50 ETF",
+      "1": "HDFCNIFETF",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=HDFCNIFETF"
+    },
+    {
+      "0": "HDFC SENSEX ETF",
+      "1": "HDFCSENETF",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=HDFCSENETF"
+    },
+    {
+      "0": "ICICI Alpha Low Vol 30 ETF",
+      "1": "ICICIALPLV",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=ICICIALPLV"
+    },
+    {
+      "0": "ICICI Gold ETF",
+      "1": "ICICIGOLD",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=ICICIGOLD"
+    },
+    {
+      "0": "ICICI Midcap Select ETF",
+      "1": "ICICIMCAP",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=ICICIMCAP"
+    },
+    {
+      "0": "ICICI Nifty Low Vol 30 ETF",
+      "1": "ICICILOVOL",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=ICICILOVOL"
+    },
+    {
+      "0": "ICICI Pru Midcap 150 ETF",
+      "1": "ICICIM150",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=ICICIM150"
+    },
+    {
+      "0": "ICICI Pru Nifty Next 50 ETF",
+      "1": "ICICINXT50",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=ICICINXT50"
+    },
+    {
+      "0": "ICICI Prudential Bank ETF",
+      "1": "ICICIBANKN",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=ICICIBANKN"
+    },
+    {
+      "0": "ICICI Prudential IT ETF",
+      "1": "ICICITECH",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=ICICITECH"
+    },
+    {
+      "0": "ICICI Prudential Liquid ETF",
+      "1": "ICICILIQ",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=ICICILIQ"
+    },
+    {
+      "0": "ICICI Prudential Nifty 100 ETF",
+      "1": "ICICINF100",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=ICICINF100"
+    },
+    {
+      "0": "ICICI Prudential Nifty ETF",
+      "1": "ICICINIFTY",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=ICICINIFTY"
+    },
+    {
+      "0": "ICICI Prudential NV20 ETF",
+      "1": "ICICINV20",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=ICICINV20"
+    },
+    {
+      "0": "ICICI Prudential SENSEX ETF",
+      "1": "ICICISENSX",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=ICICISENSX"
+    },
+    {
+      "0": "ICICI Pvt Banks ETF",
+      "1": "ICICIBANKP",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=ICICIBANKP"
+    },
+    {
+      "0": "ICICI S&P BSE 500 ETF",
+      "1": "ICICI500",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=ICICI500"
+    },
+    {
+      "0": "IDBI Gold Exchange Traded Fund",
+      "1": "IDBIGOLD",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=IDBIGOLD"
+    },
+    {
+      "0": "IDFC Nifty ETF",
+      "1": "IDFNIFTYET",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=IDFNIFTYET"
+    },
+    {
+      "0": "Indiabulls NIFTY50 ETF",
+      "1": "IBMFNIFTY",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=IBMFNIFTY"
+    },
+    {
+      "0": "Invesco India Gold ETF",
+      "1": "IVZINGOLD",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=IVZINGOLD"
+    },
+    {
+      "0": "Invesco Nifty ETF",
+      "1": "IVZINNIFTY",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=IVZINNIFTY"
+    },
+    {
+      "0": "Kotak Banking ETF",
+      "1": "KOTAKBKETF",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=KOTAKBKETF"
+    },
+    {
+      "0": "Kotak Gold ETF",
+      "1": "KOTAKGOLD",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=KOTAKGOLD"
+    },
+    {
+      "0": "Kotak Nifty ETF",
+      "1": "KOTAKNIFTY",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=KOTAKNIFTY"
+    },
+    {
+      "0": "Kotak NV 20 ETF",
+      "1": "KOTAKNV20",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=KOTAKNV20"
+    },
+    {
+      "0": "Kotak PSU Bank ETF",
+      "1": "KOTAKPSUBK",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=KOTAKPSUBK"
+    },
+    {
+      "0": "LIC ETF-Nifty 100",
+      "1": "LICNFNHGP",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=LICNFNHGP"
+    },
+    {
+      "0": "LIC ETF-Nifty 50",
+      "1": "LICNETFN50",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=LICNETFN50"
+    },
+    {
+      "0": "LIC ETF-Sensex",
+      "1": "LICNETFSEN",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=LICNETFSEN"
+    },
+    {
+      "0": "LIC MF G-SEC Long Term ETF",
+      "1": "LICNETFGSC",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=LICNETFGSC"
+    },
+    {
+      "0": "Mirae Asset Nifty 50 ETF",
+      "1": "MAN50ETF",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=MAN50ETF"
+    },
+    {
+      "0": "Mirae Asset Nifty Next 50 ETF",
+      "1": "MANXT50",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=MANXT50"
+    },
+    {
+      "0": "Mirae Asset FANG+ ETF",
+      "1": "MANXT50",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=MAFANG"
+    },
+    {
+      "0": "Motilal Oswal M50 ETF",
+      "1": "M50",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=M50"
+    },
+    {
+      "0": "Motilal Oswal Midcap 100 ETF",
+      "1": "M100",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=M100"
+    },
+    {
+      "0": "Motilal Oswal NASDAQ 100 ETF",
+      "1": "N100",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=N100"
+    },
+    {
+      "0": "Nippon India ETF Bank BeES",
+      "1": "BANKBEES",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=BANKBEES"
+    },
+    {
+      "0": "Nippon India ETF Consumption",
+      "1": "NETFCONSUM",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=NETFCONSUM"
+    },
+    {
+      "0": "Nippon India ETF Dividend Opps",
+      "1": "NETFDIVOPP",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=NETFDIVOPP"
+    },
+    {
+      "0": "Nippon India ETF Gold BEES",
+      "1": "GOLDBEES",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=GOLDBEES"
+    },
+    {
+      "0": "Nippon India ETF HangSeng BeES",
+      "1": "HNGSNGBEES",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=HNGSNGBEES"
+    },
+    {
+      "0": "Nippon India ETF Infra BeES",
+      "1": "INFRABEES",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=INFRABEES"
+    },
+    {
+      "0": "Nippon India ETF Junior BeES",
+      "1": "JUNIORBEES",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=JUNIORBEES"
+    },
+    {
+      "0": "Nippon India ETF Liquid BeES",
+      "1": "LIQUIDBEES",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=LIQUIDBEES"
+    },
+    {
+      "0": "Nippon India ETF LongTerm Gilt",
+      "1": "NETFLTGILT",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=NETFLTGILT"
+    },
+    {
+      "0": "Nippon India ETF Nifty 100",
+      "1": "NETFNIF100",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=NETFNIF100"
+    },
+    {
+      "0": "Nippon India ETF Nifty BeES",
+      "1": "NIFTYBEES",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=NIFTYBEES"
+    },
+    {
+      "0": "Nippon India ETF Nifty IT",
+      "1": "NETFIT",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=NETFIT"
+    },
+    {
+      "0": "Nippon India ETF NV20",
+      "1": "NETFNV20",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=NETFNV20"
+    },
+    {
+      "0": "Nippon India ETF PSU Bank BeES",
+      "1": "PSUBNKBEES",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=PSUBNKBEES"
+    },
+    {
+      "0": "Nippon India ETF Shariah BeES",
+      "1": "SHARIABEES",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=SHARIABEES"
+    },
+    {
+      "0": "Nippon IndiaETF NiftyMidcap150",
+      "1": "NETFMID150",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=NETFMID150"
+    },
+    {
+      "0": "Quantum Gold Fund",
+      "1": "QGOLDHALF",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=QGOLDHALF"
+    },
+    {
+      "0": "Quantum Nifty ETF",
+      "1": "QNIFTY",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=QNIFTY"
+    },
+    {
+      "0": "SBI ETF IT",
+      "1": "SBIETFIT",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=SBIETFIT"
+    },
+    {
+      "0": "SBI ETF Private Bank",
+      "1": "SBIETFPB",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=SBIETFPB"
+    },
+    {
+      "0": "SBI-ETF 10 year Gilt",
+      "1": "SETF10GILT",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=SETF10GILT"
+    },
+    {
+      "0": "SBI-ETF Gold",
+      "1": "SETFGOLD",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=SETFGOLD"
+    },
+    {
+      "0": "SBI-ETF Nifty 50",
+      "1": "SETFNIF50",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=SETFNIF50"
+    },
+    {
+      "0": "SBI-ETF Nifty Bank",
+      "1": "SETFNIFBK",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=SETFNIFBK"
+    },
+    {
+      "0": "SBI-ETF Nifty Next 50",
+      "1": "SETFNN50",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=SETFNN50"
+    },
+    {
+      "0": "SBI-ETF Quality",
+      "1": "SBIETFQLTY",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=SBIETFQLTY"
+    },
+    {
+      "0": "Tata Nifty ETF",
+      "1": "NETF",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=NETF"
+    },
+    {
+      "0": "Tata Nifty Private Bank ETF",
+      "1": "NPBET",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=NPBET"
+    },
+    {
+      "0": "UTI Bank ETF",
+      "1": "UTIBANKETF",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=UTIBANKETF"
+    },
+    {
+      "0": "UTI Gold ETF",
+      "1": "GOLDSHARE",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=GOLDSHARE"
+    },
+    {
+      "0": "UTI S&P BSE Sensex Next 50 ETF",
+      "1": "UTISXN50",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=UTISXN50"
+    },
+    {
+      "0": "UTI-Nifty ETF",
+      "1": "UTINIFTETF",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=UTINIFTETF"
+    },
+    {
+      "0": "UTI-Nifty Next 50 ETF",
+      "1": "UTINEXT50",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=UTINEXT50"
+    },
+    {
+      "0": "UTI-Sensex ETF",
+      "1": "UTISENSETF",
+      "2": "https://www.nseindia.com/get-quotes/equity?symbol=UTISENSETF"
+    }
+  ]
+  

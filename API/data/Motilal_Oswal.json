@@ -1,0 +1,411 @@
+[
+    {
+      "symbol": "0P0001JMZC",
+      "fund": "Motilal Oswal S&P 500 Index Fun",
+      "return_one_year": 22.810471,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001BAYQ",
+      "fund": "Motilal Oswal Dynamic Fund Direct Plan Annual Dividend Reinvestment Option",
+      "return_one_year": 16.557830000000003,
+      "return_five_year": 5.65863
+    },
+    {
+      "symbol": "0P0001II3Z",
+      "fund": "Motilal Oswal Large and Midcap Fund Direct Dividend Reinvestment",
+      "return_one_year": 40.9606,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000YU92",
+      "fund": "Motilal Oswal Focused 25 Regular Growth",
+      "return_one_year": 24.62672,
+      "return_five_year": 10.57267
+    },
+    {
+      "symbol": "0P0001BAYT",
+      "fund": "Motilal Oswal Dynamic Fund Regular Plan Quarterly Dividend Reinvestment Option",
+      "return_one_year": 13.79437,
+      "return_five_year": 3.6765
+    },
+    {
+      "symbol": "0P0001IAU9",
+      "fund": "Motilal Oswal Nifty Midcap 150 Index Fund Direct Growth",
+      "return_one_year": 34.03184,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000ZKDO",
+      "fund": "Motilal Oswal Ultra Short Term Fund Direct Daily Dividend Reinvestment",
+      "return_one_year": 5.63474,
+      "return_five_year": 1.7683601
+    },
+    {
+      "symbol": "0P0001I2MR",
+      "fund": "Motilal Oswal Liquid Fund (MOFLF) Unclaimed Dividend Upto 3 years",
+      "return_one_year": 5.99333,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001FI74",
+      "fund": "Motilal Oswal Liquid Fund (MOFLF) Direct-Dividend Option-Quarterly Reinvestment",
+      "return_one_year": 5.972099699999999,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001EDSI",
+      "fund": "Motilal Oswal Equity Hybrid Dir Gr",
+      "return_one_year": 22.84911,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001F9YH",
+      "fund": "Motilal Oswal Liquid Fund (MOFLF) Direct Growth",
+      "return_one_year": 5.9720896,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001BAYQ",
+      "fund": "Motilal Oswal Dynamic Fund Direct Plan Annual Dividend Reinvestment Option",
+      "return_one_year": 16.557830000000003,
+      "return_five_year": 5.65863
+    },
+    {
+      "symbol": "0P0000YU92",
+      "fund": "Motilal Oswal Focused 25 Regular Growth",
+      "return_one_year": 24.62672,
+      "return_five_year": 10.57267
+    },
+    {
+      "symbol": "0P0001BAYT",
+      "fund": "Motilal Oswal Dynamic Fund Regular Plan Quarterly Dividend Reinvestment Option",
+      "return_one_year": 13.79437,
+      "return_five_year": 3.6765
+    },
+    {
+      "symbol": "0P0001F0CK",
+      "fund": "Motilal Oswal Nasdaq 100 Fund of Fund Direct Growth",
+      "return_one_year": 41.95525,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000ZSU8",
+      "fund": "Motilal Oswal Ultra Short Term Fund-Regular Plan-Fortnightly Dividend Reinvestment Option",
+      "return_one_year": 5.1470898,
+      "return_five_year": 1.4564300000000001
+    },
+    {
+      "symbol": "0P0001I2MR",
+      "fund": "Motilal Oswal Liquid Fund (MOFLF) Unclaimed Dividend Upto 3 years",
+      "return_one_year": 5.99333,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001IAU9",
+      "fund": "Motilal Oswal Nifty Midcap 150 Index Fund Direct Growth",
+      "return_one_year": 34.03184,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P00018S3A",
+      "fund": "Motilal Oswal Dynamic Fund Direct Plan Quarterly Dividend Payout Option",
+      "return_one_year": 15.101421,
+      "return_five_year": 5.3430602
+    },
+    {
+      "symbol": "0P0001LR1O",
+      "fund": "Motilal Oswal Asset Allocation ",
+      "return_one_year": 15.376370999999999,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001II40",
+      "fund": "Motilal Oswal Large and Midcap Fund Regular Growth",
+      "return_one_year": 39.50549,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001FI70",
+      "fund": "Motilal Oswal Liquid Fund (MOFLF) Direct-Dividend Option-Fortnightly Reinvestment",
+      "return_one_year": 6.0193,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P00012ZRM",
+      "fund": "Motilal Oswal Multicap 35 Fund - Direct Plan - Growth",
+      "return_one_year": 23.370251,
+      "return_five_year": 6.8374299999999995
+    },
+    {
+      "symbol": "0P0001IAU3",
+      "fund": "Motilal Oswal Nifty 500 Fund Direct Growth",
+      "return_one_year": 24.286039000000002,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P00012ZRM",
+      "fund": "Motilal Oswal Multicap 35 Fund - Direct Plan - Growth",
+      "return_one_year": 23.370251,
+      "return_five_year": 6.8374299999999995
+    },
+    {
+      "symbol": "0P000159Q0",
+      "fund": "Motilal Oswal Long Term Equity Fund - Direct Plan - Growth",
+      "return_one_year": 38.04787,
+      "return_five_year": 12.39644
+    },
+    {
+      "symbol": "0P000159PZ",
+      "fund": "Motilal Oswal Long Term Equity Fund Direct Plan Dividend Payout",
+      "return_one_year": 37.38184,
+      "return_five_year": 11.77063
+    },
+    {
+      "symbol": "0P0000ZKJP",
+      "fund": "Motilal Oswal Ultra Short Term Fund-Regular Plan-Quarterly Dividend Payout",
+      "return_one_year": 5.1181600000000005,
+      "return_five_year": 1.4456299000000001
+    },
+    {
+      "symbol": "0P0001IAU5",
+      "fund": "Motilal Oswal Nifty Bank Index Fund Direct Growth",
+      "return_one_year": 35.726583,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P00018S3A",
+      "fund": "Motilal Oswal Dynamic Fund Direct Plan Quarterly Dividend Payout Option",
+      "return_one_year": 15.101421,
+      "return_five_year": 5.3430602
+    },
+    {
+      "symbol": "0P0001FI70",
+      "fund": "Motilal Oswal Liquid Fund (MOFLF) Direct-Dividend Option-Fortnightly Reinvestment",
+      "return_one_year": 6.0193,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001IAU4",
+      "fund": "Motilal Oswal Nifty 500 Fund Regular Growth",
+      "return_one_year": 23.479371,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001JMZB",
+      "fund": "Motilal Oswal S&P 500 Index Fun",
+      "return_one_year": 23.48661,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000ZKDL",
+      "fund": "Motilal Oswal Ultra Short Term Fund Regular Weekly Dividend Reinvestment",
+      "return_one_year": 5.1181998,
+      "return_five_year": 1.44244
+    },
+    {
+      "symbol": "0P0001LR1O",
+      "fund": "Motilal Oswal Asset Allocation ",
+      "return_one_year": 15.376370999999999,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001II40",
+      "fund": "Motilal Oswal Large and Midcap Fund Regular Growth",
+      "return_one_year": 39.50549,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001IAUA",
+      "fund": "Motilal Oswal Nifty Midcap 150 Index Fund Regular Growth",
+      "return_one_year": 32.975182,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P000159Q0",
+      "fund": "Motilal Oswal Long Term Equity Fund - Direct Plan - Growth",
+      "return_one_year": 38.04787,
+      "return_five_year": 12.39644
+    },
+    {
+      "symbol": "0P00012ALR",
+      "fund": "Motilal Oswal Midcap 30 Direct Dividend Payout",
+      "return_one_year": 44.621359999999996,
+      "return_five_year": 17.1816
+    },
+    {
+      "symbol": "0P00012ZRN",
+      "fund": "Motilal Oswal Multicap 35 Fund Regular Plan Dividend Payout",
+      "return_one_year": 13.53992,
+      "return_five_year": 2.30135
+    },
+    {
+      "symbol": "0P0001IUFV",
+      "fund": "Motilal Oswal Nifty 50 Index Fund Regular Growth",
+      "return_one_year": 23.123689,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P000159Q1",
+      "fund": "Motilal Oswal Long Term Equity Fund Regular Plan Dividend Payout",
+      "return_one_year": 35.92596,
+      "return_five_year": 10.13016
+    },
+    {
+      "symbol": "0P00012ZRN",
+      "fund": "Motilal Oswal Multicap 35 Fund Regular Plan Dividend Payout",
+      "return_one_year": 13.53992,
+      "return_five_year": 2.30135
+    },
+    {
+      "symbol": "0P0001IUFU",
+      "fund": "Motilal Oswal Nifty 50 Index Fund Direct Growth",
+      "return_one_year": 23.63899,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001IUFV",
+      "fund": "Motilal Oswal Nifty 50 Index Fund Regular Growth",
+      "return_one_year": 23.123689,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001FI79",
+      "fund": "Motilal Oswal Liquid Fund (MOFLF) Regular-Dividend Option-Monthly Reinvestment",
+      "return_one_year": 5.81304,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P00018S39",
+      "fund": "Motilal Oswal Dynamic Fund - Direct Plan - Growth Option",
+      "return_one_year": 16.94842,
+      "return_five_year": 6.97781
+    },
+    {
+      "symbol": "0P0001IUFU",
+      "fund": "Motilal Oswal Nifty 50 Index Fund Direct Growth",
+      "return_one_year": 23.63899,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000ZKDJ",
+      "fund": "Motilal Oswal Ultra Short Term Fund Regular Growth",
+      "return_one_year": 5.11869,
+      "return_five_year": 1.5297699999999999
+    },
+    {
+      "symbol": "0P0001IUFV",
+      "fund": "Motilal Oswal Nifty 50 Index Fund Regular Growth",
+      "return_one_year": 23.123689,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001FI79",
+      "fund": "Motilal Oswal Liquid Fund (MOFLF) Regular-Dividend Option-Monthly Reinvestment",
+      "return_one_year": 5.81304,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P00018S39",
+      "fund": "Motilal Oswal Dynamic Fund - Direct Plan - Growth Option",
+      "return_one_year": 16.94842,
+      "return_five_year": 6.97781
+    },
+    {
+      "symbol": "0P00012ALU",
+      "fund": "Motilal Oswal Midcap 30 Regular Growth",
+      "return_one_year": 43.65511,
+      "return_five_year": 17.35173
+    },
+    {
+      "symbol": "0P00012ZRO",
+      "fund": "Motilal Oswal Multicap 35 Fund - Regular Plan - Growth",
+      "return_one_year": 22.331699999999998,
+      "return_five_year": 5.8798898
+    },
+    {
+      "symbol": "0P0001FI75",
+      "fund": "Motilal Oswal Liquid Fund (MOFLF) Direct-Dividend Option-Weekly Reinvestment",
+      "return_one_year": 5.87423,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001FI76",
+      "fund": "Motilal Oswal Liquid Fund (MOFLF) Regular Dividend Option-Daily Reinvestment",
+      "return_one_year": 5.78083,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001FI7B",
+      "fund": "Motilal Oswal Liquid Fund (MOFLF) Regular-Dividend Option-Quarterly Reinvestment",
+      "return_one_year": 5.8386203,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P00012ZRO",
+      "fund": "Motilal Oswal Multicap 35 Fund - Regular Plan - Growth",
+      "return_one_year": 22.331699999999998,
+      "return_five_year": 5.8798898
+    },
+    {
+      "symbol": "0P0001FI6Z",
+      "fund": "Motilal Oswal Liquid Fund (MOFLF) Direct-Dividend Option-Daily Reinvestment",
+      "return_one_year": 5.93642,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001KBKK",
+      "fund": "Motilal Oswal Multi Asset Fund ",
+      "return_one_year": 10.5507,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P00012ZRK",
+      "fund": "Motilal Oswal Multicap 35 Fund Direct Plan Dividend Payout",
+      "return_one_year": 22.775119999999998,
+      "return_five_year": 5.66746
+    },
+    {
+      "symbol": "0P0001JMZC",
+      "fund": "Motilal Oswal S&P 500 Index Fun",
+      "return_one_year": 22.810471,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001KBKK",
+      "fund": "Motilal Oswal Multi Asset Fund ",
+      "return_one_year": 10.5507,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000ZKDK",
+      "fund": "Motilal Oswal Ultra Short Term Fund Regular Daily Dividend Reinvestment",
+      "return_one_year": 5.117710000000001,
+      "return_five_year": 1.43679
+    },
+    {
+      "symbol": "0P0000YU93",
+      "fund": "Motilal Oswal Focused 25 Regular Dividend Payout",
+      "return_one_year": 24.213791,
+      "return_five_year": 8.17291
+    },
+    {
+      "symbol": "0P00015EJ6",
+      "fund": "Motilal Oswal Ultra Short Term Fund-Direct Plan-Weekly Dividend Reinvestment Option",
+      "return_one_year": 5.63394,
+      "return_five_year": 1.76719
+    },
+    {
+      "symbol": "0P0001FI77",
+      "fund": "Motilal Oswal Liquid Fund (MOFLF) Regular Dividend Option-Fortnightly Reinvestment",
+      "return_one_year": 5.8149,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001IUFY",
+      "fund": "Motilal Oswal Nifty Next 50 Index Fund Regular Growth",
+      "return_one_year": 20.681919,
+      "return_five_year": 0.0
+    }
+  ]
+  

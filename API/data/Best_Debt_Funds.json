@@ -1,0 +1,495 @@
+[
+    {
+      "symbol": "0P0001BA8N",
+      "fund": "HDFC Hybrid Debt Quarterly Dividend Reinvestment",
+      "return_one_year": 14.07946,
+      "return_five_year": 7.84338
+    },
+    {
+      "symbol": "0P0000XW8G",
+      "fund": "HDFC Hybrid Debt Direct Plan Growth Option",
+      "return_one_year": 14.72783,
+      "return_five_year": 9.54962
+    },
+    {
+      "symbol": "0P0000XW8J",
+      "fund": "HDFC Hybrid Debt Direct Plan Quarterly Dividend Payout Option",
+      "return_one_year": 14.645389999999999,
+      "return_five_year": 8.39307
+    },
+    {
+      "symbol": "0P0001BA8L",
+      "fund": "HDFC Hybrid Debt Direct Plan Quarterly Dividend Reinvestment Option",
+      "return_one_year": 14.645389999999999,
+      "return_five_year": 8.39307
+    },
+    {
+      "symbol": "0P0000XW8I",
+      "fund": "HDFC Hybrid Debt Direct Plan Monthly Dividend Payout Option",
+      "return_one_year": 14.72045,
+      "return_five_year": 8.44888
+    },
+    {
+      "symbol": "0P00005WMY",
+      "fund": "HDFC Hybrid Debt Growth",
+      "return_one_year": 14.17521,
+      "return_five_year": 9.0546
+    },
+    {
+      "symbol": "0P00005WMZ",
+      "fund": "HDFC Hybrid Debt Monthly Dividend Payout",
+      "return_one_year": 14.166680000000001,
+      "return_five_year": 7.9029
+    },
+    {
+      "symbol": "0P00005WN0",
+      "fund": "HDFC Hybrid Debt Quarterly Dividend Payout",
+      "return_one_year": 14.07946,
+      "return_five_year": 7.84338
+    },
+    {
+      "symbol": "0P0001BA8K",
+      "fund": "HDFC Hybrid Debt Direct Plan Monthly Dividend Reinvestment Option",
+      "return_one_year": 14.72045,
+      "return_five_year": 8.44888
+    },
+    {
+      "symbol": "0P0001BA8M",
+      "fund": "HDFC Hybrid Debt Monthly Dividend Reinvestment",
+      "return_one_year": 14.166680000000001,
+      "return_five_year": 7.9029
+    },
+    {
+      "symbol": "0P0000V7DT",
+      "fund": "India First Life - Debt Fund 1",
+      "return_one_year": 8.19594,
+      "return_five_year": 4.4148597999999994
+    },
+    {
+      "symbol": "0P0001LG8R",
+      "fund": "TrustMF Banking & PSU Debt Dire",
+      "return_one_year": 6.96777,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001GZMA",
+      "fund": "Edelweiss Banking and PSU Debt Fund Direct Plan Fortnightly Dividend Option",
+      "return_one_year": 8.79509,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001BA4A",
+      "fund": "Franklin India Banking &amp; PSU Debt Fund Dividend Reinvestment",
+      "return_one_year": 1.91923,
+      "return_five_year": 3.99029
+    },
+    {
+      "symbol": "0P0000XVGJ",
+      "fund": "Invesco India Banking &amp; PSU Debt Fund - Direct Plan Daily Dividend Reinvestment",
+      "return_one_year": 3.5906399999999996,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001LSS4",
+      "fund": "PGIM India Banking and PSU Debt",
+      "return_one_year": 6.10992,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P00011WHN",
+      "fund": "UTI Banking &amp; PSU Debt Fund Direct Quarterly Dividend Payout",
+      "return_one_year": 8.22402,
+      "return_five_year": 5.72719
+    },
+    {
+      "symbol": "0P0000Y7XW",
+      "fund": "IDFC Banking &amp; PSU Debt Fund Direct Dividend Payout",
+      "return_one_year": 6.90589,
+      "return_five_year": 5.8207303
+    },
+    {
+      "symbol": "0P0000CNZI",
+      "fund": "L&amp;T Banking &amp; PSU Debt fund Daily Dividend Reinvestment Option",
+      "return_one_year": 6.67638,
+      "return_five_year": 5.4127797
+    },
+    {
+      "symbol": "0P0000SV64",
+      "fund": "AEGON Life - Group Debt Fund",
+      "return_one_year": 0.0,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000N9YS",
+      "fund": "Sundaram Debt Oriented Hybrid Fund Quarterly Dividend Payout",
+      "return_one_year": 10.270271000000001,
+      "return_five_year": 4.7079
+    },
+    {
+      "symbol": "0P0001FKYK",
+      "fund": "SBI Debt Fund Series C - 41 (1178 Days) Direct Dividend Payout",
+      "return_one_year": 4.121989999999999,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001KUMS",
+      "fund": "SBI Floating Rate Debt Fund Dir",
+      "return_one_year": 6.81884,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000Y7XU",
+      "fund": "IDFC Banking &amp; PSU Debt Fund Regular Dividend Payout",
+      "return_one_year": 6.586930000000001,
+      "return_five_year": 5.7174000000000005
+    },
+    {
+      "symbol": "0P0001B9YS",
+      "fund": "DSP Banking &amp; PSU Debt Fund Regular Monthly Dividend Reinvestment",
+      "return_one_year": 6.608210000000001,
+      "return_five_year": 5.60434
+    },
+    {
+      "symbol": "0P0001FKYM",
+      "fund": "SBI Debt Fund Series C - 41 (1178 Days) Regular Dividend Payout",
+      "return_one_year": 3.8620997,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P00012IEI",
+      "fund": "BOI AXA Equity Debt Rebalancer Direct Growth",
+      "return_one_year": 17.32823,
+      "return_five_year": 6.3291200000000005
+    },
+    {
+      "symbol": "0P0001MS9G",
+      "fund": "DSP Banking & PSU Debt Fund Reg",
+      "return_one_year": 6.30235,
+      "return_five_year": 5.5798303
+    },
+    {
+      "symbol": "0P00011WJY",
+      "fund": "Bajaj Allianz Life - Group Debt",
+      "return_one_year": 8.12303,
+      "return_five_year": 6.731280000000001
+    },
+    {
+      "symbol": "0P0001B9PP",
+      "fund": "Aditya Birla Sun Life Banking &amp; PSU Debt Fund Dividend Reinvestment Direct Plan",
+      "return_one_year": 6.64189,
+      "return_five_year": 6.4480804
+    },
+    {
+      "symbol": "0P0000GBCG",
+      "fund": "Aditya Birla Sun Life Banking &amp; PSU Debt Fund Growth Regular Plan",
+      "return_one_year": 6.7656203999999995,
+      "return_five_year": 7.25774
+    },
+    {
+      "symbol": "0P0000GBBW",
+      "fund": "Aditya Birla Sun Life Banking &amp; PSU Debt Fund Quarterly Dividend Payout Regular Plan",
+      "return_one_year": 6.681710000000001,
+      "return_five_year": 6.13724
+    },
+    {
+      "symbol": "0P00009QD2",
+      "fund": "Aditya Birla Sun Life Banking &amp; PSU Debt Fund Retail Quarterly Dividend Payout",
+      "return_one_year": 6.681769999999999,
+      "return_five_year": 6.1371196
+    },
+    {
+      "symbol": "0P0001CKF1",
+      "fund": "Aditya Birla Sun Life Banking &amp; PSU Debt Fund Dividend Reinvestment Regular Plan",
+      "return_one_year": 6.4461699999999995,
+      "return_five_year": 6.3604400000000005
+    },
+    {
+      "symbol": "0P0001BJEX",
+      "fund": "Aditya Birla Sun Life Banking &amp; PSU Debt Fund Quarterly Dividend Reinvestment Direct Plan",
+      "return_one_year": 7.0521496,
+      "return_five_year": 6.48604
+    },
+    {
+      "symbol": "0P0000IX84",
+      "fund": "Aditya Birla Sun Life Banking &amp; PSU Debt Fund Monthly Dividend Payout Regular Plan",
+      "return_one_year": 6.74299,
+      "return_five_year": 6.40704
+    },
+    {
+      "symbol": "0P0000IX83",
+      "fund": "Aditya Birla Sun Life Banking &amp; PSU Debt Fund Retail Monthly Dividend Payout",
+      "return_one_year": 6.74318,
+      "return_five_year": 6.4078495
+    },
+    {
+      "symbol": "0P0001BJEW",
+      "fund": "Aditya Birla Sun Life Banking &amp; PSU Debt Fund Monthly Dividend Reinvestment Direct Plan",
+      "return_one_year": 7.11782,
+      "return_five_year": 6.757910000000001
+    },
+    {
+      "symbol": "0P0000GBBQ",
+      "fund": "Aditya Birla Sun Life Banking &amp; PSU Debt Fund Dividend Payout Regular Plan",
+      "return_one_year": 6.4461699999999995,
+      "return_five_year": 6.3604400000000005
+    },
+    {
+      "symbol": "0P0001CKF2",
+      "fund": "Aditya Birla Sun Life Banking &amp; PSU Debt Fund Monthly Dividend Reinvestment Regular Plan",
+      "return_one_year": 6.74299,
+      "return_five_year": 6.40704
+    },
+    {
+      "symbol": "0P0000XVYH",
+      "fund": "Aditya Birla Sun Life Banking &amp; PSU Debt Fund Growth Direct Plan",
+      "return_one_year": 7.13989,
+      "return_five_year": 7.609019999999999
+    },
+    {
+      "symbol": "0P0000XVYI",
+      "fund": "Aditya Birla Sun Life Banking &amp; PSU Debt Fund Quarterly Dividend Payout Direct Plan",
+      "return_one_year": 7.0521496,
+      "return_five_year": 6.48604
+    },
+    {
+      "symbol": "0P0000XVYF",
+      "fund": "Aditya Birla Sun Life Banking &amp; PSU Debt Fund Monthly Dividend Payout Direct Plan",
+      "return_one_year": 7.11782,
+      "return_five_year": 6.757910000000001
+    },
+    {
+      "symbol": "0P0000XVYG",
+      "fund": "Aditya Birla Sun Life Banking &amp; PSU Debt Fund Dividend Payout Direct Plan",
+      "return_one_year": 6.64189,
+      "return_five_year": 6.4480804
+    },
+    {
+      "symbol": "0P0001CKF3",
+      "fund": "Aditya Birla Sun Life Banking &amp; PSU Debt Fund Quarterly Dividend Reinvestment Regular Plan",
+      "return_one_year": 6.681710000000001,
+      "return_five_year": 6.13724
+    },
+    {
+      "symbol": "0P00005V6G",
+      "fund": "Aditya Birla Sun Life Banking &amp; PSU Debt Fund Retail Growth",
+      "return_one_year": 6.7657,
+      "return_five_year": 7.2575
+    },
+    {
+      "symbol": "0P0000SELC",
+      "fund": "Canara HSBC Oriental Bank of Commerce Life - Unit Linked Debt Plus Fund",
+      "return_one_year": 7.77109,
+      "return_five_year": 7.47587
+    },
+    {
+      "symbol": "0P00005X11",
+      "fund": "BNP Paribas Flexi Debt Fund Growth",
+      "return_one_year": 8.8945396,
+      "return_five_year": 6.09315
+    },
+    {
+      "symbol": "0P00005V37",
+      "fund": "BNP Paribas Flexi Debt Fund Weekly Dividend Reinvestment",
+      "return_one_year": 8.894499999999999,
+      "return_five_year": 5.1325
+    },
+    {
+      "symbol": "0P0000XVYU",
+      "fund": "BNP Paribas Flexi Debt Fund Direct Plan Monthly Dividend Payout Option",
+      "return_one_year": 9.9646196,
+      "return_five_year": 5.334499999999999
+    },
+    {
+      "symbol": "0P0001B9QD",
+      "fund": "BNP Paribas Flexi Debt Fund Direct Plan Quarterly Dividend Reinvestment Option",
+      "return_one_year": 9.91864,
+      "return_five_year": 4.87671
+    },
+    {
+      "symbol": "0P0001B9QG",
+      "fund": "BNP Paribas Flexi Debt Fund Quarterly Dividend Reinvestment",
+      "return_one_year": 8.83536,
+      "return_five_year": 4.133089999999999
+    },
+    {
+      "symbol": "0P00005V38",
+      "fund": "BNP Paribas Flexi Debt Fund Half Yearly Dividend Payout",
+      "return_one_year": 5.57135,
+      "return_five_year": 4.57233
+    },
+    {
+      "symbol": "0P00005V35",
+      "fund": "BNP Paribas Flexi Debt Fund Daily Dividend Reinvestment",
+      "return_one_year": 8.8726,
+      "return_five_year": 5.03791
+    },
+    {
+      "symbol": "0P0000K1BR",
+      "fund": "BNP Paribas Flexi Debt A Growth",
+      "return_one_year": 8.90856,
+      "return_five_year": 6.59281
+    },
+    {
+      "symbol": "0P0000XVYW",
+      "fund": "BNP Paribas Flexi Debt Fund Direct Plan Weekly Dividend Reinvestment Option",
+      "return_one_year": 9.97778,
+      "return_five_year": 4.35785
+    },
+    {
+      "symbol": "0P0001CKF5",
+      "fund": "BNP Paribas Flexi Debt Fund Weekly Dividend Payout",
+      "return_one_year": 8.894499999999999,
+      "return_five_year": 5.1325
+    },
+    {
+      "symbol": "0P0001B9QF",
+      "fund": "BNP Paribas Flexi Debt Fund Monthly Dividend Reinvestment",
+      "return_one_year": 4.59566,
+      "return_five_year": 2.7232599
+    },
+    {
+      "symbol": "0P0000XVYS",
+      "fund": "BNP Paribas Flexi Debt Fund Direct Plan Growth Option",
+      "return_one_year": 9.97774,
+      "return_five_year": 7.215059999999999
+    },
+    {
+      "symbol": "0P0001B9QE",
+      "fund": "BNP Paribas Flexi Debt Fund Half Yearly Dividend Reinvestment",
+      "return_one_year": 5.57135,
+      "return_five_year": 4.57233
+    },
+    {
+      "symbol": "0P0001B9QC",
+      "fund": "BNP Paribas Flexi Debt Fund Direct Plan Monthly Dividend Reinvestment Option",
+      "return_one_year": 9.9646196,
+      "return_five_year": 5.334499999999999
+    },
+    {
+      "symbol": "0P0000XVYV",
+      "fund": "BNP Paribas Flexi Debt Fund Direct Plan Quarterly Dividend Payout Option",
+      "return_one_year": 9.91864,
+      "return_five_year": 4.87671
+    },
+    {
+      "symbol": "0P0001B9QB",
+      "fund": "BNP Paribas Flexi Debt Fund Direct Plan Half Yearly Dividend Reinvestment Option",
+      "return_one_year": 0.0,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P00005V36",
+      "fund": "BNP Paribas Flexi Debt Fund Quarterly Dividend Payout",
+      "return_one_year": 8.83536,
+      "return_five_year": 4.133089999999999
+    },
+    {
+      "symbol": "0P0000VHDS",
+      "fund": "BNP Paribas Flexi Debt Fund Monthly Dividend Payout",
+      "return_one_year": 4.59566,
+      "return_five_year": 2.7232599
+    },
+    {
+      "symbol": "0P0000XVYT",
+      "fund": "BNP Paribas Flexi Debt Fund Direct Plan Half Yearly Dividend Payout Option",
+      "return_one_year": 0.0,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001BJFW",
+      "fund": "BNP Paribas Flexi Debt Fund Direct Plan Weekly Dividend Payout Option",
+      "return_one_year": 9.97778,
+      "return_five_year": 4.35785
+    },
+    {
+      "symbol": "0P0001CKF4",
+      "fund": "BNP Paribas Flexi Debt Fund Daily Dividend Payout",
+      "return_one_year": 8.8726,
+      "return_five_year": 5.03791
+    },
+    {
+      "symbol": "0P0001BJFV",
+      "fund": "BNP Paribas Flexi Debt Fund Direct Plan Daily Dividend Payout Option",
+      "return_one_year": 9.94533,
+      "return_five_year": 14.43418
+    },
+    {
+      "symbol": "0P0000XVYR",
+      "fund": "BNP Paribas Flexi Debt Fund Direct Plan Daily Dividend Reinvestment Option",
+      "return_one_year": 9.94533,
+      "return_five_year": 14.43418
+    },
+    {
+      "symbol": "0P0000NQWO",
+      "fund": "ICICI Prudential Life - Group Capital Guarantee Short Term Debt Fund II",
+      "return_one_year": 4.65102,
+      "return_five_year": 4.302219999999999
+    },
+    {
+      "symbol": "0P00014D1K",
+      "fund": "ICICI Prudential Equity &amp; Debt Fund Half Yearly Dividend Payout",
+      "return_one_year": 13.075700000000001,
+      "return_five_year": 13.36312
+    },
+    {
+      "symbol": "0P0001BAB8",
+      "fund": "ICICI Prudential Equity &amp; Debt Fund Monthly Dividend Reinvestment",
+      "return_one_year": 20.51248,
+      "return_five_year": 14.29733
+    },
+    {
+      "symbol": "0P0000XWA2",
+      "fund": "ICICI Prudential Equity &amp; Debt Fund Direct Plan Growth",
+      "return_one_year": 23.12836,
+      "return_five_year": 15.99055
+    },
+    {
+      "symbol": "0P0001BAB6",
+      "fund": "ICICI Prudential Equity &amp; Debt Fund Direct Plan Monthly Dividend Reinvestment",
+      "return_one_year": 21.846799999999998,
+      "return_five_year": 15.35176
+    },
+    {
+      "symbol": "0P0001BAB7",
+      "fund": "ICICI Prudential Equity &amp; Debt Fund Half Yearly Dividend Reinvestment",
+      "return_one_year": 13.075700000000001,
+      "return_five_year": 13.36312
+    },
+    {
+      "symbol": "0P00017BNM",
+      "fund": "ICICI Prudential Equity &amp; Debt Fund Annual Dividend Payout",
+      "return_one_year": 11.73067,
+      "return_five_year": 12.95516
+    },
+    {
+      "symbol": "0P0001BAB5",
+      "fund": "ICICI Prudential Equity &amp; Debt Fund Direct Plan Half Yearly Dividend Reinvestment",
+      "return_one_year": 14.440079,
+      "return_five_year": 14.21949
+    },
+    {
+      "symbol": "0P00005WZH",
+      "fund": "ICICI Prudential Equity &amp; Debt Fund Monthly Dividend Payout",
+      "return_one_year": 20.51248,
+      "return_five_year": 14.29733
+    },
+    {
+      "symbol": "0P00005WZI",
+      "fund": "ICICI Prudential Equity &amp; Debt Fund Growth",
+      "return_one_year": 22.441300000000002,
+      "return_five_year": 15.28994
+    },
+    {
+      "symbol": "0P0001BAB2",
+      "fund": "ICICI Prudential Equity &amp; Debt Fund Annual Dividend Reinvestment",
+      "return_one_year": 11.73067,
+      "return_five_year": 12.95516
+    },
+    {
+      "symbol": "0P0000XWA1",
+      "fund": "ICICI Prudential Equity &amp; Debt Fund Direct Plan Monthly Dividend Payout",
+      "return_one_year": 21.846799999999998,
+      "return_five_year": 15.35176
+    }
+  ]
+  

@@ -1,0 +1,375 @@
+[
+    {
+      "symbol": "0P0001IQ8P",
+      "fund": "Tata Focused Equity Fund Regular Dividend Sweep",
+      "return_one_year": 23.913981,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001IQ8N",
+      "fund": "Tata Focused Equity Fund Regular Dividend Payout",
+      "return_one_year": 23.913981,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001IQ8J",
+      "fund": "Tata Focused Equity Fund Direct Dividend Payout",
+      "return_one_year": 26.050649999999997,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001IQ8K",
+      "fund": "Tata Focused Equity Fund Direct Dividend Reinvestment",
+      "return_one_year": 26.050649999999997,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001IQ8I",
+      "fund": "Tata Focused Equity Fund Direct Growth",
+      "return_one_year": 26.050649999999997,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001IQ8O",
+      "fund": "Tata Focused Equity Fund Regular Dividend Reinvestment",
+      "return_one_year": 23.913981,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001IQ8M",
+      "fund": "Tata Focused Equity Fund Regular Growth",
+      "return_one_year": 23.913981,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001IQ8L",
+      "fund": "Tata Focused Equity Fund Direct Dividend Sweep",
+      "return_one_year": 26.050649999999997,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001784T",
+      "fund": "Tata India Consumer Fund Direct Dividend Payout",
+      "return_one_year": 33.59228,
+      "return_five_year": 12.67482
+    },
+    {
+      "symbol": "0P0001I34U",
+      "fund": "Tata Corporate Bond Fund Regular Plan Weekly Dividend Segregated Portfolio 1 Reinvestment",
+      "return_one_year": 116.53866,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P00017850",
+      "fund": "Tata India Pharma - Healthcare Fund Regular Dividend Payout",
+      "return_one_year": 16.751189999999998,
+      "return_five_year": 15.436020000000001
+    },
+    {
+      "symbol": "0P0001BBDB",
+      "fund": "Tata India Consumer Fund Regular Dividend Reinvestment",
+      "return_one_year": 31.87174,
+      "return_five_year": 11.125630000000001
+    },
+    {
+      "symbol": "0P0000UDRV",
+      "fund": "Tata Retirement Savings Conservative Fund Growth",
+      "return_one_year": 10.48713,
+      "return_five_year": 6.5924499999999995
+    },
+    {
+      "symbol": "0P0001F9YM",
+      "fund": "Tata Arbitrage Fund Direct Monthly Dividend Sweep",
+      "return_one_year": 6.6911004,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000NQJX",
+      "fund": "Tata AIA Life - Super Select Equity Fund",
+      "return_one_year": 25.566329999999997,
+      "return_five_year": 12.28623
+    },
+    {
+      "symbol": "0P0001J95I",
+      "fund": "Tata Multi Asset Opportunities ",
+      "return_one_year": 18.510629,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001J95K",
+      "fund": "Tata Multi Asset Opportunities ",
+      "return_one_year": 18.510629,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001J95L",
+      "fund": "Tata Multi Asset Opportunities ",
+      "return_one_year": 16.4485,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001J95N",
+      "fund": "Tata Multi Asset Opportunities ",
+      "return_one_year": 16.4485,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001J95M",
+      "fund": "Tata Multi Asset Opportunities ",
+      "return_one_year": 16.4485,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001J95J",
+      "fund": "Tata Multi Asset Opportunities ",
+      "return_one_year": 18.510629,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000NQKC",
+      "fund": "Tata AIA Life - Whole Life Income Fund",
+      "return_one_year": 8.431370000000001,
+      "return_five_year": 7.963620000000001
+    },
+    {
+      "symbol": "0P00017P4O",
+      "fund": "Tata AIA Life Multi Cap Fund",
+      "return_one_year": 30.38534,
+      "return_five_year": 20.79973
+    },
+    {
+      "symbol": "0P00005WGU",
+      "fund": "Tata Dynamic Bond Fund Option Regular Dividend Payout",
+      "return_one_year": 5.28145,
+      "return_five_year": 5.73741
+    },
+    {
+      "symbol": "0P0001BBCT",
+      "fund": "Tata Dynamic Bond Fund Direct Plan Dividend Reinvestment",
+      "return_one_year": 5.6664098,
+      "return_five_year": 6.71467
+    },
+    {
+      "symbol": "0P0000XVOG",
+      "fund": "Tata Dynamic Bond Fund Direct Plan Growth",
+      "return_one_year": 5.6869898,
+      "return_five_year": 6.68972
+    },
+    {
+      "symbol": "0P00005WGT",
+      "fund": "Tata Dynamic Bond Fund Option Regular Growth",
+      "return_one_year": 5.3390898,
+      "return_five_year": 5.765420000000001
+    },
+    {
+      "symbol": "0P0001BBCU",
+      "fund": "Tata Dynamic Bond Fund Option Regular Dividend Reinvestment",
+      "return_one_year": 5.28145,
+      "return_five_year": 5.73741
+    },
+    {
+      "symbol": "0P0000XVOK",
+      "fund": "Tata Dynamic Bond Fund Direct Plan Dividend Payout",
+      "return_one_year": 5.6664098,
+      "return_five_year": 6.71467
+    },
+    {
+      "symbol": "0P0001MAEV",
+      "fund": "Tata Dividend Yield Fund Regula",
+      "return_one_year": 27.80296,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001MAER",
+      "fund": "Tata Dividend Yield Fund Direct",
+      "return_one_year": 30.22746,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001MAEU",
+      "fund": "Tata Dividend Yield Fund Regula",
+      "return_one_year": 27.80296,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001MAEW",
+      "fund": "Tata Dividend Yield Fund Regula",
+      "return_one_year": 27.80296,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001MAES",
+      "fund": "Tata Dividend Yield Fund Direct",
+      "return_one_year": 30.22746,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001MAET",
+      "fund": "Tata Dividend Yield Fund Direct",
+      "return_one_year": 30.22746,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0000NQK7",
+      "fund": "Tata AIA Life - Whole Life Aggressive Growth Fund",
+      "return_one_year": 19.831480000000003,
+      "return_five_year": 13.353280000000002
+    },
+    {
+      "symbol": "0P0000XVOJ",
+      "fund": "Tata Large - Mid Cap Fund Direct Plan Growth",
+      "return_one_year": 34.56456,
+      "return_five_year": 16.343701
+    },
+    {
+      "symbol": "0P00005WGY",
+      "fund": "Tata Large - Mid Cap Fund Regular Growth",
+      "return_one_year": 33.10559,
+      "return_five_year": 15.303040000000001
+    },
+    {
+      "symbol": "0P00005WGX",
+      "fund": "Tata Large - Mid Cap Fund Regular Dividend Payout",
+      "return_one_year": 33.028999999999996,
+      "return_five_year": 14.765220000000001
+    },
+    {
+      "symbol": "0P0001BBCW",
+      "fund": "Tata Large - Mid Cap Fund Regular Dividend Reinvestment",
+      "return_one_year": 33.028999999999996,
+      "return_five_year": 14.765220000000001
+    },
+    {
+      "symbol": "0P0001BBCV",
+      "fund": "Tata Large - Mid Cap Fund Direct Plan Dividend Reinvestment",
+      "return_one_year": 34.654677,
+      "return_five_year": 15.943060000000001
+    },
+    {
+      "symbol": "0P0000XVOO",
+      "fund": "Tata Large - Mid Cap Fund Direct Plan Dividend Payout",
+      "return_one_year": 34.654677,
+      "return_five_year": 15.943060000000001
+    },
+    {
+      "symbol": "0P0001BBDP",
+      "fund": "Tata Large Cap Fund Dividend Reinvestment",
+      "return_one_year": 24.62206,
+      "return_five_year": 11.69905
+    },
+    {
+      "symbol": "0P0000XVPD",
+      "fund": "Tata Large Cap Fund Direct Plan Growth",
+      "return_one_year": 26.04032,
+      "return_five_year": 12.80272
+    },
+    {
+      "symbol": "0P00005UWW",
+      "fund": "Tata Large Cap Fund Dividend Payout",
+      "return_one_year": 24.62206,
+      "return_five_year": 11.69905
+    },
+    {
+      "symbol": "0P0000XVPC",
+      "fund": "Tata Large Cap Fund Direct Plan Dividend Payout",
+      "return_one_year": 26.120179999999998,
+      "return_five_year": 12.805430000000001
+    },
+    {
+      "symbol": "0P0001BBDO",
+      "fund": "Tata Large Cap Fund Direct Plan Dividend Reinvestment",
+      "return_one_year": 26.120179999999998,
+      "return_five_year": 12.805430000000001
+    },
+    {
+      "symbol": "0P00005UWX",
+      "fund": "Tata Large Cap Fund Growth",
+      "return_one_year": 24.69824,
+      "return_five_year": 11.72279
+    },
+    {
+      "symbol": "0P0001MP8O",
+      "fund": "Tata Floating Rate Fund Regular",
+      "return_one_year": 6.52909,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001MP8H",
+      "fund": "Tata Floating Rate Fund Direct ",
+      "return_one_year": 6.98918,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001MP8G",
+      "fund": "Tata Floating Rate Fund Direct ",
+      "return_one_year": 6.98918,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001MP8N",
+      "fund": "Tata Floating Rate Fund Regular",
+      "return_one_year": 6.52909,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001MP8F",
+      "fund": "Tata Floating Rate Fund Direct ",
+      "return_one_year": 6.98918,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001MP8I",
+      "fund": "Tata Floating Rate Fund Direct ",
+      "return_one_year": 6.98918,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001MP8Q",
+      "fund": "Tata Floating Rate Fund Regular",
+      "return_one_year": 6.52909,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001MP8J",
+      "fund": "Tata Floating Rate Fund Direct ",
+      "return_one_year": 6.98918,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001MP8S",
+      "fund": "Tata Floating Rate Fund Regular",
+      "return_one_year": 6.52909,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001MP8M",
+      "fund": "Tata Floating Rate Fund Regular",
+      "return_one_year": 6.52909,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001MP8R",
+      "fund": "Tata Floating Rate Fund Regular",
+      "return_one_year": 6.52909,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001MP8P",
+      "fund": "Tata Floating Rate Fund Regular",
+      "return_one_year": 6.52909,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001MP8L",
+      "fund": "Tata Floating Rate Fund Direct ",
+      "return_one_year": 6.98918,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001MP8K",
+      "fund": "Tata Floating Rate Fund Direct ",
+      "return_one_year": 6.98918,
+      "return_five_year": 0.0
+    }
+  ]
+  

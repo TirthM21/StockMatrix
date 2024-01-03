@@ -1,0 +1,309 @@
+[
+    {
+      "symbol": "0P0000XW85",
+      "fund": "HDFC Long Term Advantage Fund -Direct Plan - Growth Option",
+      "return_one_year": 36.065960000000004,
+      "return_five_year": 18.781531
+    },
+    {
+      "symbol": "0P0001BA86",
+      "fund": "HDFC Long Term Advantage Fund -Direct Plan Dividend Reinvestment Option",
+      "return_one_year": 36.12434,
+      "return_five_year": 18.31436
+    },
+    {
+      "symbol": "0P00005V0J",
+      "fund": "HDFC Long Term Advantage Fund Dividend Payout",
+      "return_one_year": 35.56629,
+      "return_five_year": 17.61549
+    },
+    {
+      "symbol": "0P0000XW84",
+      "fund": "HDFC Long Term Advantage Fund -Direct Plan Dividend Payout Option",
+      "return_one_year": 36.12434,
+      "return_five_year": 18.31436
+    },
+    {
+      "symbol": "0P0001BA87",
+      "fund": "HDFC Long Term Advantage Fund Dividend Reinvestment",
+      "return_one_year": 35.56629,
+      "return_five_year": 17.61549
+    },
+    {
+      "symbol": "0P00005V0K",
+      "fund": "HDFC Long Term Advantage Fund Growth",
+      "return_one_year": 35.50505,
+      "return_five_year": 18.11385
+    },
+    {
+      "symbol": "0P0001E1W2",
+      "fund": "IDBI Long Term Value Fund Direct Growth",
+      "return_one_year": 24.303620000000002,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001FAJJ",
+      "fund": "Shriram Long Term Equity Fund Regular Dividend Payout",
+      "return_one_year": 20.133630999999998,
+      "return_five_year": 0.0
+    },
+    {
+      "symbol": "0P0001BADE",
+      "fund": "ICICI Prudential Long Term Bond Fund Direct Plan Annual Dividend Reinvestment",
+      "return_one_year": -1.04351,
+      "return_five_year": 4.28792
+    },
+    {
+      "symbol": "0P00014GHM",
+      "fund": "ICICI Prudential Long Term Bond Fund Direct Plan Annual Dividend Payout",
+      "return_one_year": -1.04351,
+      "return_five_year": 4.28792
+    },
+    {
+      "symbol": "0P00005UMU",
+      "fund": "ICICI Prudential Long Term Bond Fund Half Yearly Dividend Payout",
+      "return_one_year": -0.20277998,
+      "return_five_year": 4.20631
+    },
+    {
+      "symbol": "0P00005UMX",
+      "fund": "ICICI Prudential Long Term Bond Fund Quarterly Dividend Payout",
+      "return_one_year": 7.674339400000001,
+      "return_five_year": 5.5703000000000005
+    },
+    {
+      "symbol": "0P00015DM0",
+      "fund": "ICICI Prudential Long Term Bond Fund Annual Dividend Payout",
+      "return_one_year": -0.05556,
+      "return_five_year": 4.1165899999999995
+    },
+    {
+      "symbol": "0P0000XUXZ",
+      "fund": "ICICI Prudential Long Term Bond Fund Direct Plan Growth",
+      "return_one_year": 10.903459999999999,
+      "return_five_year": 7.8435995
+    },
+    {
+      "symbol": "0P0000Y0I4",
+      "fund": "ICICI Prudential Long Term Bond Fund Direct Plan Half Yearly Dividend Payout",
+      "return_one_year": 0.35072,
+      "return_five_year": 4.712870000000001
+    },
+    {
+      "symbol": "0P0000XUXY",
+      "fund": "ICICI Prudential Long Term Bond Fund Direct Plan Quarterly Dividend Payout",
+      "return_one_year": 7.31029,
+      "return_five_year": 5.8689
+    },
+    {
+      "symbol": "0P00005UMW",
+      "fund": "ICICI Prudential Long Term Bond Fund Growth",
+      "return_one_year": 10.331330399999999,
+      "return_five_year": 7.246080000000001
+    },
+    {
+      "symbol": "0P0001BADD",
+      "fund": "ICICI Prudential Long Term Bond Fund Annual Dividend Reinvestment",
+      "return_one_year": -0.05556,
+      "return_five_year": 4.1165899999999995
+    },
+    {
+      "symbol": "0P0001BADG",
+      "fund": "ICICI Prudential Long Term Bond Fund Direct Plan Quarterly Dividend Reinvestment",
+      "return_one_year": 7.31029,
+      "return_five_year": 5.8689
+    },
+    {
+      "symbol": "0P0001BADS",
+      "fund": "ICICI Prudential Long Term Bond Fund Quarterly Dividend Reinvestment",
+      "return_one_year": 7.674339400000001,
+      "return_five_year": 5.5703000000000005
+    },
+    {
+      "symbol": "0P0001BADF",
+      "fund": "ICICI Prudential Long Term Bond Fund Direct Plan Half Yearly Dividend Reinvestment",
+      "return_one_year": 0.35072,
+      "return_five_year": 4.712870000000001
+    },
+    {
+      "symbol": "0P0001BADH",
+      "fund": "ICICI Prudential Long Term Bond Fund Half Yearly Dividend Reinvestment",
+      "return_one_year": -0.20277998,
+      "return_five_year": 4.20631
+    },
+    {
+      "symbol": "0P0001BADY",
+      "fund": "ICICI Prudential Long Term Equity Fund (Tax Saving) Dividend Reinvestment",
+      "return_one_year": 19.17814,
+      "return_five_year": 10.48701
+    },
+    {
+      "symbol": "0P0000XUZ3",
+      "fund": "ICICI Prudential Long Term Equity Fund (Tax Saving) Direct Plan Dividend Payout",
+      "return_one_year": 21.800949,
+      "return_five_year": 12.04056
+    },
+    {
+      "symbol": "0P00005WD6",
+      "fund": "ICICI Prudential Long Term Equity Fund (Tax Saving) Dividend Payout",
+      "return_one_year": 19.17814,
+      "return_five_year": 10.48701
+    },
+    {
+      "symbol": "0P0000XUZ4",
+      "fund": "ICICI Prudential Long Term Equity Fund (Tax Saving) Direct Plan Growth",
+      "return_one_year": 24.293830999999997,
+      "return_five_year": 13.157329
+    },
+    {
+      "symbol": "0P00005WD7",
+      "fund": "ICICI Prudential Long Term Equity Fund (Tax Saving) Growth",
+      "return_one_year": 23.501419000000002,
+      "return_five_year": 12.3365805
+    },
+    {
+      "symbol": "0P0001BADX",
+      "fund": "ICICI Prudential Long Term Equity Fund (Tax Saving) Direct Plan Dividend Reinvestment",
+      "return_one_year": 21.800949,
+      "return_five_year": 12.04056
+    },
+    {
+      "symbol": "0P0001BBI3",
+      "fund": "UTI Long Term Equity Fund - Regular Plan - Dividend Reinvestment",
+      "return_one_year": 22.983259,
+      "return_five_year": 11.538640000000001
+    },
+    {
+      "symbol": "0P0001BBI2",
+      "fund": "UTI Long Term Equity Fund Direct Income Reinvestment",
+      "return_one_year": 24.263309,
+      "return_five_year": 12.758159999999998
+    },
+    {
+      "symbol": "0P0000XVSV",
+      "fund": "UTI Long Term Equity Fund Direct Income Payout",
+      "return_one_year": 24.263309,
+      "return_five_year": 12.758159999999998
+    },
+    {
+      "symbol": "0P0000XVSQ",
+      "fund": "UTI Long Term Equity Fund - Growth Option - Direct",
+      "return_one_year": 24.263069,
+      "return_five_year": 13.092901000000001
+    },
+    {
+      "symbol": "0P00005UYK",
+      "fund": "UTI Long Term Equity Fund - Regular Plan - Dividend Payout",
+      "return_one_year": 22.983259,
+      "return_five_year": 11.538640000000001
+    },
+    {
+      "symbol": "0P00005UYL",
+      "fund": "UTI Long Term Equity Fund - Regular Plan - Growth",
+      "return_one_year": 22.9834,
+      "return_five_year": 12.02318
+    },
+    {
+      "symbol": "0P0000XVZI",
+      "fund": "BNP Paribas Long Term Equity Fund Direct Plan Growth Option",
+      "return_one_year": 25.216630000000002,
+      "return_five_year": 12.55181
+    },
+    {
+      "symbol": "0P0001B9QO",
+      "fund": "BNP Paribas Long Term Equity Fund Dividend Reinvestment",
+      "return_one_year": 22.893069999999998,
+      "return_five_year": 10.151449999999999
+    },
+    {
+      "symbol": "0P00005X1J",
+      "fund": "BNP Paribas Long Term Equity Fund Dividend Payout",
+      "return_one_year": 22.893069999999998,
+      "return_five_year": 10.151449999999999
+    },
+    {
+      "symbol": "0P0001B9QN",
+      "fund": "BNP Paribas Long Term Equity Fund Direct Plan Dividend Reinvestment Option",
+      "return_one_year": 24.39055,
+      "return_five_year": 11.557580000000002
+    },
+    {
+      "symbol": "0P00005X1I",
+      "fund": "BNP Paribas Long Term Equity Fund Growth",
+      "return_one_year": 23.70371,
+      "return_five_year": 11.1881904
+    },
+    {
+      "symbol": "0P0000XVZH",
+      "fund": "BNP Paribas Long Term Equity Fund Direct Plan Dividend Payout Option",
+      "return_one_year": 24.39055,
+      "return_five_year": 11.557580000000002
+    },
+    {
+      "symbol": "0P0001BB1P",
+      "fund": "Quantum Long Term Equity Value Fund Direct Dividend Reinvestment",
+      "return_one_year": 22.367291,
+      "return_five_year": 9.7640604
+    },
+    {
+      "symbol": "0P0001A3F6",
+      "fund": "Quantum Long Term Equity Value Fund Regular Plan Dividend Payout Option",
+      "return_one_year": 21.764020000000002,
+      "return_five_year": 9.25026
+    },
+    {
+      "symbol": "0P0001A3F7",
+      "fund": "Quantum Long Term Equity Value Fund Regular Plan Growth Option",
+      "return_one_year": 21.753249999999998,
+      "return_five_year": 9.26594
+    },
+    {
+      "symbol": "0P0001BB1Q",
+      "fund": "Quantum Long Term Equity Value Fund Regular Plan Dividend Reinvestment Option",
+      "return_one_year": 21.764020000000002,
+      "return_five_year": 9.25026
+    },
+    {
+      "symbol": "0P00005WDF",
+      "fund": "Quantum Long Term Equity Value Fund Direct Dividend Payout",
+      "return_one_year": 22.367291,
+      "return_five_year": 9.7640604
+    },
+    {
+      "symbol": "0P00005WDG",
+      "fund": "Quantum Long Term Equity Value Fund Direct Growth",
+      "return_one_year": 22.37013,
+      "return_five_year": 9.763279599999999
+    },
+    {
+      "symbol": "0P0000NQBL",
+      "fund": "Bajaj Allianz Life - LifeLong Gain",
+      "return_one_year": 6.416180000000001,
+      "return_five_year": 4.711
+    },
+    {
+      "symbol": "0P00015QES",
+      "fund": "SBI Long Term Advantage Fund Series II Direct Dividend",
+      "return_one_year": 24.37208,
+      "return_five_year": 17.261049
+    },
+    {
+      "symbol": "0P0000UJ5X",
+      "fund": "Union Long Term Equity Fund Growth",
+      "return_one_year": 25.62278,
+      "return_five_year": 14.17667
+    },
+    {
+      "symbol": "0P0000YWL0",
+      "fund": "Parag Parikh Long Term Equity Regular Growth",
+      "return_one_year": 26.965410000000002,
+      "return_five_year": 17.808649
+    },
+    {
+      "symbol": "0P0001I1NF",
+      "fund": "ITI Long Term Equity Fund Direct Growth",
+      "return_one_year": 30.23404,
+      "return_five_year": 0.0
+    }
+  ]
+  

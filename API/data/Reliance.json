@@ -1,0 +1,321 @@
+[
+    {
+      "symbol": "0P0000NPK3",
+      "fund": "Reliance Life Equity Fund 3",
+      "return_one_year": 22.600439,
+      "return_five_year": 10.6369495
+    },
+    {
+      "symbol": "0P0000NPLO",
+      "fund": "Reliance Life Equity Fund 2",
+      "return_one_year": 22.2441,
+      "return_five_year": 10.50737
+    },
+    {
+      "symbol": "0P0000NPLN",
+      "fund": "Reliance Life Corporate Bond Fund 1",
+      "return_one_year": 8.218741,
+      "return_five_year": 6.16287
+    },
+    {
+      "symbol": "0P0000NPLT",
+      "fund": "Reliance Life Money Market Fund 1",
+      "return_one_year": 4.7430202,
+      "return_five_year": 2.5985898
+    },
+    {
+      "symbol": "0P0000NPOZ",
+      "fund": "Reliance Life Equity Fund 1",
+      "return_one_year": 22.35113,
+      "return_five_year": 10.43099
+    },
+    {
+      "symbol": "0P0000SDFX",
+      "fund": "Reliance Life Highest NAV Advantage 1",
+      "return_one_year": 6.03577,
+      "return_five_year": -0.38349
+    },
+    {
+      "symbol": "0P0000NPOW",
+      "fund": "Reliance Life Balanced Fund 1",
+      "return_one_year": 11.074100000000001,
+      "return_five_year": 7.06112
+    },
+    {
+      "symbol": "0P0000TGKA",
+      "fund": "Reliance Group Corporate Bond Fund 2",
+      "return_one_year": 8.52472,
+      "return_five_year": 7.4986999999999995
+    },
+    {
+      "symbol": "0P0000NPLG",
+      "fund": "Reliance Pension Equity Fund 2",
+      "return_one_year": 22.100501,
+      "return_five_year": 10.555810000000001
+    },
+    {
+      "symbol": "0P0000NPOL",
+      "fund": "Reliance Pension Equity Fund 1",
+      "return_one_year": 22.24796,
+      "return_five_year": 10.27395
+    },
+    {
+      "symbol": "0P0000NPLP",
+      "fund": "Reliance Life Gilt Fund 1",
+      "return_one_year": 9.36434,
+      "return_five_year": 7.09473
+    },
+    {
+      "symbol": "0P0000NPKJ",
+      "fund": "Reliance Life Midcap Fund 2",
+      "return_one_year": 33.71112,
+      "return_five_year": 12.65594
+    },
+    {
+      "symbol": "0P0000NPOV",
+      "fund": "Reliance Life Pure Debt Fund 1",
+      "return_one_year": 8.187959,
+      "return_five_year": 6.34941
+    },
+    {
+      "symbol": "0P0000TGKD",
+      "fund": "Reliance Group Money Market Fund 2",
+      "return_one_year": 5.03437,
+      "return_five_year": 3.22406
+    },
+    {
+      "symbol": "0P0000TGKB",
+      "fund": "Reliance Group Equity Fund 3",
+      "return_one_year": 23.00155,
+      "return_five_year": 11.27674
+    },
+    {
+      "symbol": "0P0000NPLQ",
+      "fund": "Reliance Life Midcap Fund 1",
+      "return_one_year": 33.188832000000005,
+      "return_five_year": 12.139940000000001
+    },
+    {
+      "symbol": "0P0000NPO6",
+      "fund": "Reliance Life Super Growth Fund 1",
+      "return_one_year": 19.61176,
+      "return_five_year": 10.8689
+    },
+    {
+      "symbol": "0P0000YAJF",
+      "fund": "Reliance Pension Equity Fund 3",
+      "return_one_year": 22.23436,
+      "return_five_year": 10.846649999999999
+    },
+    {
+      "symbol": "0P0000NPLR",
+      "fund": "Reliance Life Infrastructure Fund 1",
+      "return_one_year": 22.66933,
+      "return_five_year": 11.05747
+    },
+    {
+      "symbol": "0P0000XU6G",
+      "fund": "Reliance Life Highest NAV Advantage Fund Series 2",
+      "return_one_year": 6.09769,
+      "return_five_year": -0.57328
+    },
+    {
+      "symbol": "0P0000NPP0",
+      "fund": "Reliance Life Growth Fund 1",
+      "return_one_year": 13.16257,
+      "return_five_year": 8.13929
+    },
+    {
+      "symbol": "0P0000NPLM",
+      "fund": "Reliance Life Energy Fund 1",
+      "return_one_year": 23.16158,
+      "return_five_year": 14.787798999999998
+    },
+    {
+      "symbol": "0P0000NPL8",
+      "fund": "Reliance Life Growth Fund 2",
+      "return_one_year": 13.745899999999999,
+      "return_five_year": 8.706750000000001
+    },
+    {
+      "symbol": "0P0000NPKL",
+      "fund": "Reliance Pension Pure Equity Fund 2",
+      "return_one_year": 22.15498,
+      "return_five_year": 11.773380999999999
+    },
+    {
+      "symbol": "0P0000NPN0",
+      "fund": "Reliance Health Equity Fund 1",
+      "return_one_year": 22.259301,
+      "return_five_year": 10.746459999999999
+    },
+    {
+      "symbol": "0P0000NPLH",
+      "fund": "Reliance Pension Growth Fund 1",
+      "return_one_year": 12.963219,
+      "return_five_year": 8.174710000000001
+    },
+    {
+      "symbol": "0P0000NPKI",
+      "fund": "Reliance Life Infrastructure Fund 2",
+      "return_one_year": 23.457639999999998,
+      "return_five_year": 11.362540000000001
+    },
+    {
+      "symbol": "0P0000TGK9",
+      "fund": "Reliance Group Balanced Fund 2",
+      "return_one_year": 10.9455794,
+      "return_five_year": 8.296489999999999
+    },
+    {
+      "symbol": "0P0000NPKK",
+      "fund": "Reliance Pension Money Market Fund 2",
+      "return_one_year": 4.54392,
+      "return_five_year": 2.44374
+    },
+    {
+      "symbol": "0P0000NPK6",
+      "fund": "Reliance Life Energy Fund 2",
+      "return_one_year": 23.418261,
+      "return_five_year": 15.00171
+    },
+    {
+      "symbol": "0P0000NPOX",
+      "fund": "Reliance Life Capital Secure Fund 1",
+      "return_one_year": 4.4178500000000005,
+      "return_five_year": 3.46101
+    },
+    {
+      "symbol": "0P0000NPOJ",
+      "fund": "Reliance Pension Capital Secure Fund 1",
+      "return_one_year": 4.32884,
+      "return_five_year": 3.44727
+    },
+    {
+      "symbol": "0P0000NPKH",
+      "fund": "Reliance Pension Growth Fund 2",
+      "return_one_year": 13.19126,
+      "return_five_year": 8.3223894
+    },
+    {
+      "symbol": "0P0000NPM6",
+      "fund": "Reliance Life Money Market Fund 2",
+      "return_one_year": 4.50103,
+      "return_five_year": 2.67871
+    },
+    {
+      "symbol": "0P0000NPMZ",
+      "fund": "Reliance Health Super Growth Fund 1",
+      "return_one_year": 19.332490999999997,
+      "return_five_year": 10.551561
+    },
+    {
+      "symbol": "0P0000NPN1",
+      "fund": "Reliance Health Growth Plus Fund 1",
+      "return_one_year": 14.712430000000001,
+      "return_five_year": 8.59357
+    },
+    {
+      "symbol": "0P0000NPKN",
+      "fund": "Reliance Life Corporate Bond Fund 2",
+      "return_one_year": 7.476380000000001,
+      "return_five_year": 6.70139
+    },
+    {
+      "symbol": "0P0000NPK7",
+      "fund": "Reliance Life Super Growth Fund 2",
+      "return_one_year": 18.49187,
+      "return_five_year": 10.44346
+    },
+    {
+      "symbol": "0P0000TGK0",
+      "fund": "Reliance Group Growth Fund 1",
+      "return_one_year": 13.42276,
+      "return_five_year": 8.94083
+    },
+    {
+      "symbol": "0P0000NPM4",
+      "fund": "Reliance Life Gilt Fund 2",
+      "return_one_year": 8.46824,
+      "return_five_year": 7.0877
+    },
+    {
+      "symbol": "0P0000NPMY",
+      "fund": "Reliance Health Corporate Bond Fund 1",
+      "return_one_year": 7.1240499999999995,
+      "return_five_year": 6.3073404
+    },
+    {
+      "symbol": "0P0000NPN2",
+      "fund": "Reliance Health Gilt Fund 1",
+      "return_one_year": 8.28092,
+      "return_five_year": 6.860760000000001
+    },
+    {
+      "symbol": "0P0000TGKS",
+      "fund": "Reliance Group Pure Equity Fund 1",
+      "return_one_year": 21.53422,
+      "return_five_year": 11.29214
+    },
+    {
+      "symbol": "0P0000TGKC",
+      "fund": "Reliance Group Gilt Fund 2",
+      "return_one_year": 8.86965,
+      "return_five_year": 7.441730000000001
+    },
+    {
+      "symbol": "0P0000NPN4",
+      "fund": "Reliance Health Money Market Fund 1",
+      "return_one_year": 4.2848803,
+      "return_five_year": 2.37508
+    },
+    {
+      "symbol": "0P0000NPN5",
+      "fund": "Reliance Health Pure Equity Fund 1",
+      "return_one_year": 21.61047,
+      "return_five_year": 11.4089295
+    },
+    {
+      "symbol": "0P0000NPN3",
+      "fund": "Reliance Health Midcap Fund 1",
+      "return_one_year": 32.288942,
+      "return_five_year": 11.44137
+    },
+    {
+      "symbol": "0P0000TGK2",
+      "fund": "Reliance Group MidCap Fund 1",
+      "return_one_year": 32.482052,
+      "return_five_year": 11.68764
+    },
+    {
+      "symbol": "0P0000NPMW",
+      "fund": "Reliance Health Infrastructure Fund 1",
+      "return_one_year": 22.08564,
+      "return_five_year": 10.76793
+    },
+    {
+      "symbol": "0P0000NPMX",
+      "fund": "Reliance Health Energy Fund 1",
+      "return_one_year": 22.53085,
+      "return_five_year": 14.66827
+    },
+    {
+      "symbol": "0P0000TGK1",
+      "fund": "Reliance Gropu Infrastructure Fund 1",
+      "return_one_year": 21.054488,
+      "return_five_year": 12.1336006
+    },
+    {
+      "symbol": "0P0000TGKL",
+      "fund": "Reliance Group Energy Fund 1",
+      "return_one_year": 22.43038,
+      "return_five_year": 15.755320000000001
+    },
+    {
+      "symbol": "0P0000TGJZ",
+      "fund": "Reliance Group Capital Secure 1",
+      "return_one_year": 5.27745,
+      "return_five_year": 4.22364
+    }
+  ]
+  
