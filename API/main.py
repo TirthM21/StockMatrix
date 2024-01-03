@@ -117,13 +117,13 @@ async def request_func(url, session):
 @app.get("/stock/details/all/{symbol}")
 async def read_stock_details(symbol: str):
     urls=[
-        "https://scripvault-stock-api.onrender.com/stock/income/statement/"+symbol,
-        "https://scripvault-stock-api.onrender.com/stock/balancesheet/"+symbol,
-        "https://scripvault-stock-api.onrender.com/stock/cash/flow/"+symbol,
-        "https://scripvault-stock-api.onrender.com/stocks/suggestion/"+symbol,
-        "https://scripvault-stock-api.onrender.com/stock/info/"+symbol,
-        "https://scripvault-stock-api.onrender.com/stock/currentprice/"+symbol,
-        "https://scripvault-stock-api.onrender.com/stock/financial/ratios/"+symbol,
+        "https://stockapi-rasp.onrender.com/stock/income/statement/"+symbol,
+        "https://stockapi-rasp.onrender.com/stock/balancesheet/"+symbol,
+        "https://stockapi-rasp.onrender.com/stock/cash/flow/"+symbol,
+        "https://stockapi-rasp.onrender.com/stocks/suggestion/"+symbol,
+        "https://stockapi-rasp.onrender.com/stock/info/"+symbol,
+        "https://stockapi-rasp.onrender.com/stock/currentprice/"+symbol,
+        "https://stockapi-rasp.onrender.com/stock/financial/ratios/"+symbol,
     ]
     
     async with aiohttp.ClientSession() as session:
